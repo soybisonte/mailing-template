@@ -1,0 +1,653 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2" />
+    <meta name="viewport" content="width=device-width" />
+    <title>BBVA</title>
+    <style type="text/css">
+        .fuente {
+            font-family: Helvetica, Arial, sans-serif;
+            text-decoration: none;
+            word-wrap: normal;
+            hyphens: none;
+        }
+
+        .font2 {
+            color: #ffffff;
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 300;
+        }
+
+        .font1 {
+            color: #121212;
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 300;
+        }
+
+        .font3 {
+            color: #666;
+            font-size: 12px;
+            font-weight: 300;
+        }
+
+        .contacto {
+            color: #1973b8;
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 400;
+            text-align: center;
+            margin: 0
+        }
+
+        .legal {
+            color: #666;
+            font-size: 11px;
+            line-height: 14px;
+            font-weight: 400;
+            margin: 0;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            min-width: 100% !important;
+        }
+
+        img {
+            height: auto;
+        }
+
+        .content {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .pre-header {
+            margin: 25px auto 25px;
+        }
+
+        .header {
+            margin: 25px auto 25px auto;
+        }
+
+        .h3,
+        h1,
+        h2,
+        .bodycopy1 {
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        .h3 {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: left;
+        }
+
+        .h1 {
+            font-size: 20px;
+            line-height: 22px;
+            text-align: left;
+        }
+
+        .h2 {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .bodycopy1 {
+            font-size: 14px;
+            line-height: 22px;
+            font-weight: 300;
+            padding-top: 60px;
+        }
+
+        .margin {
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        .margin2 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 40px;
+            margin-bottom: 32px;
+        }
+
+        .margin3 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 0px;
+            margin-bottom: 32px;
+        }
+
+        .margin4 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 0px;
+            margin-bottom: 40px;
+        }
+
+        .margin5 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 40px;
+            margin-bottom: 0px;
+        }
+
+        .margin6 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 32px;
+            margin-bottom: 40px;
+        }
+
+        .marginalrt {
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        @media(max-width:600px) {
+            .margin {
+                margin-left: 24px !important;
+                margin-right: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin2 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 24px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin3 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 0px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin4 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 0px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin5 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 24px !important;
+                margin-bottom: 0px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin6 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 24px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .marginalrt {
+                margin-left: 0px !important;
+                margin-right: 0px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .marginrss {
+                margin-left: 0px !important;
+                margin-right: 0px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .orderup {
+                display: table-header-group !important;
+            }
+
+            .display {
+
+                display: table !important;
+            }
+        }
+
+        @media(max-width:600px) {
+            .contacto2 {
+                width: 100% !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .contacto3 {
+                text-align: center !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .align {
+                text-align: center !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .contentbody {
+                width: 100%;
+                max-width: 600px;
+            }
+        }
+    </style>
+</head>
+
+<body bgcolor="#efeeed" style="-moz-box-sizing:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;-webkit-text-size-adjust:100%;Margin:0;box-sizing:border-box;margin:0;min-width:100%;padding:0;text-align:left;width:100%!important">
+    <table bgcolor="#efeeed" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 100%;">
+        <tr>
+            <td>
+                <table bgcolor="#efeeed" class="contentbody" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 100%;">
+                    <tr>
+                        <td>
+                            <center>
+                                <!--Preheader-->
+                                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                        <td bgcolor="#efeeed">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:0px;">
+                                                <tr>
+                                                    <td class="pre-header" style="padding: 0 ">
+                                                        <p class="font3 fuente pre-header " style="text-align:center; padding: 25px auto 25px!important;">Notificaci&oacute;n BBVA Seguros
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--//Preheader-->
+                                <!--header-->
+                                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;">
+                                    <tr>
+                                        <td bgcolor="#072146" style="width: 100%;">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;min-width:100%;max-width: 600px; background-color:#072146;  text-align: center;">
+                                                <tr>
+                                                    <td style="padding: 24px ">
+                                                        <a href="https://www.bbva.mx/personas/productos/seguros.html" target="_blank"><img class="header" src="sBBVA_Seguros.png" border="0" alt="BBVA Seguros" style="margin: 0; width: 122px;" />
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--//header-->
+                                <!--Modulo 1-->
+                                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;margin-bottom: 0px">
+                                    <tr>
+                                        <td bgcolor="#ffffff">
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td style="padding: 0 ">
+                                                        <h1 class="fuente margin" style="margin-top: 55px; margin-bottom: 35px;margin-left: 50px; margin-right: 50px;color:#121212;font-size: 20px">
+                                                            Hola, sKZZA-NOMBRE:
+                                                        </h1>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <table border="0" cellpadding="0" cellspacing="0">
+                                                <tr>
+                                                    <td style="padding: 0; margin-bottom: 16px ">
+                                                        <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 35px;margin-left: 50px; margin-right: 50px;">La contrataci&oacute;n de tu seguro  tu <b>Seguro de Vida Express</b> fue exitosa, te compartimos los detalles:
+
+                                                        </p>
+                     </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--//Modulo 1-->
+                                <!--Modulo Alerta-->
+                                
+                                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;margin-bottom: 0px;">
+                                    <tr>
+                                        <td bgcolor="#ffffff">
+                                            <table class="marginalrt" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 35px;margin-left: 50px; margin-right: 50px;">
+                                                <tr>
+                                                    <td bgcolor="#f4f4f4" style="padding: 0 ">
+                                                        <img src="snb_info.png" style="margin: 30px">
+                                                    </td>
+                                                    <td bgcolor="#f4f4f4" style="padding: 0; width: 100% ">
+                                                        <p class="fuente font1" style="margin-top: 30px; margin-bottom: 30px;margin-left: 0px; margin-right: 50px;color:#121212;">
+                                                        N&uacute;mero de p&oacute;liza: sKZZA-POLIZA <br>
+                                                        Coberturas: s1KZZA-COBERT por fallecimiento y s2KZZA-COBERT adicionales en caso de muerte accidental.
+                                                        </p>
+                                                    </td>
+                                                </tr>
+
+                                            </table>
+
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <!--//Modulo Alerta-->
+
+                                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;margin-bottom: 0px">
+                                    <tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                                <tr>
+                                                    <td style="padding: 0; margin-bottom: 16px ">
+                                                        <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 35px;margin-left: 50px; margin-right: 50px;">
+                                                            Tus beneficiarios recibir&aacute;n recibir&aacute;n el dinero en una sola exhibici&oacute;n sin presentar comprobantes de gastos.
+                                                            <br><br>
+                                                            Puedes descargar tu p&oacute;liza en <a href="https://www.bbva.mx/personas/productos/seguros.html" target="_blank" style="color: #237aba;text-decoration: none;word-wrap: break-word;font-weight: 700;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">www.bbvaseguros.mx</a>, solicitarla al <a href="mailto:sac.seguros.mx@bbva.com" target="_blank" style="color: #237aba;text-decoration: none;word-wrap: break-word;font-weight: 700;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">sac.seguros.mx@bbva.com</a> o llama de lunes a viernes de 8:30 a 19:00hrs al <a href="tel:55-1102-0000" target="_blank" style="color: #237aba;text-decoration: none;word-wrap: break-word;font-weight: 700;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">55 1102 0000</a>.
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--//Modulo 2-->
+                                <!--CTA-->
+
+                                <!-- CTA-->
+                                <!--Modulo 2-->
+                                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;margin-bottom: 28px;">
+                                    <tr>
+                                        <td bgcolor="#ffffff">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                                <tr>
+                                                    <td style="padding: 0; margin-bottom: 16px;">
+
+                                                        <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 55px;margin-left: 50px; margin-right: 50px;">
+                                                            Saludos,
+                                                            <br><br>
+                                                            sEquipo.
+
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!--//Modulo 2-->
+                                
+                <!--Banner 1-->
+                <table bgcolor="#004481" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;">
+                    <tr>
+                        <td bgcolor="#004481">
+                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <a href="https://www.bbva.mx/" target="_blank"><img src="sSeguroVidaExpress.png" border="0" alt="BBVA" style="width: 100%;margin-bottom: 0px;" />
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--//Banner 1-->
+                <!--Modulo 3-->
+                <table bgcolor="#004481" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;margin-bottom: 28px">
+                    <tr>
+                        <td bgcolor="#004481">
+                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <h2 style="margin-top: 40px; margin-bottom: 16px; color:#ffffff;">
+                                            TIPS:
+                                        </h2>
+                                    </td>
+                                </tr>
+                            </table>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <ul class="fuente font2 margin" style="text-align: left; margin-top: 0px; margin-bottom: 16px;color:#ffffff; margin: 0 140px 16px 140px; padding-left: 30px">
+                                            <li>Valida tus datos personales en la p&oacute;liza</li>
+                                            <li>Informa a tus familiares sobre esta p&oacute;liza.</li>
+                                            <li>Lee a continuaci&oacute;n las condiciones generales y conoce tus beneficios</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <table cellspacing="0" cellpadding="0" style="display: inline-block; margin-bottom: 40px">
+                                            <tbody>
+                                                <tr>
+                                                    <td align="left">
+
+                                                        <a href="https://www.bbva.mx/personas/productos/seguros/vida/seguro-de-vida-express.html" target="_blank" style="text-decoration: none">
+                                                            <p class="fuente font2" style="margin: 0; font-weight: 700;color:#ffffff ">M&aacute;s informaci&oacute;n &rsaquo;</p>
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--//Modulo 3-->
+                                
+                                
+                <!--Caja leyenda-->
+                                <table bgcolor="#eaf9fa" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;margin-bottom: 28px">
+                                    <tr>
+                                        <td bgcolor="#eaf9fa">
+                                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; padding: 38px 40px 28px;">
+                                                <tr>
+                                                <td><img data-brackets-id="2316" style="float:left; margin-right:30px; margin-left: 30px;margin-bottom: 40px;margin-top: 20px; width: auto" alt="" src="sBBVA-alert.png">
+                                                </td>
+                                                <td>
+                                                    <p data-brackets-id="2317" class="fuente font1" style="margin-top: 0px;color: #121212; font-weight: 300"> Para reportar un siniestro tus beneficiaros deber&aacute;n llamar al Centro de atenci&oacute;n a siniestros las 24 h y los 365 d&iacute;as:<br><br><a href="tel:sNumeroSiniestros" target="_blank" style="Margin:0;color:#1973B8;font-family:Helvetica,Arial,sans-serif;font-weight:700;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none">
+                                                                sNumeroSiniestros
+                                                            &rsaquo;</a></p>
+                                                </td>
+                                        
+                                    </tr>
+                                </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--//Caja Leyenda-->                
+                                
+                                
+                <!--Necesitas ayuda-->
+                <!-- CRSSA -->
+<table bgcolor="#ffffff" class="content module" id="crssa" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom:0px;max-width: 600px;">
+    <tbody><tr>
+        <td bgcolor="#ffffff">
+            <table align="center" border="0" cellpadding="0" cellspacing="0" style="padding: 24px 30px 24px 30px;width: 100%" bgcolor="#ffffff">
+                <tbody><tr>
+                    <td class="contacto2" style="display: inline-block;padding: 0; width:49%;" bgcolor="#ffffff">
+                        <a href="https://bbva.info/2y4AbWs" target="_blank" style="text-decoration: none">
+                            <p class="fuente contacto contacto3 edicion" style="color:#1973b8; text-align: center;margin: 0;">Usa la app sApp</p>
+                        </a>
+                    </td>
+                    <td class="contacto2" style="display: inline-block;padding: 0; width: 49%;" bgcolor="#ffffff">
+                        <a href="https://portal.bbva.mx/aplicativos/buscador-sucursales/index.jsp" target="_blank" style="text-decoration: none">
+                            <p class="fuente contacto contacto3 edicion" style="color:#1973b8; text-align: center;margin: 0;">Busca una sucursal</p>
+                        </a>
+                    </td>
+                </tr>
+            </tbody></table>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom:0px;max-width: 600px;">
+                <tbody><tr>
+                    <td style="padding:0px" align="center">
+                        <table cellspacing="0" cellpadding="0" style="display: inline-block; margin-bottom: 24px">
+                            <tbody>
+                                <tr>
+                                    <td align="center">
+                                        <p class="fuente font1 edicion" style="text-align: center;margin-top: 0;margin-bottom: 16px">S&iacute;guenos en:</p>
+                                        <a href="sFacebookRedSocialSeguros" target="_blank" style="text-decoration: none!important;"> 
+                                            <img alt="facebook" src="sfacebook.png" style="width: 24px; max-width: 24px; margin-right: 6px;text-decoration: none;">
+                                        </a>
+                                        <a href="sTwitterRedSocialSeguros" target="_blank" style="text-decoration: none!important;"> 
+                                            <img alt="twitter" src="stwitter.png" style="width: 24px; max-width: 24px;margin-left: 6px;text-decoration: mone!important;">
+                                        </a>   
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody>
+</table>
+
+                
+                <!--Unsuscribe y Razon social-->
+                <table bgcolor="#f4f4f4" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;">
+                    <tr>
+                        <td bgcolor="#f4f4f4">
+
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <p class="fuente font1 margin2" style="text-align: center;margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 32px;font-weight: 300;color:#121212;font-size: 13px; line-height: 17px ; ">Este correo no admite respuestas.</p>
+                                    </td>
+                                </tr>
+                            </table>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;text-align: center">
+                                <tr>
+                                    <td style="padding: 0;">
+                                        <img class="margin3" src="sBBVA-Tagline.png" style="width: 232px;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 32px;" />
+                                    </td>
+                                </tr>
+                            </table>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <table cellspacing="0" cellpadding="0" style="display: inline-block; ">
+                                            <tbody>
+                                                <tr>
+                                                    <td align="center">
+                                                        <p class="fuente font1 margin4" style="text-align: center;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 40px;font-weight: 300;color:#121212!important;font-size: 11px; line-height: 14px ;text-decoration: none!important; ">sDireccionSeguros</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--Unsuscribe y Razon social-->
+                <!--Legales-->
+                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;">
+                    <tr>
+                        <td bgcolor="#ffffff">
+
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <p class="fuente legal margin5" style="margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 0px;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;">Informa a tus familiares de esta p&oacute;liza que has adquirido y comenta con ellos que para iniciar el proceso de reclamaci&oacute;n del seguro deber&aacute;n contar al menos con el n&uacute;mero de p&oacute;liza y acta de defunci&oacute;n.
+                                            <br><br>
+                                            Los beneficiarios son las personas que tu designes, en caso de que no hayas hecho esta designaci&oacute;n, el monto ser&aacute; entregado de acuerdo a tu l&iacute;nea de sucesi&oacute;n es decir en primer lugar a tu c&oacute;nyuge, en su ausencia a los hijos de ambos, en ausencia a los padres del asegurado y en ausencia de alguno de ellos al que sobreviva.
+                                            <br><br>
+                                            Recuerda mantener tu p&oacute;liza al corriente con el pago mensual, as&iacute; garantizar&aacute;s tu cobertura.
+                                            <br><br>
+                                            Producto registrado y operado por Seguros BBVA Bancomer S.A. de C.V., Grupo Financiero BBVA Bancomer.
+                                            <br><br>
+                                            Consulta t&eacute;rminos y condiciones de contrataci&oacute;n de <a href="https://www.bbva.mx/personas/productos/seguros/vida/seguro-de-vida-express.html" target="_blank" class="link apple" style="Margin:0;color:#237aba;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none"><span class="apple-data-link" style="color:inherit!important;text-decoration:none!important"><strong>Seguro de Vida Express</strong></span></a>.  <br><br>
+                                        Este correo electr&oacute;nico constituye una notificaci&oacute;n de los t&eacute;rminos en que se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobante oficial es la p&oacute;liza que emite BBVA Seguros.
+                                        </p>
+
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--NO BORRAR-->
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <p class="fuente legal margin3" style="color:#666;font-size: 11px; line-height: 14px ;font-weight: 400; margin:0;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 0px;">
+                                            <br>
+                                            Puedes consultar el Aviso de Privacidad en cualquier sucursal BBVA o en <a href="sUrlPagina" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">sPagina</a>.
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                            
+                            <table
+                                align="center"
+                                border="0"
+                                cellpadding="0"
+                                cellspacing="0"
+                                style="width: 100%;"
+                              >
+                                <tbody>
+                                  <tr>
+                                    <td
+                                      style="padding: 0; text-align: right; width: 15%"
+                                    >
+                                      <img
+                                        style=" margin-right:0px; margin-left: 0px;margin-bottom: 24px; margin-top: 20px; width: 24px"
+                                        alt=""
+                                        src="sAgenda.png"
+                                      />
+                                    </td>
+                                    <td style="padding: 0; width: 85%; ">
+                                      <p
+                                        class="fuente legal edicionArea"
+                                        style="color:#D8732C;font-size: 11px; line-height: 14px ;font-weight: 400; margin:0; margin-left: 10px; margin-right: 50px; margin-top: 0px; margin-bottom: 32px;text-align: left;"
+                                      >
+                                        <br />
+                                        <br />
+                                        Agr&eacute;ganos a tu lista de contactos
+                                        <a
+                                          href="mailto: clientes@bbva.mx"
+                                          style="color:#D8732C; text-decoration: none;"
+                                          ><b>clientes@bbva.mx</b></a
+                                        >, as&iacute; siempre estar&aacute;s
+                                        informado.
+                                      </p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                <tr>
+                                    <td style="padding: 0 ">
+                                        <p class="fuente legal margin6" style="text-align: right;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 0px;">O03AL</p>
+                                        <p class="fuente legal margin6" style="text-align: right;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;margin-left: 50px; margin-right: 50px; margin-top: 20px; margin-bottom: 40px;">1326</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+                </table>
+                </center>
+            </td>
+        </tr>
+    </table>
+    </td>
+    </tr>
+    </table>
+</body></html>

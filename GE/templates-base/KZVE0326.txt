@@ -1,0 +1,119 @@
+<html>
+  <div>
+
+   <table align="center" bgcolor="#FFFFFF" width="650">
+     <tbody><tr>
+	 <td height="70px" align="left" valign="bottom"><img src="httpscomun_logo.gif" class="CToWUd"></td>
+	 </tr>
+   </tbody></table> 
+  
+   <table align="center" bgcolor="#FFFFFF" width="650">
+	  <tbody><tr><td>&nbsp;</td></tr>
+	  <tr>
+	   <td width="12">&nbsp;</td>
+	   <td width="608" align="right"><font style="font-size:15px;color:#363636">C sNOMBRE</font></td>
+		   <td width="30">&nbsp;</td>
+	 </tr>
+	</tbody></table> 
+	
+	 <table align="center" bgcolor="#FFFFFF" width="650"> 
+	 <tbody><tr>
+	  <td width="12">&nbsp;</td>
+	  <td width="608">&nbsp;</td>
+	  <td width="30">&nbsp;</td>
+	 </tr>
+	 <tr>
+	   <td>&nbsp;</td>
+	   <td align="left"><font style="font-size:19px;color:#009ee5"><strong>TRASPASO ENTRE CUENTAS PROPIAS</strong></font></td>
+	 </tr>
+	 </tbody></table>
+	
+     <table align="center" bgcolor="#FFFFFF" width="650">	 
+	 <tbody><tr>
+	  <td width="12">&nbsp;</td>
+	  <td width="588">&nbsp;</td>
+	  <td width="50">&nbsp;</td>
+	 </tr>
+	  
+	 <tr><td>&nbsp;</td></tr>
+	 <tr>
+	   <td>&nbsp;</td>
+	   <td align="left"><strong>Notificaci&oacute;n/Comprobante de operaci&oacute;n L&iacute;nea BBVA</strong></td>
+	 </tr>
+  </tbody></table>  
+	 
+  <table align="center" bgcolor="#FFFFFF" width="650"> 
+        <tbody><tr>
+           <td width="47%">&nbsp;</td>
+           <td width="6%">&nbsp;</td>
+           <td width="47%">&nbsp;</td>
+        </tr>
+		<tr>  
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Cuenta/Tarjeta retiro:</td>
+		 <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><strong>****sRETIRO</strong></td>
+		</tr>
+		<tr>  
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Cuenta/Tarjeta dep&oacute;sito:</td>
+     	 <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><strong>****sDEPOSITO</strong></td>
+		</tr>
+		<tr>
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Importe de la operaci&oacute;n:</td>
+	     <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><font style="font-size:12px;color:#006ec1"><strong>$ sIMPORTE</strong></font></td>
+		</tr>
+		<tr>
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Moneda:</td>
+	     <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><font style="font-size:12px;color:#006ec1"><strong>sMONEDA</strong></font></td>
+		</tr>
+		<tr>  
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Tipo de operaci&oacute;n:</td>
+		   <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><strong>sTIPO</strong></td>
+		</tr>
+		<tr>  
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Fecha de la operaci&oacute;n:</td>
+		 <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><strong>sFECHA</strong></td>
+		</tr>
+		<tr>
+		  <td height="20" align="right" class="m_-7618658963267156006Estilo9">Hora de la operaci&oacute;n:</td>
+	        <td>&nbsp;</td>
+		  <td align="left" class="m_-7618658963267156006Estilo10"><strong>sHORA hrs.</strong></td>
+		</tr>
+		 <tr>
+           <td>&nbsp;</td>
+        </tr>		
+	</tbody></table>
+	 <div align="center">
+	 	<strong>
+	 		BBVA M&eacute;xico, S.A., Instituci&oacute;n de Banca M&uacute;ltiple, Grupo Financiero BBVA M&eacute;xico.
+	 	</strong>
+	 </div>
+	 
+	 <table class="m_-7618658963267156006table1" align="center" bgcolor="#f0f9fe" width="650">
+	 <tbody><tr><td>&nbsp;</td></tr>
+	 <tr>
+	   <td><p align="center"><font style="font-size:12px;color:#666666">En caso de no reconocer esta operaci&oacute;n favor de comunicarse a L&iacute;nea BBVA: Desde la Ciudad de M&eacute;xico y &Aacute;rea Metropolitana al 5226 2663, agregando 55 desde el interior de la Rep&uacute;blica y 55 desde celular. Horario de atenci&oacute;n de lunes a s&aacute;bado de 8:00 a 22:00 horas<br>
+
+</font></p></td>	 
+	 </tr>
+	  <tr>
+	   <td><p align="right"><font style="font-size:09px;color:#666666"><br>KZVE0326-1766
+</font></p></td>	 
+	 </tr>
+	 
+	 <tr>
+	 
+	 </tr>
+	 <tr><td>&nbsp;</td></tr>
+	 </tbody></table>
+	 
+    <table class="m_-7618658963267156006table1" align="center" bgcolor="#FFFFFF" width="650">	 
+	 <tbody><tr><td>&nbsp;</td></tr>
+	 </tbody></table>
+  </div>
+</div></div></div></div><div id=":169" class="ii gt" style="display:none"><div id=":1ay" class="a3s aXjCH undefined"></div></div><div class="hi"></div></div></div><div class="ajx"></div></div>
+</html>

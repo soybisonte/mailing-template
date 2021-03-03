@@ -1,0 +1,129 @@
+<!-- PARAMETRO DE ENVIO POR TECNICO -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Gran Comprador</title>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+
+
+
+<table width="600" align="center" >
+<tr >
+  <td colspan="7" width="55%"><img src="http://www.bancomer.com.mx/comun/img/comun_logo.gif" ></td>
+</tr>
+<tr><td colspan="7">&nbsp;</td></tr>
+<tr>
+  <td colspan="7"><div align="right">sNOMBRE</div></td>
+</tr>
+
+<tr>
+  <td colspan="7"><b><font size="6" font color="#30c0f3">Operaciones de factoraje</font></b></td>
+</tr> 
+<tr>
+  <td colspan="7">&nbsp;</td>
+
+  </tr>
+  <tr >
+    <td colspan="7">Te informamos que el sPECHA2 tus proveedores realizaron operaciones de factoraje financiero de forma 
+    electr&oacute;nica con  BBVA Bancomer, Sociedad An&oacute;nima, Instituci&oacute;n de Banca M&uacute;ltiple, Grupo Financiero BBVA Bancomer, por lo que tu empresa se constituye como deudora  frente al Banco respecto de las operaciones de factoraje realizadas.</td>
+   </tr>
+  <tr >
+    <td colspan="7"> <!--Bancomer, por lo que tu empresa se constituye como deudora  frente al Banco respecto de las operaciones de factoraje realizadas.--></td>
+   </tr>
+
+  <tr>
+  <td bgcolor="#30c0f3" align="center" width="35%">Convenio </td>
+  <td width="5%">&nbsp;</td>
+  <td bgcolor="#30c0f3" align="center" width="15%">Total de documentos </td>
+  <td width="5%">&nbsp;</td>
+  <td bgcolor="#30c0f3" align="center" width="20%"> Importe Total </td>
+  <td width="5%">&nbsp;</td>
+  <td bgcolor="#30c0f3" align="center" width="10%">Moneda </td>
+  </tr> 
+
+s01CONVENIO
+s02CONVENIO
+s03CONVENIO
+s04CONVENIO
+s05CONVENIO
+s06CONVENIO
+s07CONVENIO
+s08CONVENIO
+s09CONVENIO
+s10CONVENIO
+s11CONVENIO
+s12CONVENIO
+s13CONVENIO
+s14CONVENIO
+s15CONVENIO
+s16CONVENIO
+s17CONVENIO
+s18CONVENIO
+s19CONVENIO
+s20CONVENIO
+s21CONVENIO
+s22CONVENIO
+s23CONVENIO
+s24CONVENIO
+s25CONVENIO
+s26CONVENIO
+s27CONVENIO
+s28CONVENIO
+s29CONVENIO
+s30CONVENIO
+s31CONVENIO
+s32CONVENIO
+s33CONVENIO
+s34CONVENIO
+s35CONVENIO
+s36CONVENIO
+s37CONVENIO
+s38CONVENIO
+s39CONVENIO
+s40CONVENIO
+s41CONVENIO
+s42CONVENIO
+s43CONVENIO
+s44CONVENIO
+s45CONVENIO
+s46CONVENIO
+s47CONVENIO
+s48CONVENIO
+s49CONVENIO
+s50CONVENIO
+s51CONVENIO
+s52CONVENIO
+s53CONVENIO
+s54CONVENIO
+s55CONVENIO
+s56CONVENIO
+s57CONVENIO
+s58CONVENIO
+s59CONVENIO
+s60CONVENIO
+
+
+<tr><td colspan="7">&nbsp;</td> </tr>
+<tr bgcolor="#30c0f3"><td colspan="7"><p align="center">Para m&aacute;s informaci&oacute;n comun&iacute;cate al Centro de Atenci&oacute;n Supply Chain Finance al 01 55 1054 7086
+de lunes a viernes en horario de 8:00 a 18:00 hrs.
+</p>    
+</tr>
+
+<tr>
+     
+                <!--<td width="66%" align="right"><div align="center"><img src="https://www.bancomer.com/comun/img/alertas-bancomer/direccion.jpg"/></div></td>-->
+				<td colspan="6"><p><font size="1">BBVA Bancomer, S.A. Instituci&oacute;n de banca M&uacute;ltiple Grupo Financiero BBVA bancomer. Av. Paseo de la Reforma 510, Col Ju&aacute;rez 06600, Cd. de M&eacute;xico</font></p></td>
+   </tr>
+    <tr>
+   <td colspan="7"  align="center" class="dif"><img src="https://www.bancomer.com/comun/img/alertas-bancomer/sininfo.jpg"  /></td>
+  </tr>
+
+
+
+</table>
+</body>
+</html>

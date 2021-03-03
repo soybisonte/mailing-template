@@ -1,0 +1,650 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>BBVA</title>
+    <style type="text/css">
+        .fuente {
+            font-family: Helvetica, Arial, sans-serif;
+            text-decoration: none;
+            word-wrap: normal;
+            hyphens: none;
+        }
+
+        .font2 {
+            color: #ffffff;
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 300;
+        }
+
+        .font1 {
+            color: #121212;
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 300;
+        }
+
+        .font3 {
+            color: #666;
+            font-size: 12px;
+            font-weight: 300;
+        }
+
+        .contacto {
+            color: #1973b8;
+            font-size: 15px;
+            line-height: 24px;
+            font-weight: 400;
+            text-align: center;
+            margin: 0
+        }
+
+        .legal {
+            color: #666;
+            font-size: 11px;
+            line-height: 14px;
+            font-weight: 400;
+            margin: 0;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            min-width: 100% !important;
+        }
+
+        img {
+            height: auto;
+        }
+
+        .content {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .pre-header {
+            margin: 25px auto 25px;
+        }
+
+        .header {
+            margin: 25px auto 25px auto;
+        }
+
+        .h3,
+        h1,
+        h2,
+        .bodycopy1 {
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        .h3 {
+            font-size: 20px;
+            line-height: 20px;
+            text-align: left;
+        }
+
+        .h1 {
+            font-size: 20px;
+            line-height: 22px;
+            text-align: left;
+        }
+
+        .h2 {
+            font-size: 20px;
+            line-height: 22px;
+        }
+
+        .bodycopy1 {
+            font-size: 14px;
+            line-height: 22px;
+            font-weight: 300;
+            padding-top: 60px;
+        }
+
+        .margin {
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        .margin2 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 40px;
+            margin-bottom: 32px;
+        }
+
+        .margin3 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 0px;
+            margin-bottom: 32px;
+        }
+
+        .margin4 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 0px;
+            margin-bottom: 40px;
+        }
+
+        .margin5 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 40px;
+            margin-bottom: 0px;
+        }
+
+        .margin6 {
+            margin-left: 50px;
+            margin-right: 50px;
+            margin-top: 32px;
+            margin-bottom: 40px;
+        }
+
+        .marginalrt {
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+
+        @media(max-width:600px) {
+            .margin {
+                margin-left: 24px !important;
+                margin-right: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin2 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 24px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin3 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 0px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin4 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 0px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin5 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 24px !important;
+                margin-bottom: 0px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .margin6 {
+                margin-left: 16px !important;
+                margin-right: 16px !important;
+                margin-top: 24px !important;
+                margin-bottom: 24px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .marginalrt {
+                margin-left: 0px !important;
+                margin-right: 0px !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .orderup {
+                display: table-header-group !important;
+            }
+
+            .display {
+
+                display: table !important;
+            }
+        }
+
+        @media(max-width:600px) {
+            .contacto2 {
+                width: 100% !important
+            }
+        }
+
+        @media(max-width:600px) {
+            .contacto3 {
+                text-align: center !important
+            }
+        }
+
+        @media(max-width:509px) {
+            .botonera {
+                margin-left: 0px !important;
+                margin-right: 0px !important;
+            }
+        }
+    </style>
+</head>
+
+<body bgcolor="#efeeed" style="-moz-box-sizing:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;-webkit-text-size-adjust:100%;Margin:0;box-sizing:border-box;margin:0;min-width:100%;padding:0;text-align:left;width:100%!important">
+    <table bgcolor="#efeeed" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 100%;">
+        <tr>
+            <td>
+                <table bgcolor="#efeeed" class="contentbody" border="0" cellpadding="0" cellspacing="0" align="center" style="width: 100%;">
+                    <tr>
+                        <td>
+                            <!--Preheader-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td bgcolor="#efeeed">
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom:0px;">
+                                            <tr>
+                                                <td class="pre-header" style="padding: 0 ">
+                                                    <p class="font3 fuente pre-header " style="text-align:center; paddings: 25px auto 25px!important;">Notificaci&oacute;n bbva.mx
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--//Preheader-->
+                            <!--header-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width: 600px;">
+                                <tr>
+                                    <td bgcolor="#072146" style="width: 100%;">
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;min-width:100%;max-width: 600px; background-color:#072146;  text-align: center;">
+                                            <tr>
+                                                <td style="padding: 24px ">
+                                                    <a href="https://www.bbva.mx" target="_blank"><img class="header" src="sBBVA-blanco.png" border="0" alt="BBVA" style="margin: 0; width: 84px;" />
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--//header-->
+                            <!--Modulo 1-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+                                        <table border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td style="padding: 0 ">
+                                                    <h1 class="fuente margin" style="margin-top: 55px; margin-bottom: 35px;color:#121212;font-size: 20px">
+                                                        Hola, sEJECUTIVO:
+                                                    </h1>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td style="padding: 0; margin-bottom: 16px ">
+                                                    <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 35px">sCLIENTE  n&uacute;mero de cliente sNUMERO est&aacute; solicitando una llamada al sTELEFONO para contratar un <b> cr&eacute;dito </b>y la<b> tarjeta de negocios</b> que tiene preaprobados, llama lo antes posible, recuerda que tienes hasta <strong>24 horas h&aacute;biles</strong>.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--//Modulo 1-->
+                            <!--Modulo Alerta-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; width: 100%">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+                                        <table class="marginalrt" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 35px;">
+                                            <tr>
+                                                <td bgcolor="#f4f4f4" style="padding: 0 ">
+                                                    <img src="snb_info.png" style="margin: 30px">
+                                                </td>
+                                                <td bgcolor="#f4f4f4" style="padding: 0; width: 100%; ">
+                                                    <p class="fuente font1" style="margin-top: 30px; margin-bottom: 30px;margin-left: 0px; margin-right: 50px;color:#121212;">
+
+                                                        Coordina una visita al negocio y recaba la documentaci&oacute;n necesaria para la contrataci&oacute;n del cr&eacute;dito.
+                                                    </p>
+                                                </td>
+                                            </tr>
+
+                                        </table>
+
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--Modulo 2-->
+
+                            <!--//Modulo 2-->
+                            <!--Detalles de operacion-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; padding-bottom: 35px;">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="margin-top: 15px;">
+                                                    <p class="fuente" style="font-size: 13px; color:#666; font-weight: 700;margin:0;">
+                                                        DETALLES DE CR&Eacute;DITO SIMPLE <sup>1</sup>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--Valor 1-2-->
+
+                                        <!--//Valor 1-2-->
+                                        <!--Valor 3-4-->
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        Monto:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        sMONTO
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--//Valor 1-2-->
+                                        <!--Valor 3-4-->
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        Plazo:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        sPLAZO meses
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--//Valor 3-4-->
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        sETIQUETA
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        sPAGO
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        Comisi&oacute;n por apertura s1PCXAMO del monto otorgado:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        s1CXAMO (sin IVA)
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        Tasa de inter&eacute;s sTTASA anual aplicable a la simulaci&oacute;n:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        sITASA
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--//Detalles de opeeracion-->
+                            <!--Detalles de operacion-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px; padding-bottom: 35px;">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="margin-top: 15px;">
+                                                    <p class="fuente" style="font-size: 13px; color:#666; font-weight: 700;margin:0;">
+                                                        DETALLES DE TARJETA NEGOCIO <sup>2</sup>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--Valor 1-2-->
+
+                                        <!--//Valor 1-2-->
+                                        <!--Valor 3-4-->
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        L&iacute;nea de cr&eacute;dito revolvente:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        sLINEA
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--//Valor 1-2-->
+                                        <!--Valor 3-4-->
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        Comisi&oacute;n por apertura sPCXAMO del monto otorgado:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        sCXAMO (incluye IVA)
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--//Valor 3-4-->
+                                        <table class="margin" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 80%;">
+                                            <tr>
+                                                <td style="width: 100%;display: inline-block;">
+                                                    <p class="fuente" style="font-size: 14px; color:#666; font-weight: 300; margin:0;padding-top: 15px;">
+                                                        Tasa de inter&eacute;s variable anual aplicable a la simulaci&oacute;n:
+                                                    </p>
+                                                    <p class="fuente" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;">
+                                                        TIIE m&aacute;s sTANUAL
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--//Detalles de opeeracion-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                            <tr>
+                                                <td style="padding: 0; margin-bottom: 16px ">
+                                                    <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 35px">
+                                                        La aprobaci&oacute;n del cr&eacute;dito est&aacute; sujeta a evaluaci&oacute;n, por tanto, el monto y condiciones pueden cambiar al momento de la contrataci&oacute;n.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--Modulo 2-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px;width: 100%;margin-bottom: 28px;">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                            <tr>
+                                                <td style="padding: 0; margin-bottom: 16px ">
+
+                                                    <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 55px">
+                                                        Saludos,
+                                                        <br><br>
+                                                        sEquipo.
+
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--//Modulo 2-->
+                            <!--Contacto y RSS-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" width="100%">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="padding: 24px 30px 24px 30px;width: 100%;text-align: center" bgcolor="#ffffff">
+                                            <tr>
+                                                <td class="contacto2" style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
+                                                    <a href="https://portal.bbva.mx/aplicativos/movil/deeplink.jsp&#63;deeplink=bm" target="_blank" style="text-decoration: none">
+                                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: left;margin: 0;">Usa la app sApp</p>
+                                                    </a>
+
+                                                </td>
+                                                <td class="contacto2" style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
+                                                    <a href="tel:sHrefNumeroBBVA" target="_blank" style="text-decoration: none">
+                                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">sNumeroBBVA</p>
+                                                    </a>
+
+                                                </td>
+
+                                                <td class="contacto2" style="display: inline-block;padding: 0; width: 32%;" bgcolor="#ffffff">
+                                                    <a href="https://portal.bbva.mx/aplicativos/buscador-sucursales/index.jsp" target="_blank" style="text-decoration: none">
+                                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: right;margin: 0;">Busca una sucursal</p>
+                                                    </a>
+
+                                                </td>
+
+                                            </tr>
+                                        </table>
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; text-align: center;">
+                                            <tr>
+                                                <td style="padding: 0 ">
+                                                    <table cellspacing="0" cellpadding="0" style="display: inline-block; margin-bottom: 24px">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td align="center">
+                                                                    <p class="fuente font1" style="text-align: center;margin-top: 0;margin-bottom: 16px">S&iacute;guenos en:</p>
+
+                                                                    <a href=s1FacebookRedSocial" target="_blank" style="text-decoration: none!important;">
+                                                                        <img src="sfacebook.png" style="width: 24px; max-width: 24px; margin-right: 6px;text-decoration: none;" /></a>
+                                                                    <a href="s1TwitterRedSocial" target="_blank" style="text-decoration: none!important;">
+                                                                        <img src="stwitter.png" style="width: 24px; max-width: 24px;margin-left: 6px;text-decoration: mone!important;" /></a>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--Contacto y RSS-->
+                            <!--Unsuscribe y Razon social-->
+                            <table bgcolor="#f4f4f4" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td bgcolor="#f4f4f4">
+
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                            <tr>
+                                                <td style="padding: 0 ">
+                                                    <p class="fuente font1 margin2" style="text-align: center;margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 32px;font-weight: 300;color:#121212;font-size: 13px; line-height: 17px ; ">Este correo no admite respuestas.</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;text-align: center">
+                                            <tr>
+                                                <td style="padding: 0;">
+                                                    <img class="margin3" src="sBBVA-Tagline.png" style="width: 232px;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 32px;" />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                <td style="padding: 0 ">
+                                                    <table cellspacing="0" cellpadding="0" style="display: inline-block; ">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td align="center">
+                                                                    <p class="fuente font1 margin4" style="text-align: center;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 40px;font-weight: 300;color:#121212!important;font-size: 11px; line-height: 14px ;text-decoration: none!important; ">
+                                                                        sDireccion</p>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--Unsuscribe y Razon social-->
+                            <!--Legales-->
+                            <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td bgcolor="#ffffff">
+
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                            <tr>
+                                                <td style="padding: 0 ">
+                                                    <p class="fuente legal margin5" style="margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 0px;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;">
+                                                        <sup>1 </sup><strong><span style="font-size: 18px;">CAT sCCAT</span> Sin IVA. Informativo</strong>. Fecha de c&aacute;lculo: s1FCCAT.<br>
+                                                        Vigencia de
+                                                        la oferta: sFVIG. Moneda Nacional. <br><br>
+                                                        <sup>2 </sup><strong><span style="font-size: 16px;">CAT sCAT</span> Sin IVA.</strong> Tasa de inter&eacute;s promedio ponderada por saldo en t&eacute;rminos anuales sTIAPP,
+                                                        Comisi&oacute;n Anual sACOMI Sin IVA. Informativo.
+                                                        Fecha de c&aacute;lculo: sFCCAT.<br>
+                                                        Vigencia de la oferta: sFVIGO. Moneda Nacional.
+                                                        <br><br>
+                                                        Este correo electr&oacute;nico constituye una notificaci&oacute;n de los t&eacute;rminos en que se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobante oficial es el estado de cuenta que emite BBVA.
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        <!--NO BORRAR-->
+                                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;">
+                                            <tr>
+                                                <td style="padding: 0 ">
+                                                    <p class="fuente legal margin3" style="color:#666;font-size: 11px; line-height: 14px ;font-weight: 400; margin:0;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 32px;">
+                                                        <br>
+                                                        El Aviso de Privacidad Integral actualizado est&aacute; en cualquiera de nuestras oficinas y en <a href="sUrlPagina" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">sPagina</a>.
+                                                    </p>
+                                                    <p class="fuente legal margin6" style="text-align: right;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;margin-left: 50px; margin-right: 50px; margin-top: 32px; margin-bottom: 0px;">O03AL</p>
+                                                    <p class="fuente legal margin6" style="text-align: right;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;margin-left: 50px; margin-right: 50px; margin-top: 20px; margin-bottom: 40px;">1202</p>
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body></html>

@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contrato M&uacute;ltiple de Servicios Digitales</title>
+	<style type="text/css">
+    
+    body{
+	text-align: justify;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: Arial;
+	color: navy;
+    }
+	p {
+        color: navy;
+}
+
+	div{
+		color: navy;
+	}
+	
+    
+    .texto{
+      text-decoration: underline;
+      color: #0000FF;
+      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    } 
+    .numeroDePagina{
+      text-align: right;
+      padding-top: 10px;
+      padding-bottom: 20px;
+    }
+
+
+    .tituloPrincipal{
+      padding-top: 10px;
+      padding-bottom: 40px;
+      color: #398BDE;
+      font-size: 45px;
+      font-weight: bold;
+    }
+
+    .filaIndice{
+      width: 100%;
+      display: flex;
+    }
+
+    .subSeccionIndice{
+      flex-grow: 1;
+      padding-left: 5%;
+      font-weight: normal;
+    }
+
+    .subSubSeccionIndice{
+      flex-grow: 1;
+      padding-left: 10%;
+      font-weight: normal;
+    }
+
+    .seccionIndice{
+      flex-grow: 1;
+    }
+
+    .puntosIndice{
+      border-bottom-style: dotted;
+      flex-grow: 100;
+      border-bottom-width: 2px;
+    }
+
+    .numeroIndice{
+      flex-grow: 1;
+    }
+
+    .numeroTitulo{
+      float: left;
+      font-size: 30px;
+      color: #2482D0;
+    }
+
+    .textoTitulo{
+      font-size: 18px;
+      color: #00B1EF;
+      padding-top: 10px;
+    }
+
+    .textoTitulo2{
+      font-size: 17px;
+      color: #009EE5;
+      vertical-align: text-bottom;
+    }
+    .textoTitulo3{
+      font-size: 17px;
+      color: #2E9AFE;
+      vertical-align: text-bottom;
+    }
+
+    .bordeLinea{
+      border:1px solid #000;
+      border-collapse: collapse;
+    }
+    
+    .bordeLinea .encabezado th{
+      font-weight: bold;
+    }
+
+    .bordeLinea th{
+      border:1px solid #000;
+      font-weight: normal;
+    }
+
+    .sinBorde th{
+      font-weight: normal;
+    }
+
+    .temaTabla{
+      font-weight: bold;
+      text-decoration: underline;
+      padding-right: 10px;
+
+    }
+
+    .link{
+      color: blue;
+      text-decoration: underline;
+
+    }
+	
+
+  #pagina3 {
+	color: navy;
+}
+    </style>
+</head>
+<body>
+<p>&nbsp;</p>
+<div id="pagina3">
+  <p align="right">Folio: sKZVT-FOLIO8</p>
+  <p align="right"><b>Convenio Consolidaci&oacute;n de Cr&eacute;ditos</b></p>
+
+ 	<br>
+ 	<br>
+	<p><b>CONVENIO PARA LA CONSOLIDACI&Oacute;N DE CR&Eacute;DITOS QUE CELEBRAN BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER, <strong>CARLOS MANUEL S&Aacute;NCHEZ CHAVEZ</strong> Y <strong>SERGIO GONZ&Aacute;LEZ YA&Ntilde;EZ</strong> COMO APODERADOS, Y EL(LA) SE&Ntilde;OR(A)<u> sKZVT-NOMCLI </u>A QUIEN SE DESIGNAR&Aacute; COMO &quot;EL CLIENTE&quot; Y CONJUNTAMENTE CON &ldquo;BANCOMER&rdquo; COMO &ldquo;LAS PARTES&rdquo;, AL TENOR DE LAS SIGUIENTES DECLARACIONES Y CL&Aacute;USULAS:</b>  </p> 
+ 	<div style="height:20px; clear:both;"></div>
+
+      <div style="font-size:9pt; text-align:center; color:#FFFFFF; background-color: navy; ">
+        <div style="height:2px; clear:both;"></div>
+        <b>D E C L A R A C I O N E S</b>
+        <div style="height:2px; clear:both;"></div>   
+    </div>
+  <div style="height:20px; clear:both;"></div>
+	<p><b>I.- Declara &quot;EL CLIENTE&quot; que:</b> </p>
+ 	<p><br>
+ 	  <br>
+ 	  <br>
+ 	  a) Es persona f&iacute;sica en pleno uso y goce de sus facultades para la celebraci&oacute;n del presente convenio.<br>
+  <br>
+ 	  b) La informaci&oacute;n y documentaci&oacute;n que ha entregado a &quot;BANCOMER&quot; reflejan adecuadamente y en forma veraz su solvencia econ&oacute;mica a la fecha y que sabe que en consideraci&oacute;n a la misma, &quot;BANCOMER&quot; autoriza la celebraci&oacute;n de este convenio.<br>
+  <br>
+ 	  c) Podr&aacute; tener celebrado con &quot;BANCOMER&quot; un convenio de Servicio en Banca Electr&oacute;nica por el cual a trav&eacute;s de claves y contrase&ntilde;as previamente convenidas con &ldquo;BANCOMER&rdquo;, lo identifican y vinculan, tiene acceso a los sistemas de c&oacute;mputo de &quot;BANCOMER&quot; para realizar diversas operaciones, entre las cuales se encuentran la contrataci&oacute;n de productos y servicios, la disposici&oacute;n y pagos del cr&eacute;dito, as&iacute; como la consulta del saldo del cr&eacute;dito.<br>
+  <br>
+ 	  d) Conoce el(los) sistema(s) se&ntilde;alado(s) anteriormente que &quot;BANCOMER&quot; tiene en funci&oacute;n y que opera(n) mediante medios electr&oacute;nicos, en adelante &quot;EL SISTEMA&quot;, que conoce y acepta que a trav&eacute;s de &eacute;l(ellos), expresar&aacute; su consentimiento respecto de la contrataci&oacute;n de productos y servicios, disposici&oacute;n y pagos del cr&eacute;dito, que realice al amparo del presente convenio, mediante el empleo de claves y contrase&ntilde;as (seg&uacute;n dichos t&eacute;rminos se definen m&aacute;s adelante) previamente convenidas, mismas que lo identifican y vinculan, e intercambiar&aacute; instrucciones, archivos y mensajes de datos (seg&uacute;n se define m&aacute;s adelante) con &quot;BANCOMER&quot;.<br>
+  <br>
+  <br>
+ 	  e) Tiene celebrados con &ldquo;BANCOMER&rdquo; los Contratos de Apertura de Cr&eacute;dito en Cuenta Corriente con Expedici&oacute;n de Tarjeta de Cr&eacute;dito identificados con los n&uacute;meros de tarjeta y que se encuentran debidamente relacionados con el saldo insoluto que se enlistan a continuaci&oacute;n:<br>
+ 	  
+ 	  <br>
+ 	  <br>
+ 	</p>
+ 	<p><br>
+ 	  <br>
+  <table align="center" id="pagina3">
+      <tr><td>&nbsp;</td></tr>
+      <tr><td>
+s1TDC
+s2TDC
+s3TDC
+s4TDC
+s5TDC
+s6TDC
+s7TDC
+s8TDC
+s9TDC
+s10TDC
+s11TDC
+s12TDC
+s13TDC
+s14TDC
+s15TDC
+s16TDC
+s17TDC
+s18TDC
+s19TDC
+s20TDC
+s21TDC
+s22TDC
+s23TDC
+s24TDC
+s25TDC
+s26TDC
+s27TDC
+s28TDC
+s29TDC
+s30TDC
+s31TDC
+s32TDC
+s33TDC
+s34TDC
+s35TDC
+s36TDC
+s37TDC
+s38TDC
+s39TDC
+s40TDC
+s41TDC
+s42TDC
+s43TDC
+s44TDC
+s45TDC
+s46TDC
+s47TDC
+s48TDC
+s49TDC
+s50TDC
+      </td></tr>
+  </table>
+ 	  <p>f) Es su deseo celebrar el presente convenio respecto a los cr&eacute;ditos relacionados en el inciso inmediato anterior y, entiende, que la consolidaci&oacute;n de cr&eacute;ditos materia del presente instrumento implicar&aacute; una reestructura de los mismos, por lo que cada uno de ellos permanecer&aacute; en cartea vencida hasta en tanto no se acredite el pago sostenido. <br>
+ 	    <br>
+ 	    g) Previamente a la celebraci&oacute;n del presente convenio, &quot;BANCOMER&quot; le hizo del conocimiento el alcance y contenido del presente instrumento y de los dem&aacute;s documentos a suscribir, los cargos o gastos que se generen por la celebraci&oacute;n del mismo y, en su caso, los descuentos o bonificaciones a que tenga derecho, as&iacute; como el Costo Anual Total, en adelante &quot;CAT&quot;, correspondiente al presente cr&eacute;dito.<br>
+ 	    <br>
+ 	    h) Los recursos que utilizar&aacute; para pagar el presente adeudo no son ni ser&aacute;n de procedencia il&iacute;cita.<br>
+  </p>
+  </p>
+  <div style="height:20px; clear:both;"></div>
+<b>II.- Declara &quot;BANCOMER&quot; a trav&eacute;s de sus representantes legales que:</b>
+  <div style="height:20px; clear:both;"></div>
+a) Es una sociedad an&oacute;nima debidamente constituida conforme a las leyes mexicanas y autorizadas para operar como instituci&oacute;n de banca m&uacute;ltiple, por lo que cuenta con las facultades necesarias para la celebraci&oacute;n y cumplimiento de este convenio.<br>
+<br>
+b) Sus representantes cuentan con las facultades suficientes para acudir en su nombre y representaci&oacute;n a la celebraci&oacute;n y ejecuci&oacute;n del presente convenio, mismas que no les han sido revocadas ni en forma alguna modificadas.<br>
+<br>
+c) Est&aacute; de acuerdo en celebrar el presente convenio con el fin de consolidar los cr&eacute;ditos relacionados en el inciso f) del apartado I de Declaraciones, en los t&eacute;rminos y condiciones que se establecen en este instrumento.<br>
+<br>
+<br>
+<br>
+Expuesto lo anterior &quot;LAS PARTES&quot; se sujetan a lo que estipulan las siguientes:<br>
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#FFFFFF; background-color: navy; ">
+        <div style="height:2px; clear:both;"></div>
+        <b>C L &Aacute; U S U L A S</b>
+        <div style="height:2px; clear:both;"></div>   
+</div>
+<div style="height:20px; clear:both;"></div>
+<p align="center" style="font-weight: bold;">CAP&Iacute;TULO PRIMERO<br>
+CONSOLIDACI&Oacute;N DE CR&Eacute;DITOS
+</p>
+<div style="height:20px; clear:both;"></div>
+<b>PRIMERA.- OBJETO</b>. El objeto del presente convenio es la consolidaci&oacute;n de los cr&eacute;ditos relacionados en el inciso <b>e)</b> del apartado de Declaraciones de &ldquo;EL CLIENTE&rdquo;, por el saldo que resulte de la suma de los mismos, comprendidos los intereses, intereses moratorios, accesorios y dem&aacute;s gastos que deba cubrir &quot;EL CLIENTE&quot; en favor de &quot;BANCOMER&quot;, que se consolidan, en un solo cr&eacute;dito por la cantidad de $<u>sKZVT-IMPCON </u>( <u> sKZVT-IMPCLT </u>).
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+
+<div id="pagina4">
+  <p>Dicha consolidaci&oacute;n se lleva a cabo mediante un Cr&eacute;dito Simple, en lo sucesivo el &ldquo;CR&Eacute;DITO&rdquo;. Dentro del l&iacute;mite del &quot;CR&Eacute;DITO&quot; no quedan comprendidos los intereses, intereses moratorios, accesorios y dem&aacute;s gastos que deba cubrir &quot;EL CLIENTE&quot; en favor de &quot;BANCOMER&quot; conforme al presente convenio.<br>
+<br>
+<b>SEGUNDA.- VIGENCIA.</b> La vigencia de este convenio, estar&aacute; sujeta a la condici&oacute;n suspensiva, consistente en que &ldquo;EL CLIENTE&rdquo; realice un primer pago por la cantidad de $ <u>sKZVT-IMPPLL </u> (<u> sKZVT-IMPPLE </u>) en cualquiera de las tarjetas relacionadas en el inciso <strong>e</strong>) del apartado de Declaraciones de &ldquo;EL CLIENTE&rdquo;<strong>.</strong></p>
+ 	<p>En caso de que &ldquo;EL CLIENTE&rdquo; realic&eacute; un pago por una cantidad mayor a la indicada en esta cl&aacute;usula, el monto del &ldquo;CR&Eacute;DITO&rdquo; consolidado se ajustar&aacute;.</p>
+  <div>
+    <div></div>
+  </div>
+  <div>
+    <div> </div>
+</div>
+<br>
+<br>
+ Una vez satisfecha la condici&oacute;n antes se&ntilde;alada, el presente instrumento iniciar&aacute; su vigencia a partir de la fecha en que se cumpla con el pago y concluir&aacute; el <u>sKZVT-FCHFIN</u>. <br>
+<br>
+
+Al vencimiento del plazo de vigencia del presente convenio, en lo sucesivo se le denominar&aacute; &quot;FECHA DE PAGO FINAL&quot;; sin embargo, seguir&aacute; produciendo todos sus efectos hasta que se hayan cumplido todas las obligaciones que se contemplan para<b> LAS PARTES</b> en este documento.<br>
+<br>
+<b><strong>TERCERA</strong>.- DEFINICIONES.</b> Para efectos del presente convenio los t&eacute;rminos con may&uacute;sculas que a continuaci&oacute;n se se&ntilde;alan tendr&aacute;n el significado que se les atribuye en su forma singular y plural:<br>
+<br>
+&quot;D&Iacute;A H&Aacute;BIL&quot; significa, excepto s&aacute;bados, domingos o d&iacute;as festivos, cualquier d&iacute;a en el cual las oficinas principales de las instituciones de cr&eacute;dito del pa&iacute;s en la Ciudad de M&eacute;xico, est&eacute;n abiertas al p&uacute;blico para la realizaci&oacute;n de operaciones bancarias.<br>
+<br>
+&ldquo;FECHA L&Iacute;MITE DE PAGO&rdquo; significa la fecha que se&ntilde;ala la car&aacute;tula que forma parte integrante de este instrumento.<br>
+<br>
+&quot;FECHA DE PAGO DE INTERESES&quot; significa el &uacute;ltimo d&iacute;a de cada &quot;PERIODO DE INTERESES&quot;, el cual quedar&aacute; se&ntilde;alado en el estado de cuenta, los cuales no podr&aacute;n cobrarse por adelantado.<br>
+<br>
+&ldquo;FECHA DE CORTE&rdquo; significa la fecha para el c&aacute;lculo de intereses que se&ntilde;ala el estado de cuenta.<br>
+
+ 	<br>
+ 	<br>
+	
+ 	<b><strong>CUARTA</strong>.- PAGO DEL PRINCIPAL.</b> &ldquo;EL CLIENTE&quot; pagar&aacute; a &quot;BANCOMER&quot; el saldo principal insoluto del &quot;CR&Eacute;DITO&quot; en la &ldquo;FECHA L&Iacute;MITE DE PAGO&rdquo;, mediante <u>sKZVT-NUMAMO</u> amortizaciones sucesivas de hasta un mes, conforme a su fecha de ingresos, a partir de la disposici&oacute;n de recursos, sus importes ser&aacute;n iguales, o bien el importe de la primera amortizaci&oacute;n podr&aacute; ser diferente al resto de las amortizaciones. En caso de que cualquier &ldquo;FECHA L&Iacute;MITE DE PAGO&rdquo; de principal fuese un d&iacute;a que no sea &quot;D&Iacute;A H&Aacute;BIL&rdquo;, el pago se realizar&aacute; el &quot;D&Iacute;A H&Aacute;BIL&quot; inmediato siguiente.<br>
+<br>
+En el supuesto que a la fecha de pago total del &ldquo;CR&Eacute;DITO&rdquo; existiera un remanente a favor de &ldquo;EL CLIENTE&rdquo;, &ldquo;BANCOMER&rdquo; se lo devolver&aacute; dentro de los 5 (CINCO) d&iacute;as h&aacute;biles siguientes al momento de que &ldquo;EL CLIENTE&rdquo; se lo solicite, sin que el remanente genere alg&uacute;n rendimiento.<br>
+<br>
+<b><strong>QUINTA</strong>.- AUTORIZACI&Oacute;N.</b> &ldquo;EL CLIENTE&rdquo; en este acto otorga a &ldquo;BANCOMER&rdquo;, la autorizaci&oacute;n irrevocable para cargar y/o gestionar el cargo en cualquier cuenta de n&oacute;mina o dep&oacute;sito a la vista que &ldquo;EL CLIENTE&rdquo; mantenga con &ldquo;BANCOMER&rdquo; para efectuar el pago del importe del saldo vencido proveniente del presente &ldquo;CR&Eacute;DITO&rdquo;.<br>
+<br>
+&ldquo;BANCOMER&rdquo; s&oacute;lo podr&aacute; hacer el cargo, cuando el importe del saldo vencido, sea respecto de los montos vencidos acumulados a los 90 (noventa) d&iacute;as naturales, en la fecha y por el monto que se indica en el estado de cuenta.<br>
+<br>
+<b><strong>SEXTA</strong>.- INTERESES ORDINARIOS. &quot;EL CLIENTE&quot; se obliga a pagar a &quot;BANCOMER&quot;, durante la vigencia del presente convenio, intereses ordinarios sobre la suerte principal insoluta del &quot;CR&Eacute;DITO&quot;, que se calcular&aacute;n a una tasa anualizada fija de <u>sKZVT-TASANU</u>% (sin IVA). La tasa de inter&eacute;s se&ntilde;alada, no ser&aacute; modificada durante la vigencia del presente convenio, salvo en caso de reestructuraci&oacute;n, previo consentimiento expreso de &ldquo;EL CLIENTE&rdquo;.<br>
+<br>
+&quot;EL CLIENTE&quot; pagar&aacute; intereses ordinarios sobre la suma principal insoluta correspondiente al &quot;CR&Eacute;DITO&quot;, en cada per&iacute;odo de intereses (seg&uacute;n este t&eacute;rmino se define m&aacute;s adelante), a partir de la fecha de disposici&oacute;n del &quot;CR&Eacute;DITO&quot; conforme a lo establecido en este convenio y hasta la &quot;FECHA DE PAGO FINAL&quot;.<br>
+<br>
+En el supuesto de que cualquier &ldquo;FECHA L&Iacute;MITE DE PAGO&rdquo; de intereses fuese un d&iacute;a que no sea &quot;D&Iacute;A H&Aacute;BIL&rdquo;, dicho pago se har&aacute; en el &quot;D&Iacute;A H&Aacute;BIL&quot; inmediato posterior.<br>
+<br>
+&quot;PERIODO DE INTERESES&quot; significa, con respecto del &quot;CR&Eacute;DITO&quot;, cada periodo de 15 (QUINCE) d&iacute;as naturales o cada mes natural, seg&uacute;n sea el caso, con base en el cual se calcular&aacute;n los intereses que cause la suma principal insoluta del &quot;CR&Eacute;DITO&quot;; en la inteligencia de que (i) el primer &quot;PERIODO DE INTERESES&quot; comenzar&aacute; en la fecha de disposici&oacute;n parcial o total del &quot;CR&Eacute;DITO&quot; y terminar&aacute; precisamente a los 15 (QUINCE) d&iacute;as naturales siguientes o al mes natural siguiente, seg&uacute;n sea el caso; (ii) los &quot;PERIODOS DE INTERESES&quot; subsecuentes comenzar&aacute;n el d&iacute;a 16 (DIECIS&Eacute;IS) d&iacute;a natural siguiente o mes natural siguiente al &uacute;ltimo d&iacute;a del &quot;PERIODO DE INTERESES&quot; inmediato anterior y terminar&aacute;n a los 15 (QUINCE) d&iacute;as naturales o un mes natural despu&eacute;s, seg&uacute;n sea el caso, y (iii) cualquier &quot;PERIODO DE INTERESES&quot; que est&eacute; vigente en &quot;FECHA DE PAGO FINAL&quot;, terminar&aacute; precisamente en dicha fecha.<br>
+<br>
+Para calcular los intereses ordinarios de cada &quot;PERIODO DE INTERESES&quot;, la tasa anualizada de inter&eacute;s aplicable se dividir&aacute; entre 360 (TRESCIENTOS SESENTA) y el resultado se multiplicar&aacute; por el n&uacute;mero de los</b>
+	
+ <div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+
+
+
+<div id="pagina5">
+  <p>&nbsp;</p>
+  <p><b>d&iacute;as naturales que integren el &quot;PERIODO DE INTERESES&quot; de que se trate. La tasa resultante se multiplicar&aacute; por el saldo insoluto del &quot;CR&Eacute;DITO&quot; y el producto ser&aacute; la cantidad que por concepto de intereses deber&aacute; pagar &quot;EL CLIENTE&quot; a &quot;BANCOMER&quot; en cada &quot;FECHA DE PAGO DE INTERESES&quot;.<br>
+    <br>
+    <strong>S&Eacute;PTIMA</strong>.- INTERESES MORATORIOS. En caso de que &quot;EL CLIENTE&quot; no pague puntualmente alguna cantidad que debe cubrir en favor de &quot;BANCOMER&quot; conforme al presente convenio, exceptuando intereses, dicha cantidad devengar&aacute; intereses moratorios desde la fecha de su vencimiento hasta que se pague totalmente, intereses que se devengar&aacute;n diariamente, que se pagar&aacute;n a la vista y conforme a una tasa anualizada igual al resultado de multiplicar la tasa de inter&eacute;s ordinaria por 2 (DOS).<br>
+    <br>
+    Para calcular los intereses moratorios, la tasa anualizada de inter&eacute;s moratorio aplicable se dividir&aacute; entre 360 (TRESCIENTOS SESENTA) y el cociente se aplicar&aacute; a los saldos insolutos y vencidos, resultando as&iacute; el inter&eacute;s moratorio de cada d&iacute;a, que se ha obligado a pagar &quot;EL CLIENTE&quot; en t&eacute;rminos de este convenio.<br>
+    </b>
+    <br>
+    <b><strong>OCTAVA</strong>.- COMISIONES.</b> Este &ldquo;CR&Eacute;DITO&rdquo; no genera comisiones. Lo anterior podr&aacute; ser modificado en caso de reestructuraci&oacute;n, previo consentimiento expreso de &ldquo;EL CLIENTE&rdquo;.<br>
+    <br>
+    En caso de realizar pagos del cr&eacute;dito a trav&eacute;s de comisionistas bancarios pudiera generar una comisi&oacute;n. &ldquo;Las operaciones realizadas a trav&eacute;s de los comisionistas bancarios podr&aacute;n generar una Comisi&oacute;n, consulte antes de realizar su operaci&oacute;n.&rdquo;<br>
+    <br>
+    <b><strong>NOVENA</strong>.- &quot;CAT&quot;. El Costo Anual Total de financiamiento expresado en t&eacute;rminos porcentuales anuales que, para fines informativos y de comparaci&oacute;n, incorpora la totalidad de los costos y gastos inherentes al presente &quot;CR&Eacute;DITO&quot; es del <u>sKZVT-CAT</u>%.<br>
+    </b>
+    <br>
+    <b>D&Eacute;CIMA PRIMERA.- LUGAR Y FORMA DE PAGO Y FECHAS DE ACREDITAMIENTO.</b> Todos los pagos que deba efectuar &quot;EL CLIENTE&quot; en favor de &quot;BANCOMER&quot; al amparo de este convenio, por capital, intereses y dem&aacute;s consecuencias legales, los har&aacute; en las fechas convenidas en d&iacute;as y horas h&aacute;biles, sin necesidad de previo requerimiento. Dichos pagos ser&aacute;n efectuados en cualquier sucursal de &quot;BANCOMER&quot;, comisionistas bancarios, o bien podr&aacute;n hacerse por cualquier otro medio, incluyendo los electr&oacute;nicos, que al efecto &quot;BANCOMER&quot; notifique a &quot;EL CLIENTE&quot; por lo menos con 30 (TREINTA) d&iacute;as naturales de anticipaci&oacute;n a la fecha de pago respectivo.<br>
+    <br>
+    &quot;BANCOMER&quot; estar&aacute; obligado a recibir efectivo, cheques salvo buen cobro y &oacute;rdenes de transferencias de fondos y domiciliaciones interbancarias, para el pago de principal, intereses y gastos del &quot;CR&Eacute;DITO&quot;.<br>
+    <br>
+    Las &oacute;rdenes de transferencia de fondos podr&aacute;n ser enviadas a solicitud de &quot;EL CLIENTE&quot; o por un tercero, y la instituci&oacute;n emisora podr&aacute; ser otra instituci&oacute;n de cr&eacute;dito. Asimismo, los cheques podr&aacute;n ser librados por &quot;EL CLIENTE&quot; o por un tercero, incluyendo aquellos que hayan sido expedidos a cargo de otra instituci&oacute;n de cr&eacute;dito. Lo anterior siempre y cuando quienes libren los cheques o soliciten &oacute;rdenes de transferencias de fondos respectivos, tengan en las cuentas que correspondan recursos suficientes.<br>
+    <br>
+    El pago del &quot;CR&Eacute;DITO&quot; se acreditar&aacute; de acuerdo al medio de pago que utilice &quot;EL CLIENTE&quot;, de la manera siguiente:<br>
+    
+    <br>
+  </p>
+    <table class="bordeLinea" >
+ 		<tr class="encabezado">
+ 			<th width="90" height="10">MEDIOS DE PAGOS PERMITIDOS</th>
+ 			<th width="10">FECHAS DE ACREDITACI&Oacute;N DE LOS PAGOS </th>
+ 		</tr>
+		<tr height="40">
+ 			<th style="font-weight: bold;">Efectivo</th>
+ 			<th style="font-weight: bold;">Se acreditar&aacute; el mismo d&iacute;a. 
+			</th>
+ 	</tr>
+ 	<tr height="80">
+ 		<th style="font-weight: bold;">Cheque del mismo<br>
+&quot;BANCOMER&quot;</th>
+ 		<th style="font-weight: bold;">Se acreditar&aacute; el mismo d&iacute;a. 
+	  </th>
+ 	</tr height="80">
+    <tr>
+    <th style="font-weight: bold;">Cheque de otro banco<br></th>
+    <th style="font-weight: bold;">Si se deposita antes de las 16:00 horas, se acreditar&aacute; a m&aacute;s tardar el &quot;D&Iacute;A H&Aacute;BIL&quot; siguiente.<br>
+Si se deposita despu&eacute;s de las 16:00 horas, se acreditar&aacute; a m&aacute;s tardar el segundo &quot;D&Iacute;A H&Aacute;BIL&quot; siguiente.
+      </th>
+  </tr>
+  <tr height="80">
+    <th style="font-weight: bold;">Domiciliaci&oacute;n<br></th>
+    <th style="font-weight: bold;">Se acreditar&aacute;:<br>
+Conforme a su fecha de ingresos de acuerdo a lo se&ntilde;alado en la cl&aacute;usula sexta del presente instrumento.
+      </th>
+  </tr>
+  <tr height="80">
+    <th style="font-weight: bold;">Transferencias<br>
+electr&oacute;nicas de fondos</th>
+    <th style="font-weight: bold;">a) A trav&eacute;s del Sistema de Pagos Electr&oacute;nicos Interbancarios (SPEI), o mediante cargos y abonos a cuentas en el mismo &ldquo;BANCOMER&rdquo;, se acreditar&aacute; mismo &ldquo;D&Iacute;A H&Aacute;BIL&rdquo; en que se ordene la transferencia.<br>
+b) A trav&eacute;s del Sistema de Transferencia Electr&oacute;nica, se acreditar&aacute; a m&aacute;s tardar el &ldquo;D&Iacute;A H&Aacute;BIL&rdquo; siguiente al que se ordene la transferencia. </th>
+  </tr>
+ 	</table>
+
+ 	<br>
+	<b>D&Eacute;CIMA SEGUNDA.- ESTADO DE CUENTA.</b> &quot;BANCOMER&quot; emitir&aacute; mensualmente el Estado de Cuenta de &quot;EL CLIENTE&quot;, el cual le entregar&aacute; a este &uacute;ltimo mediante la puesta a disposici&oacute;n&#160;en cualquiera de las sucursales de &quot;BANCOMER&quot;, y / o a trav&eacute;s de los medio electr&oacute;nicos que tenga previamente contratado &quot;EL CLIENTE&quot;.
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+<div id="pagina6">
+  <p>En el Estado de Cuenta, &quot;EL CLIENTE&quot; podr&aacute; conocer el saldo del &quot;CR&Eacute;DITO&quot;, los cargos y abonos efectuados.<br>
+    <br>
+    Con independencia de lo anterior, &ldquo;EL CLIENTE&quot; podr&aacute; solicitar a &ldquo;BANCOMER&rdquo; el env&iacute;o del estado de cuenta al domicilio proporcionado por &ldquo;EL CLIENTE&rdquo;. <br>
+    &#160;<br>
+    Asimismo, &quot;BANCOMER&quot; y &quot;EL CLIENTE&quot; acuerdan que el primero podr&aacute; modificar en cualquier tiempo las fechas de pago previstas en este instrumento, lo cual har&aacute; del conocimiento de &quot;EL CLIENTE&quot; conforme a lo se&ntilde;alado en la Cl&aacute;usula D&eacute;cima Novena (Procedimiento para modificar el convenio) de este instrumento. <br>
+    <br>
+    <b>D&Eacute;CIMA <strong>SEGUNDA</strong>.- PAGOS ANTICIPADOS Y ADELANTADOS.</b> &ldquo;EL CLIENTE&rdquo; podr&aacute; efectuar pagos anticipados del &ldquo;CR&Eacute;DITO&rdquo; y para esto deber&aacute;: a) estar al corriente en el cumplimiento de sus obligaciones se&ntilde;aladas en este convenio y, b) el importe de sus pagos anticipados ser&aacute; por lo menos el equivalente al importe de una amortizaci&oacute;n o mayor a &eacute;sta. Estos pagos anticipados ser&aacute;n aplicados al saldo insoluto del principal.<br>
+    <br>
+    Si &ldquo;EL CLIENTE&rdquo; solicita a &ldquo;BANCOMER&rdquo; efectuar pagos anticipados, &ldquo;BANCOMER&rdquo; informar&aacute; a &ldquo;EL CLIENTE&rdquo; sobre su saldo insoluto y seguir&aacute; el siguiente procedimiento en:<br>
+    <br>
+    <b>a) Sucursal. </b>&ldquo;EL CLIENTE&rdquo; con su n&uacute;mero de cr&eacute;dito, acude a cualquier sucursal presenta su identificaci&oacute;n oficial y hace su pago anticipado.<br>
+    <br>
+    Si el importe de los pagos anticipados no es suficiente para amortizar el saldo insoluto en su totalidad, &ldquo;BANCOMER&rdquo; disminuir&aacute; el importe de las amortizaciones restantes o disminuir&aacute; el n&uacute;mero de pagos a elecci&oacute;n de &ldquo;EL CLIENTE&rdquo;.<br>
+    <br>
+    <b>b) En Banca electr&oacute;nica por Internet.</b> En caso de que El CLIENTE cuente con este servicio, mediante el uso de claves y contrase&ntilde;as previamente convenidas, &ldquo;EL CLIENTE&rdquo; ingresa al portal de Bancomer.com, donde en la pantalla se muestra un men&uacute; de opciones, &ldquo;EL CLIENTE&rdquo; selecciona la opci&oacute;n &ldquo;Pagar&rdquo; donde digita la cantidad del pago anticipado.<br>
+    <br>
+    Si el importe de los pagos anticipados no es suficiente para amortizar el saldo insoluto en su totalidad, &ldquo;BANCOMER&rdquo; disminuir&aacute; el importe de las amortizaciones restantes, y;<br>
+    <br>
+    <b>c) Por cajeros autom&aacute;ticos o por cualquier medio electr&oacute;nico previamente pactado.</b> &ldquo;EL CLIENTE&rdquo; mediante el uso de claves y contrase&ntilde;as previamente convenidas accede al cajero autom&aacute;tico, donde se muestra en la pantalla la opci&oacute;n de &ldquo;Pago del Cr&eacute;dito&rdquo;, &ldquo;El CLIENTE&rdquo; ingresa la cantidad a pagar para llevar a cabo su pago anticipado.<br>
+    Si el importe de los pagos anticipados no es suficiente para amortizar el saldo insoluto en su totalidad, &ldquo;BANCOMER&rdquo; disminuir&aacute; el importe de las amortizaciones restantes y entregar&aacute; a &ldquo;EL CLIENTE&rdquo; la tabla de amortizaci&oacute;n actualizada, poni&eacute;ndola a su disposici&oacute;n en cualquier sucursal.<br>
+    <br>
+    En todos los casos &ldquo;BANCOMER&rdquo; entregar&aacute; un comprobante del pago al momento de realizarlo. Si los pagos anticipados que realice &ldquo;EL CLIENTE&rdquo; son por un importe igual al saldo insoluto, &ldquo;BANCOMER&rdquo; le entregar&aacute; el finiquito y documentaci&oacute;n conforme a lo se&ntilde;alado en la Cl&aacute;usula Vig&eacute;sima (Terminaci&oacute;n del convenio) de este instrumento.<br>
+    <br>
+    &ldquo;EL CLIENTE&rdquo; podr&aacute; solicitar a &ldquo;BANCOMER&rdquo;, en sucursales, recibir pagos que a&uacute;n no sean exigibles para cubrir pagos peri&oacute;dicos inmediatos siguientes. En el caso de que el pago sea superior al que deba cubrirse en un per&iacute;odo, &ldquo;EL CLIENTE&rdquo; deber&aacute; presentar un escrito con su firma aut&oacute;grafa que incluya la leyenda siguiente: &ldquo;EL CLIENTE autoriza que los recursos que se entregan en exceso a sus obligaciones exigibles, no se apliquen para el Pago Anticipado del principal, sino que se utilicen para cubrir por adelantado los pagos peri&oacute;dicos del Cr&eacute;dito inmediatos siguientes&rdquo;.<br>
+    <br>
+    Cuando &ldquo;EL CLIENTE&rdquo; realice un pago adelantado, &ldquo;BANCOMER&rdquo; le entregar&aacute; el comprobante de dicho pago.<br>
+    <br>
+    <br>
+    <b>D&Eacute;CIMA <strong>TERCERA</strong>.- LIBERACI&Oacute;N DEL SALDO INSOLUTO POR FALLECIMIENTO.</b> En caso de fallecimiento de &quot;EL CLIENTE&quot;, &ldquo;BANCOMER&quot; condonar&aacute; el saldo deudor a la fecha de fallecimiento prevista en el certificado o acta de defunci&oacute;n.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>CUARTA</strong>.- IMPUESTOS.</b> &quot;EL CLIENTE&quot; pagar&aacute; a &quot;BANCOMER&quot; todas las sumas de principal, intereses y otras sumas pagaderas conforme al presente convenio, que grave dichas cantidades en la actualidad o en el futuro, pagaderos en cualquier jurisdicci&oacute;n en M&eacute;xico. Los impuestos, derechos, o cualquier otra obligaci&oacute;n de naturaleza fiscal que se genere con motivo del presente convenio, ser&aacute;n a cargo de la parte que lo cause de conformidad con la legislaci&oacute;n fiscal mexicana aplicable.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>QUINTA</strong>.- CAUSAS DE VENCIMIENTO ANTICIPADO.</b> El plazo para el pago del &quot;CR&Eacute;DITO&quot; y sus accesorios se podr&aacute; dar por vencido anticipadamente previo aviso a &ldquo;EL CLIENTE&rdquo; y sin necesidad de declaraci&oacute;n judicial previa, en caso de que acontezca cualquiera de las siguientes causas:<br>
+    <br>
+    <b>a)</b> Si &quot;EL CLIENTE&quot; no paga puntual e &iacute;ntegramente alguna amortizaci&oacute;n de capital vencida, o los intereses devengados, o gastos que se causen en virtud del presente instrumento y en relaci&oacute;n con el &quot;CR&Eacute;DITO&quot; (cada uno de dichos eventos constituir&aacute; una &quot;Causa de Vencimiento Anticipado&quot;).<br>
+    <br>
+    <b>b)</b> Si &quot;EL CLIENTE&quot; faltare al cumplimiento de cualquiera de sus obligaciones bajo el presente instrumento, incluyendo sin limitar las obligaciones de hacer y de no hacer estipuladas en el presente instrumento.<br>
+    <br>
+  </p>
+  <div style="height:20px; clear:both;"></div>
+   <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+
+<div id="pagina7">
+  <p><b>c)</b> Si resulta ser falsa cualquier informaci&oacute;n o dato proporcionado por &quot;EL CLIENTE&quot; en la solicitud del &quot;CR&Eacute;DITO&quot; o en cualquier informaci&oacute;n que deba proporcionar a &quot;BANCOMER&quot;.<br>
+    <br>
+    Independientemente de lo anterior, el &quot;CR&Eacute;DITO&quot; se extinguir&aacute; en los casos previstos por la Ley General de T&iacute;tulos y Operaciones de Cr&eacute;dito.<br>
+    <br>
+    En caso de ocurrir alguna de las causas de vencimiento anticipado antes previstas, &quot;BANCOMER&quot; podr&aacute; declarar por vencido anticipadamente el plazo estipulado para el pago del &quot;CR&Eacute;DITO&quot; y dem&aacute;s accesorios estipulados en el presente instrumento y &quot;EL CLIENTE&quot; deber&aacute; pagar a &quot;BANCOMER&quot; de manera inmediata el importe total del saldo insoluto de dicho &quot;CR&Eacute;DITO&quot; y todas las dem&aacute;s sumas que se adeuden bajo el presente convenio, caso en el cual el o los pagar&eacute;s que haya suscrito &quot;EL CLIENTE&quot; en esta fecha vencer&aacute;n y ser&aacute;n pagados de inmediato; en caso contrario &quot;EL CLIENTE&quot; se obliga a pagar intereses moratorios conforme a lo pactado en el presente instrumento, tomando como base la tasa ordinaria aplicable pactada en el presente &quot;CR&Eacute;DITO&quot;.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>SEXTA</strong>.- CESI&Oacute;N DEL CR&Eacute;DITO.</b> Este convenio surtir&aacute; sus efectos una vez que haya sido suscrito por &quot;EL CLIENTE&quot; y &quot;BANCOMER&quot; y posteriormente obligar&aacute; y beneficiar&aacute; a &quot;EL CLIENTE&quot; y a &quot;BANCOMER&quot; y a sus respectivos sucesores y cesionarios seg&uacute;n sea el caso. &quot;EL CLIENTE&quot; no podr&aacute; ceder sus derechos u obligaciones conforme a este convenio, ni inter&eacute;s en el mismo sin el consentimiento previo y por escrito de &quot;BANCOMER&quot;. &quot;BANCOMER&quot;, por su parte, podr&aacute; transmitir, ceder o negociar este &quot;CR&Eacute;DITO&quot; en la medida de dicha cesi&oacute;n, al cesionario le corresponder&aacute; en contra de &quot;EL CLIENTE&quot; los mismos derechos y beneficios que tendr&iacute;a si fuera &quot;BANCOMER&quot; en este convenio.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>S&Eacute;PTIMA</strong>.- PROCEDIMIENTO PARA MODIFICAR EL CONVENIO.</b> &quot;BANCOMER&quot; podr&aacute; modificar el presente convenio, mediante aviso dado con 30 (TREINTA) d&iacute;as naturales de anticipaci&oacute;n a su entrada en vigor, a trav&eacute;s del Portal Financiero www.bbva.com<br>
+    <br>
+    En caso de que &ldquo;EL CLIENTE&rdquo; no est&eacute; de acuerdo con las modificaciones notificadas por &ldquo;BANCOMER&rdquo; podr&aacute; solicitar la terminaci&oacute;n del convenio en un plazo de 30 (TREINTA) d&iacute;as naturales posteriores a la entrada en vigor de las modificaciones, mediante la presentaci&oacute;n de una solicitud por escrito ante cualquier sucursal de &ldquo;BANCOMER&rdquo; para la realizaci&oacute;n de dicha cancelaci&oacute;n. &ldquo;BANCOMER&rdquo; una vez que reciba el aviso de terminaci&oacute;n por parte de &ldquo;EL CLIENTE&rdquo;, proceder&aacute; a la cancelaci&oacute;n del convenio, sin eximir a &ldquo;EL CLIENTE&rdquo; de las obligaciones de pago que tenga pendientes hasta el t&eacute;rmino de la operaci&oacute;n.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>OCTAVA</strong>.- TERMINACI&Oacute;N DEL CONVENIO. </b> &quot;EL CLIENTE&quot; podr&aacute; solicitar, en todo momento, la terminaci&oacute;n del presente convenio, a trav&eacute;s de los medios que &ldquo;BANCOMER&rdquo; tenga habilitados. BANCOMER al recibir la solicitud de EL CLIENTE de terminaci&oacute;n del contrato, realizar&aacute; las siguientes acciones:<br>
+    <br>
+    <b> a)</b>Verificar su identidad, confirmando sus datos personales;    </p>
+  <p><br>
+    <b>b)</b> Le dar&aacute; un n&uacute;mero de folio;<br />
+
+
+    <br>
+    <b>c)</b>Cancelar&aacute;, sin responsabilidad para BANCOMER, los servicios de domiciliaci&oacute;n, o cualquier otro producto o servicio asociado al Cr&eacute;dito;<br />
+<br>
+    <b>d)</b>Cancelar&aacute;, sin responsabilidad para BANCOMER, los servicios de domiciliaci&oacute;n, o cualquier otro producto o servicio asociado al Cr&eacute;dito;<br />
+    <br>
+    <b>e)</b>No condicionar&aacute; la terminaci&oacute;n del convenio a la devoluci&oacute;n del tanto que EL CLIENTE tenga; y<br />
+<br />
+<b>f)</b>No le cobrar&aacute; ninguna comisi&oacute;n o penalizaci&oacute;n por la terminaci&oacute;n del contrato.<br />
+
+
+    <br>
+    Una vez que &ldquo;EL CLIENTE&rdquo; realice el pago del saldo insoluto del &ldquo;CR&Eacute;DITO&rdquo;, se llevar&aacute; a cabo la terminaci&oacute;n del convenio de &ldquo;CR&Eacute;DITO&rdquo;. &ldquo;BANCOMER&rdquo; entregar&aacute; a &ldquo;EL CLIENTE&rdquo; el documento que hace constar la total cancelaci&oacute;n anticipada y pondr&aacute; a disposici&oacute;n de &ldquo;EL CLIENTE&rdquo; el documento que hace constar la terminaci&oacute;n del convenio del &ldquo;CR&Eacute;DITO&rdquo; y la inexistencia de adeudo alguno con &ldquo;BANCOMER&rdquo; en relaci&oacute;n a dicho &ldquo;CR&Eacute;DITO&rdquo;.<br>
+    <br>
+    <br>
+    &ldquo;EL CLIENTE&rdquo; podr&aacute; solicitar por escrito a &ldquo;BANCOMER&rdquo;, la terminaci&oacute;n del presente convenio a trav&eacute;s de otra Instituci&oacute;n de Cr&eacute;dito, siempre y cuando haya aperturado una cuenta a su nombre en dicha Instituci&oacute;n de Cr&eacute;dito. &ldquo;BANCOMER&rdquo; proceder&aacute; a cancelar el cr&eacute;dito siempre que la misma Instituci&oacute;n haga la solicitud respectiva a &ldquo;BANCOMER&rdquo;, en la que manifieste su compromiso sobre la veracidad y legitimidad de la instrucci&oacute;n de terminaci&oacute;n del convenio por parte de &ldquo;EL CLIENTE&rdquo;, y &ldquo;BANCOMER&rdquo; recabe su confirmaci&oacute;n a trav&eacute;s de los medios de localizaci&oacute;n que haya aportado. <br>
+    <br>
+    &ldquo;EL CLIENTE&rdquo; es el responsable de la informaci&oacute;n proporcionada a &ldquo;BANCOMER&rdquo; para efecto de este convenio.<br>
+    <br>
+    <br>
+    <b><strong>D&Eacute;CIMA NOVENA</strong>. TERMINACI&Oacute;N DE LA OPERACI&Oacute;N.</b> El presente convenio se dar&aacute; por terminado el &quot;D&Iacute;A H&Aacute;BIL&quot; siguiente al de la presentaci&oacute;n de la solicitud por parte de &quot;EL CLIENTE&quot;, salvo que existan adeudos pendientes por cubrir por parte de &eacute;ste. De lo contrario, &ldquo;BANCOMER&rdquo;, a m&aacute;s tardar el d&iacute;a h&aacute;bil siguiente al de la recepci&oacute;n de la solicitud, comunicar&aacute; a &ldquo;EL CLIENTE&rdquo; el importe de los adeudos y dentro de los 5 (CINCO) d&iacute;as h&aacute;biles siguientes a su solicitud pondr&aacute; a su disposici&oacute;n dicho dato, en la sucursal elegida por &ldquo;EL CLIENTE&rdquo; y una vez liquidados los adeudos se dar&aacute; por terminado el convenio, en cuyo caso, la terminaci&oacute;n del convenio se verificar&aacute; una vez realizado el pago correspondiente.<br>
+    <br>
+    En la fecha en que se d&eacute; por terminada la presente operaci&oacute;n de cr&eacute;dito, &quot;BANCOMER&quot; entregar&aacute; a &quot;EL CLIENTE&quot; cualquier saldo que &eacute;ste tenga a su favor, por cualquier medio que &quot;EL CLIENTE&quot; indique, deduciendo en su caso cualquier otra cantidad que, en t&eacute;rminos del presente convenio, puedan resultar a cargo de &quot;EL CLIENTE&quot;.</p>
+	<div style="height:20px; clear:both;"></div>
+   <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+  <div class="numeroDePagina"></div> 
+</div>
+
+<div id="pagina8">&ldquo;BANCOMER&rdquo; pondr&aacute; a disposici&oacute;n de &ldquo;EL CLIENTE&rdquo;, en cualquiera de las sucursales dentro de los 10 (DIEZ) d&iacute;as h&aacute;biles siguientes a partir de que se hubiera realizado el pago de los adeudos o en la siguiente fecha de corte, a trav&eacute;s de un documento en el que conste el fin de la relaci&oacute;n contractual y la inexistencia de adeudos derivados exclusivamente de dicha relaci&oacute;n.<br>
+<br>
+&ldquo;BANCOMER&rdquo; reportar&aacute; a las sociedades de informaci&oacute;n crediticia que la cuenta est&aacute; cerrada sin adeudo alguno dentro del plazo establecido por la Ley para Regular las Sociedades de Informaci&oacute;n Crediticia.<br>
+<br>
+<b>VIG&Eacute;SIMA. - PAGO POR TRANSFERENCIA AUTOM&Aacute;TICA.</b> &ldquo;EL CLIENTE&quot; instruye a &quot;BANCOMER&quot; para que realice la transferencia electr&oacute;nica de fondos a la &ldquo;CUENTA EJE&rdquo; descrita en el apartado de Declaraciones, fracci&oacute;n I, inciso e), por el importe y en las fechas correspondientes a los pagos del &#160;&ldquo;CR&Eacute;DITO&rdquo;,
+ conforme al detalle contenido en la tabla de amortizaci&oacute;n.<br><br>
+En caso de que la &ldquo;CUENTA EJE&rdquo; no tuviera fondos suficientes, fuera cancelada, o bien, por cualquier otra raz&oacute;n ajena a &ldquo;BANCOMER&rdquo;, no fuera posible realizar la transferencia electr&oacute;nica de fondos conforme a lo establecido en el p&aacute;rrafo anterior, &ldquo;EL CLIENTE&rdquo; se obliga a realizar el pago respectivo a trav&eacute;s de los medios establecidos en el presente contrato. <br><br>
+&ldquo;EL CLIENTE&rdquo;, en cualquier momento, podr&aacute; solicitar la cancelaci&oacute;n de la transferencia electr&oacute;nica de fondos a que se refiere esta cl&aacute;usula, mediante escrito presentado ante cualquier sucursal, o a trav&eacute;s de &ldquo;EL SISTEMA&rdquo;. Dicha cancelaci&oacute;n surtir&aacute; efectos en un plazo no mayor a tres D&iacute;as H&aacute;biles contados a partir de la fecha en que &ldquo;BANCOMER&rdquo; reciba la solicitud.&rdquo;<br><br>
+<br>
+<br>
+<b>VIG&Eacute;SIMA <strong>PRIMERA</strong>.- RESTRICCI&Oacute;N Y DENUNCIA.</b> Expresamente se conviene que &quot;BANCOMER&quot; se reserva el derecho de denunciar o restringir el presente convenio, en cualquier momento y mediante aviso por escrito que entregue a &quot;EL CLIENTE&quot;.<br>
+<br>
+En caso de denuncia de este convenio, el &quot;CR&Eacute;DITO&quot; se extinguir&aacute; en la parte en que &quot;EL CLIENTE&quot; no hubiere dispuesto, se dar&aacute; por vencido anticipadamente el plazo pactado y &quot;EL CLIENTE&quot; deber&aacute; pagar a &quot;BANCOMER&quot; de inmediato el importe de las sumas de que haya dispuesto m&aacute;s las que le adeude por cualquier otro concepto.<br>
+
+<b><p align="center">CAP&Iacute;TULO SEGUNDO <br>
+  <strong>DISPOSICIONES GENERALES</strong>
+<p></b>
+
+<p><b>VIG&Eacute;SIMA <strong>SEGUNDA</strong>.- <strong>DOMICILIOS</strong>.</b> &quot;LAS PARTES&quot; se&ntilde;alan como domicilio para todos los efectos de este convenio, los siguientes:</p>
+<p>&quot;BANCOMER&quot; el ubicado en: Av. Paseo de la Reforma # 510 (QUINIENTOS DIEZ), Colonia Ju&aacute;rez, Delegaci&oacute;n Cuauht&eacute;moc, C.P. 06600, Ciudad de M&eacute;xico. P&aacute;gina en Internet: www.bbva.com</p>
+<p>&quot;EL CLIENTE&quot;, el relacionado en los contratos de cr&eacute;dito que se consolidan. En caso, de que &quot;EL CLIENTE&quot; realice cambio en su domicilio deber&aacute; informar a &ldquo;BANCOMER&rdquo;, cuando menos con 10 (DIEZ) d&iacute;as h&aacute;biles de anticipaci&oacute;n. En caso de no hacerlo, todos los avisos, notificaciones y dem&aacute;s diligencias judiciales o extrajudiciales que se hagan en el domicilio indicado en esta cl&aacute;usula, surtir&aacute;n plenamente sus efectos.</p>
+<p>&ldquo;EL CLIENTE&rdquo; podr&aacute; consultar las redes sociales, con las que cuenta &ldquo;BANCOMER&rdquo; en www.bbva.com<br />
+<br />
+  <br />
+</p>
+
+<p><b>VIG&Eacute;SIMA <strong>TERCERA</strong> UNIDAD ESPECIALIZADA DE ATENCI&Oacute;N A CLIENTES. (UNE)</b> En el domicilio se&ntilde;alado por &quot;BANCOMER&quot; se encuentra la UNIDAD ESPECIALIZADA DE ATENCI&Oacute;N A CLIENTES (UNE BANCOMER), mediante la cual &quot;EL CLIENTE&quot; podr&aacute; solicitar aclaraciones, consultas de saldo, movimientos, entre otros. El correo electr&oacute;nico es une@bbva.bancomer.com, domicilio Lago Alberto # 320 (TRESCIENTOS VEINTE), entrada por Mariano Escobedo # 303 (TRESCIENTOS TRES), Colonia An&aacute;huac, Delegaci&oacute;n Miguel Hidalgo, C.P.11320, Ciudad de M&eacute;xico, tel&eacute;fono 55 1998 8039 o lo podr&aacute; hacer directamente en cualquier sucursal de &quot;BANCOMER&quot; a nivel nacional.<br />
+</p>
+
+<p><b>VIG&Eacute;SIMA CUARTA.- PROCEDIMIENTO DE ACLARACIONES</b> En caso de que &quot;EL CLIENTE&quot; tenga alguna aclaraci&oacute;n o queja respecto de los movimientos de su estado de cuenta, podr&aacute; presentar su aclaraci&oacute;n o queja por escrito a trav&eacute;s de cualquier sucursal de &quot;BANCOMER&quot; o a trav&eacute;s del Centro de Atenci&oacute;n a Clientes, conforme el siguiente procedimiento:</p>
+<p><br>
+    <b>a)</b> Cuando &quot;EL CLIENTE&quot; no est&eacute; de acuerdo con alguno de los movimientos que aparezcan en el estado de cuenta respectivo o en los medios electr&oacute;nicos, &oacute;pticos o de cualquier otra tecnolog&iacute;a que se hubiere pactado, podr&aacute; presentar una solicitud de aclaraci&oacute;n dentro del plazo de 90 (NOVENTA) d&iacute;as naturales contados a partir de la fecha de corte o, en su caso, de la realizaci&oacute;n de la operaci&oacute;n o del servicio.<br />
+<br />
+<b>b)</b> La solicitud respectiva podr&aacute; presentarse ante la sucursal en la que radica la cuenta, o bien en la unidad especializada de &quot;BANCOMER&quot;, mediante escrito o correo electr&oacute;nico para lo cual &quot;BANCOMER&quot; acusar&aacute; recibo de dicha solicitud y proporcionar&aacute; el n&uacute;mero de expediente.</p>
+<p><br />
+  <b>c)</b> Trat&aacute;ndose de cantidades a cargo de &quot;EL CLIENTE&quot;, &eacute;ste tendr&aacute; el derecho de no realizar el pago cuya aclaraci&oacute;n solicita, as&iacute; como el de cualquier otra cantidad relacionada con dicho pago, hasta en tanto se resuelva la aclaraci&oacute;n conforme al presente procedimiento.<br />
+<br />
+</p>
+<p><b>d)</b> Una vez recibida la solicitud de aclaraci&oacute;n, &quot;BANCOMER&quot; tendr&aacute; un plazo m&aacute;ximo de 45 (CUARENTA Y CINCO) d&iacute;as para entregar a &quot;EL CLIENTE&quot; el dictamen correspondiente, anexando copia simple del documento o evidencia considerada para la emisi&oacute;n de dicho dictamen, as&iacute; como un informe detallado en el que se respondan todos los hechos contenidos en la solicitud presentada por &quot;EL CLIENTE&quot;.<br />
+</p>
+<p><b>e)</b> El dictamen e informe antes mencionados se formular&aacute;n por escrito y ser&aacute;n suscritos por funcionario facultado. En el evento de que, conforme al dictamen que emita &quot;BANCOMER&quot;, resulte procedente el cobro del monto respectivo, &quot;EL CLIENTE&quot; deber&aacute; hacer el pago de la cantidad a su cargo, incluyendo los intereses ordinarios conforme a lo pactado, sin que proceda el cobro de intereses moratorios y otros accesorios generados por la suspensi&oacute;n del pago.<br />
+</p>
+<p><b>f)</b> Dentro del plazo de 45 (CUARENTA Y CINCO) d&iacute;as naturales contados a partir de la entrega de dicho dictamen, &quot;BANCOMER&quot; se obliga a poner a disposici&oacute;n de &quot;EL CLIENTE&quot; en la sucursal donde radica el &quot;CR&Eacute;DITO&quot;, el expediente generado con motivo de la solicitud, as&iacute; como a integrar en &eacute;ste, bajo su m&aacute;s estricta responsabilidad, toda la documentaci&oacute;n e informaci&oacute;n que deba obrar en su poder y que se relacione directamente con la solicitud de aclaraci&oacute;n que corresponda y sin incluir datos correspondientes a operaciones relacionadas con terceras personas.<br />
+</p>
+<p><b>g)</b> Hasta en tanto la solicitud de aclaraci&oacute;n de que se trate no quede resuelta de conformidad con el procedimiento se&ntilde;alado en esta cl&aacute;usula, &quot;BANCOMER&quot; no podr&aacute; reportar como vencidas las cantidades sujetas a dicha aclaraci&oacute;n a las Sociedades de Informaci&oacute;n Crediticia.<br />
+<br />
+  <br />
+</p>
+
+<p>El procedimiento antes descrito es sin perjuicio del derecho de &quot;EL CLIENTE&quot; de acudir ante la Comisi&oacute;n Nacional para la Protecci&oacute;n y Defensa de los Usuarios de Servicios Financieros o ante la autoridad jurisdiccional correspondiente. Sin embargo, el procedimiento previsto quedar&aacute; sin efectos a partir de que &quot;EL CLIENTE&quot; presente su demanda ante autoridad jurisdiccional o conduzca su reclamaci&oacute;n en t&eacute;rminos de la Ley de Protecci&oacute;n y Defensa al Usuario de Servicios Financieros.<br />
+</p>
+
+<p><b>VIG&Eacute;SIMA QUINTA.- ENTREGA DE CONVENIO.</b> Cuando la contrataci&oacute;n se realice en Sucursal, &quot;BANCOMER&rdquo; entregar&aacute; al momento de la firma del presente instrumento a &quot;EL CLIENTE&rdquo;: </p>
+<p><b>a)</b> Copia del presente convenio, y </p>
+<p><b>b)</b> Tabla de amortizaci&oacute;n</p>
+<p>Cuando la contrataci&oacute;n se realice a trav&eacute;s de cualquiera de los medios electr&oacute;nicos previamente pactados con &ldquo;BANCOMER&rdquo;, &eacute;ste pondr&aacute; a disposici&oacute;n de &ldquo;EL CLIENTE&rdquo; los documentos antes se&ntilde;alados en cualquier sucursal y/o a trav&eacute;s del correo electr&oacute;nico proporcionado por &ldquo;EL CLIENTE&rdquo;.<br />
+<br />
+</p>
+
+<p><b>VIG&Eacute;SIMA SEXTA.- TITULO EJECUTIVO.</b> El presente convenio, conjuntamente con el estado de cuenta certificado por el Contador de &quot;BANCOMER&quot;, ser&aacute; t&iacute;tulo ejecutivo.</p>
+
+  
+
+
+
+<div id="pagina9">
+  <p><b>VIG&Eacute;SIMA S&Eacute;PTIMA.- LEYES Y TRIBUNALES.</b> Este convenio se rige de acuerdo a las leyes de los Estados Unidos Mexicanos, particularmente por lo previsto en la Ley de Instituciones de Cr&eacute;dito, la Ley General de T&iacute;tulos y Operaciones de Cr&eacute;dito y sus leyes supletorias.</p>
+  <p>Asimismo, para todo lo relativo a la interpretaci&oacute;n, ejecuci&oacute;n y cumplimiento del presente convenio, &quot;LAS PARTES&quot; se someten a la jurisdicci&oacute;n de las Leyes y Tribunales de la Ciudad de M&eacute;xico o del lugar de celebraci&oacute;n del presente instrumento, a elecci&oacute;n de la parte actora, renunciando expresamente al fuero de su domicilio presente o futuro.</p>
+
+
+	
+  
+<div id="pagina10">
+
+<p>En testimonio de lo anterior, y conformes &quot;LAS PARTES&quot; de que la car&aacute;tula de este instrumento y las cl&aacute;usulas anteriores son complementarias e integrantes de un mismo instrumento se firma por &quot;LAS PARTES&quot;, el <u>sKZVT-DIA </u> de <u> sKZVT-MES</u> <u>sKZVT-ANIO</u> en la ciudad de <u>sKZVT-CDAD</u>.</p>
+ 	<br>
+ 	
+ 
+ <div style="height:20px; clear:both;"></div>
+ <div class="numeroDePagina"></div>
+</div>
+
+<div id="pagina26">
+	
+ 	<br>
+ 	<br>
+	<table class="bordeLinea" style="width: 100%;height: 130px;">
+		<tr>
+			<th style="width: 50%;" align="center">________________________________
+			<br>
+			<p><b>BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER</b> </p>
+			</th>
+			<th style="width: 50%;" align="center">________________________________
+		
+  			<p><b>BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER </b></p>
+			</th>
+   		</tr>
+	</table >
+	<br>
+	<br>
+	<table class="bordeLinea" width="400" align="center">  
+		<tr class="encabezado" align="center"></tr>
+			<th>
+			 
+ 			<br>
+ 			<br>
+ 			<br>
+ 			<br>
+	 		</th>
+      <tr><td><p align="center"><b>NOMBRE COMPLETO Y FIRMA DE &ldquo;EL CLIENTE&rdquo;</b></p></td></tr>
+ 	</table>
+ <p>&nbsp;</p>
+
+<p align="justify">BBVA &ldquo;BANCOMER&rdquo;, SA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA &ldquo;BANCOMER&rdquo;, AV. PASEO DE LA REFORMA # 510 (QUINIENTOS DIEZ), COL. JU&Aacute;REZ, DELEGACI&Oacute;N CUAUHT&Eacute;MOC, C.P. 06600, CIUDAD DE M&Eacute;XICO., R.F.C.BBA830831LJ2</p>
+ 
+	 <div style="height:20px; clear:both;"></div>
+   <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+  <div class="numeroDePagina"></div>
+</div>
+
+
+</body>
+</html>

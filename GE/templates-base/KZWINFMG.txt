@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BBVA</title>
+<style type="text/css">
+    .fuente{font-family:Helvetica,Arial,sans-serif;text-decoration: none;word-wrap: normal; hyphens: none;}
+    .font2{color:#121212;font-size: 12px;font-weight: 300;}
+    .font1{color:#fff;font-size: 14px;font-weight: 400;}
+    .font3{color:#666;font-size:12px;font-weight:300;}
+    body {margin: 0; padding: 0; min-width: 100%!important;}
+    img {height: auto;}  .content {width: 100%; max-width: 600px;}
+    .pre-header{margin: 25px auto 25px;}
+    .header {margin: 25px auto 25px auto;}
+    .h3, .bodycopy1 {color: #121212; font-family: Helvetica,Arial,sans-serif;}
+    .h3 {font-size:20px;font-weight:700;line-height:20px;text-align:left;}
+    .bodycopy1 {font-size: 14px; line-height: 22px;font-weight: 300; padding-top: 60px;}
+    
+
+      @media only screen and (max-width: 550px), screen and (max-device-width: 550px) {
+      body[yahoo] .hide {display: none!important;}
+      body[yahoo] .buttonwrapper {background-color: transparent!important;}
+      body[yahoo] .button {padding: 0px!important;}
+      body[yahoo] .button a {background-color: #e05443; padding: 15px 15px 13px!important;}
+      body[yahoo] .unsubscribe {display: block; margin-top: 20px; padding: 10px 50px; background: #2f3942; border-radius: 5px; text-decoration: none!important; font-weight: bold;}
+      }
+
+  /*@media only screen and (min-device-width: 601px) {
+    .content {width: 600px !important;}
+    .col425 {width: 425px!important;}
+    .col380 {width: 380px!important;}
+    }*/
+
+  </style>
+</head>
+
+<body yahoo bgcolor="#efeeed">
+<table width="100%" bgcolor="#efeeed" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td>
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+    <![endif]-->     
+    <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td bgcolor="#efeeed">
+          <!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+          </table>
+          <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+      <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+    <![endif]-->     
+    <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td>
+          <table  align="left" border="0" cellpadding="0" cellspacing="0">  
+            <tr>
+              <td  height="20px" width="25px"><img src="httpsbarra.png" style="width: 23px;height: 119px;" ></td>
+              <td  height="20px" width="25px" ><img style="height: 33px;margin-top: 44px;margin-left: 14px;width: 201px;" src="httpsLogo_BBVA1.png"></td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <tr>
+        <td style="padding:0px 37px!important">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="35px" height="10" style="font-family: Arial; color: #000000; font-size: 12px;">
+          <p align="left"style="font-family: Arial;  font-size: 24px;text-align: justify;margin-top: 24px;">Estimado (a):<br>sNOMBRE</p>
+          <p align="left" style="margin-bottom:auto; font-family:Helvetica,Arial,sans-serif;font-size:14px;text-align: justify; "><b>Te informamos que se ha efectuado la contrataci&oacute;n de tu tarjeta de cr&eacute;dito con la siguiente informaci&oacute;n</b>:</p><br><br><br>
+          </td>
+            </tr>
+            <tr>
+        <td style="padding: 0px 0px 20px 0px!important;">
+          <table width="100%" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:14px;">Tarjeta de Cr&eacute;dito</td><td>sTARJETA</td>
+            </tr cel>
+            <tr>
+             <tr>
+              <td >
+                <hr></hr><br>
+              </td>
+              <td >
+                <hr></hr><br>
+              </td>
+            </tr>
+            
+          sCTA_ASOCIADA
+
+            <tr>
+            <td style="color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:14px;">Canal de contrataci&oacute;n</td><td>sCANAL_CONTRATACION</td>
+            </tr>
+             <tr>
+              <td >
+                <hr></hr><br>
+              </td>
+              <td >
+                <hr></hr><br>
+              </td>
+            </tr>
+            <tr>
+            <td style="color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:14px;">L&iacute;mite de Cr&eacute;dito</td><td>$sLIMITE_CREDITO</td>
+            </tr>
+             <tr>
+              <td >
+                <hr></hr><br>
+              </td>
+              <td >
+                <hr></hr><br>
+              </td>
+            </tr>
+            <tr>
+            <td style="color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:14px;">Fecha y hora de aoperaci&oacute;n</td><td>sFECHA_OPERACION sHORA_OPERACION</td>
+            </tr>
+             <tr>
+              <td >
+                <hr></hr><br>
+              </td>
+              <td >
+                <hr></hr><br>
+              </td>
+            </tr>
+            <tr>
+            <td style="color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:14px;">Folio de Internet</td><td>sFOLIO_INTERNET</td>
+            </tr cel>
+            <tr>
+          <tr>
+              <td >
+                <hr></hr><br>
+              </td>
+              <td >
+                <hr></hr><br>
+              </td>
+            </tr>
+        </table>
+        <tr>
+              <td align="left" class="fuente font2" style="color:#666666;padding: 2px 14px 27px 25px;">
+                 Te recordamos que tu banquero personal te har&aacute; entrega de tu tarjeta de cr&eacute;dito.
+              </td>
+            </tr> 
+
+            sDOMICILIO
+
+        </td>
+      </tr>   
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#237aba" style="padding: 0px 32px 15px 32px!important">
+          <table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">  
+            <tr>
+              <td class="fuente font1 " height="20">
+            <tr>
+              <td align="center" style="padding: 0px 0px 0px 0px;">
+                <table border="0" cellspacing="0" cellpadding="0">
+
+                  <a align="center" class="fuente font1" href="https://www.bancomer.com/aplicativos/buscador-sucursales/index.jsp" target="_blank;" style="color: #fff !important;text-decoration: none;">
+                         S&iacute;guenos en: 
+                     </a>
+                  <tr>
+                    <td width="37" style="text-align: center; padding: 0 6px 0 10px;">
+                      <a href="sFacebookRedSocial">
+                        <img src="httpsfb_icon.png" width="26" height="26" alt="Facebook" border="0" />
+                      </a>
+                    </td>
+                    <td width="37" style="text-align: center; padding: 0 10px 0 6px;">
+                      <a href="sTwitterRedSocial">
+                        <img src="httpstw_icon.png" width="26" height="26" alt="Twitter" border="0" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 40px 32px 40px 32px;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="left" class="fuente font2" style="color:#666666;">
+                 Si requieres m&aacute;s informaci&oacute;n comun&iacute;cate a L&iacute;nea BBVA al 800-2262663 Larga distancia sin costo o al 5226-2663 desde la Cd. de M&eacute;xico.<br><br>Este correo electr&oacute;nico constituye uan notificaci&oacute;n de los t&eacute;rminos en que se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobate oficial es el estado de cuanta que emite BBVA M&eacute;xico.
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 45px 0 0 0;">
+                <table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="37" style="text-align: center; padding: 0 6px 0 10px;">
+                      <a href="https://www.bancomer.com/" target="_blank">
+                        <img src="httpsBancomerFooter.png" alt="Facebook" border="0" style="max-width:513px;width:auto" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align="left" class="fuente font3" style="padding: 45px 0 0 0;">
+                 <span style="color:#666 !important;text-decoration:none!important">
+                    sDireccion
+                 </span>
+              </td>
+            </tr>
+             <tr>
+        <td style="padding: 65px 32px!important;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+              <td class="fuente font3" style="color: #666 !important;text-align: right; padding-top: 0px;">
+                T03AL<br>9101
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+    </table>
+    <![endif]-->
+    </td>
+  </tr>
+</table>
+
+<!--analytics-->
+</td>
+</tr>
+</table>
+</body>
+</html>

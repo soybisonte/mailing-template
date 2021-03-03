@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+  
+  <style type="text/css">
+body { background-color : White; color:#000099; font-family : Courier
+New, Courier, mono; font-size :14px;
+}
+  </style>
+  <title>Pago en Ventanilla</title>
+
+  
+</head><body>
+<div style="width: 584px;"><img src="http://www.bancomer.com.mx/comun/img/comun_logo.gif"></div>
+
+<br style="color: black;">
+
+<div style="width: 612px; font-weight: bold; color: black;" align="center">Confirmaci&oacute;n
+ de pago
+ disponible en la red de sucursales BBVA<br>
+S.A. bajo las siguientes condiciones:</div>
+
+<table style="border-color: black; border-bottom: 1px solid black; background-color: white; height: 409px; width: 750px;" cellspacing="0">
+
+  <tbody>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;"><br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">NOMBRE
+ DEL CLIENTE: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;">sTITULAR
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">N&Uacute;MERO
+ DE CONVENIO:*<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sCONVENIO</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">REFERENCIA
+ DEL PAGO:*<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sREFERENCIA</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">CONCEPTO
+ DEL PAGO:*<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;">sCONCEPTO
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">NOMBRE
+ DEL BENEFICIARIO:<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; font-weight: bold; color: black;">sBENEFI-UNO</td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">IDENTIFICACI&Oacute;N
+ DEL BENEFICIARIO:<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sCLAVE-UNO</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">N&Uacute;MERO
+ DE IDENTIFICACI&Oacute;N DEL BENEFICIARIO:<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;">sNUM-IDENTIF
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">NOMBRE
+ DEL SEGUNDO BENEFICIARIO:<br>
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sBENEFI-DOS</span> <br>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">IDENTIFICACI&Oacute;N
+ DEL SEGUNDO BENEFICIARIO: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sDESCRIP-DOS</span>&nbsp; </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">NUMERO
+ DE IDENTIFICACI&Oacute;N DEL SEGUNDO BENEFICIARIO: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;">sNID
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">LIQUIDACI&Oacute;N:
+      </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sINDCHQC</span> </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">TIPO
+ DE PAGO: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;">
+sTPOPAGO <br>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">IMPORTE
+ DEL PAGO: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;"><span style="color: rgb(0, 158, 229);">$sIMPORTE</span> </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">FECHA
+ DE OPERACI&Oacute;N: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black;"><span style="font-weight: bold;">sFECHA-PAGO sHORARIO HRS.</span> </td>
+    </tr>
+    <tr>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 326px; height: 23px; color: black;">FECHA
+ DE VIGENCIA: </td>
+      <td style="border-bottom-style: solid; border-bottom-width: 1px; width: 368px; height: 23px; color: black; font-weight: bold;">sFECHA-VENCIMIENTO
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; color: black; width: 326px;">MENSAJE
+ ADICIONAL</td>
+      <td style="vertical-align: top; color: black; font-weight: bold; text-align: left; width: 368px; white-space: nowrap;">ARR0<br></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<div style="width: 689px; color: black;"><small><b>*Datos
+ solicitados en
+ sucursal para el cobro del pago</b></small></div>
+
+<br>
+
+<br>
+
+<div style="font-family: monospace; width: 695px; color: black;">
+<font size="-2">Este correo constituye
+ solo una referencia de los
+ t&eacute;rminos en que se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobante<br>
+oficial es el estado de cuenta de cheques que emite BBVA M&eacute;xico, S.A.</font>
+</div>
+
+<br>
+
+<div style="width: 652px;"><br>
+<table style="text-align: left; width: 654px; height: 152px;" border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td colspan="1" rowspan="1" style="vertical-align: top;"><span style="color: black;">Atentamente</span><br style="color: black;">
+      <span style="font-weight: bold; color: black;">SIT - Dispersi&oacute;n
+de pagos</span><br style="color: black;">
+      <span style="color: black;">Servicos Transaccionales M&eacute;xico</span><br style="color: black;">
+      <span style="color: black;">BBVA</span><br style="color: black;">
+      <span style="color: black;">www</span><img style="color: black;" border="0" height="0" width="0"><span style="color: black;">.bbva</span><img style="color: black;" border="0" height="0" width="0"><span style="color: black;">.com</span><br>
+      </td>
+      <td colspan="1" rowspan="1" style="vertical-align: top;"><img style="width: 158px; height: 132px;" alt="" src="https://www.bancomermovil.net:11443/imgsd_mx_web/imgsp_mx_web/web/AlertasBancomer/Sit/SIT2.png" align="right"><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+</div>
+
+<br>
+
+<!--sCNIP-KZNUMCAJ
+sCNIP-KZUBICAS
+*sCNIP-KZCUENTA
+sCMTA-KZFECOPE
+sCMTA-KZHOROPE
+sCMTA-KZFOLIOS
+sCMTA-KZAUTORI
+sCNIP-KZNOMCTE--><!--sLEYENDA1 sLEYENDA8 sLEYENDA6 sLEYENDA2 sLEYENDA7 sLEYENDA3 sLEYENDA9
+sLEYENDA5<br>
+sTelefono
+Fecha y Hora de la operaci&oacute;n: sFECHA sHORA-->
+<br>
+
+<br>
+
+</body></html>

@@ -1,0 +1,97 @@
+<!-- PARAMETRO DE ENVIO POR TECNICO -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Documento sin t&iacute;tulo</title>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+<style type="text/css">
+body {
+        background-color : White;
+        color:#000000;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size :14px;
+}
+.tablaSit {
+        font-size :14px;
+        width: 100%
+}
+    .Estilo8 {color: #000000}
+.Estilo10 {
+  font-size: 16px;
+  font-weight: bold;
+}
+</style>
+
+</head>
+
+<body>
+<p class="Estilo8">&nbsp; </p>
+<table width="61%" align="center">
+<tr >
+  <td width="55%"><img src="http://www.bancomer.com.mx/comun/img/comun_logo.gif" ></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+  <td><div align="right">  sTITULAR.RETIRO  </div></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+  <td><b><font color="#30c0f3" size="3">BBVA PAYMENT</font></b></td>
+</tr> 
+<tr><td>&nbsp;</td></tr>
+<tr >
+  <td><strong>BBVA net cash Notification</strong></td>
+</tr>
+
+<tbody><tr><td>&nbsp;</td></tr>
+<tr><td>
+</td></tr><tr><td width="50%" align="right">
+  <font style="font-size:12.0pt;color:#666666">Service number: </font>&nbsp;
+</td><td width="50%">sNUMERO.CLIENTE</td></tr><tr>
+<td width="50%" align="right">
+  <font style="font-size:12.0pt;color:#666666">Debit account owner: </font>&nbsp;
+</td><td width="50%">sTITULAR.RETIRO</td></tr>
+<tr><td width="50%" align="right">
+  <font style="font-size:12.0pt;color:#666666">Credit account owner: </font>&nbsp;
+</td><td width="50%">sTITULAR.DEPOSITO</td></tr>
+<tr><td width="50%" align="right">
+  <font style="font-size:12.0pt;color:#666666">Beneficiary account: </font>&nbsp;
+</td><td width="50%">******sCTA.DEPOSITO.DE4</td></tr>
+<tr><td>
+  <font style="font-size:12.0pt;color:#006ec1"></font>
+</td></tr>
+<tr><td width="50%" align="right">
+  <font style="font-size:12.0pt;color:#666666">Transaction amount: </font>&nbsp;
+</td><td width="50%">$sIMPORTE</td></tr>
+<tr><td width="50%" align="right">
+  <font style="font-size:12.0pt;color:#666666">Currency: </font>&nbsp;
+</td><td width="50%">sDIVISA&nbsp;</td></tr>
+</tbody>
+
+
+<tbody><tr>
+  <td width="50%" align="right">
+    <font style="font-size:12.0pt;color:#666666">Transaction date: </font>&nbsp;
+  </td>
+  <td width="50%"><font style="font-size:12.0pt;color:#363636">sFECHA&nbsp;</font></td></tr>
+<tr><td width="50%" align="right"><font style="font-size:12.0pt;color:#666666">Transaction hour: </font>&nbsp;
+</td><td width="50%"><font style="font-size:12.0pt;color:#363636">sHORA hrs.&nbsp;</font></td></tr>
+</tbody>
+
+<tbody><tr><td>
+</td></tr><tr><td width="50%" align="right"><font style="font-size:12.0pt;color:#666666">User ID: </font>&nbsp;
+</td><td width="50%">sUSUARIO</td></tr>
+<tr><td width="50%" align="right"><font style="font-size:12.0pt;color:#666666">Transaction ID: </font></td><td width="50%">sFUNCIONsCFOLIOsFOLIO</td></tr>
+</tbody></table>
+<table width="61%" align="center">
+  <tr><td>&nbsp;</td> </tr>
+  <tr bgcolor="#f0f9fe">
+ <td align="center">
+ This email is a notification of the terms in which the transaction took place, the only proof
+          is the statement issued by BBVA</td></tr>
+    <tr><td>&nbsp;</td></tr>
+    </table>
+</body>
+</html>

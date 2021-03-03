@@ -1,0 +1,276 @@
+	<!--Content-->
+		<table class="wrapper hero float-center" style="Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%" align="center">
+			<tbody>
+				<tr style="padding:0;text-align:left;vertical-align:top">
+					<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+					<!-- Hero Body -->
+				<table class="container" style="Margin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:600px" align="center">
+							<tbody>
+								<tr style="padding:0;text-align:left;vertical-align:top">
+				<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+					<table class="row hero-body" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+											<tbody>
+												<tr style="padding:0;text-align:left;vertical-align:top">
+			<th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0px;padding-left:18px;padding-right:18px;text-align:left;width:582px">
+			<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+<tr style="padding:0;text-align:left;vertical-align:top">
+		<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+				<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+					<tr style="padding:0;text-align:left;vertical-align:top">
+		<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:65px;font-weight:400;hyphens:auto;line-height:65px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="65px">&nbsp;
+																						
+																					</td>
+																				</tr>
+																				<br>
+																			</tbody>
+																		</table>
+
+
+
+		<h3 class="hero-body-subheadline" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:inherit;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:700;line-height:20px;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:left;word-wrap:normal">
+																		    Hola, sNOMBRE:
+					</h3>
+
+			<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+						<tr style="padding:0;text-align:left;vertical-align:top">
+		<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:30px;font-weight:400;hyphens:auto;line-height:60px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="60px">&nbsp;
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+<p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;line-height:19px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;"> N&uacute;mero de folio: <strong> sFOLIO </strong> 
+</p>
+
+
+<br>
+
+<p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;line-height:19px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;"> Estimado(a) cliente le informamos que su solicitud en la cuenta de cheques <b> sCUENTA </b> 
+ha sido aplicada.</p>
+
+<br>
+<p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;line-height:19px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;"> Fecha: <strong> sFECHA </strong> 
+</p>
+
+<p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;line-height:19px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;"> Hora: <strong> sHORA h</strong> 
+</p>
+
+<br>
+
+
+<table >
+
+		<tr>
+<td>
+			<h4 class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;line-height:13px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;">
+			Detalle de la operaci&oacute;n: </h4> 
+			</td>
+
+			<td class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;line-height:13px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;">
+				<b> ssDETALLE </b> 
+			</td>
+		</tr>
+</table>
+<br>
+<table  class="row collapse" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;margin-left:32px;text-align:left;vertical-align:top;width:90%" >
+
+		<tr>
+
+			<td bgcolor="#F0F0FF" class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;line-height:3.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:100px"valign="top">
+			<center> Talonario </center><center>
+			</td>
+			<td bgcolor="#F0F0FF" class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;line-height:3.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:100"valign="top">
+			<center> Operaci&oacute;n: </center>
+			</td>
+			
+
+			
+			<td bgcolor="#F0F0FF" class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;line-height:3.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:100"valign="top">
+			<center> Estatus: </center>
+			</td>
+		</tr>
+
+<!--Variables-->
+		<tr>
+			<td class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:200;line-height:2.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:0"    valign="top">
+		<center> s01TALONARIO </center>
+		<hr style="color: #F4F4F4; width: 100%">
+			</td>
+			<td class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:400;line-height:2.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:0"    valign="top">
+		<center> ss01OPERACION </center>
+		<hr style="color: #F4F4F4; width: 100%">
+			</td>
+			
+
+		
+		<td class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:400;line-height:2.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:0"    valign="top">
+		<center> s01ESTATUS </center>
+		<hr style="color: #F4F4F4; width: 100%">
+			</td>
+
+		</tr>
+<!--//Variables-->
+s02TALONARIO
+s03TALONARIO
+s04TALONARIO
+s05TALONARIO
+s06TALONARIO
+s07TALONARIO
+s08TALONARIO
+s09TALONARIO
+s10TALONARIO
+		
+
+</table>
+<br>
+<h4 class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#666666;font-family:Helvetica,Arial,sans-serif;font-size:18px;font-weight:700;line-height:13px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:left; hyphens: none;">
+Detalle de cheques protegidos:  </h4>
+<br>
+
+<table  class="row collapse" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;margin-left:32px;text-align:left;vertical-align:top;width:90%" >
+
+		<tr>
+
+			<td bgcolor="#F0F0FF" class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;line-height:3.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:100px"valign="top">
+			<center> No. Cheque </center><center>
+			</td>
+			<td bgcolor="#F0F0FF" class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:15px;font-weight:400;line-height:3.0;margin:0 auto;padding:0;padding-top:0px;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:100px"valign="top">
+			<center> Acci&oacute;n Aplicada </center>
+			</td>	
+		</tr>
+<!--Variables-->
+s001CHEQUE
+s002CHEQUE
+s003CHEQUE
+s004CHEQUE
+s005CHEQUE
+s006CHEQUE
+s007CHEQUE
+s008CHEQUE
+s009CHEQUE
+s010CHEQUE
+s011CHEQUE
+s012CHEQUE
+s013CHEQUE
+s014CHEQUE
+s015CHEQUE
+s016CHEQUE
+s017CHEQUE
+s018CHEQUE
+s019CHEQUE
+s020CHEQUE
+s021CHEQUE
+s022CHEQUE
+s023CHEQUE
+s024CHEQUE
+s025CHEQUE
+s026CHEQUE
+s027CHEQUE
+s028CHEQUE
+s029CHEQUE
+s030CHEQUE
+s031CHEQUE
+s032CHEQUE
+s033CHEQUE
+s034CHEQUE
+s035CHEQUE
+s036CHEQUE
+s037CHEQUE
+s038CHEQUE
+s039CHEQUE
+s040CHEQUE
+s041CHEQUE
+s042CHEQUE
+s043CHEQUE
+s044CHEQUE
+s045CHEQUE
+s046CHEQUE
+s047CHEQUE
+s048CHEQUE
+s049CHEQUE
+s050CHEQUE
+s051CHEQUE
+s052CHEQUE
+s053CHEQUE
+s054CHEQUE
+s055CHEQUE
+s056CHEQUE
+s057CHEQUE
+s058CHEQUE
+s059CHEQUE
+s060CHEQUE
+s061CHEQUE
+s062CHEQUE
+s063CHEQUE
+s064CHEQUE
+s065CHEQUE
+s066CHEQUE
+s067CHEQUE
+s068CHEQUE
+s069CHEQUE
+s070CHEQUE
+s071CHEQUE
+s072CHEQUE
+s073CHEQUE
+s074CHEQUE
+s075CHEQUE
+s076CHEQUE
+s077CHEQUE
+s078CHEQUE
+s079CHEQUE
+s080CHEQUE
+s081CHEQUE
+s082CHEQUE
+s083CHEQUE
+s084CHEQUE
+s085CHEQUE
+s086CHEQUE
+s087CHEQUE
+s088CHEQUE
+s089CHEQUE
+s070CHEQUE
+s071CHEQUE
+s072CHEQUE
+s073CHEQUE
+s074CHEQUE
+s075CHEQUE
+s076CHEQUE
+s077CHEQUE
+s078CHEQUE
+s079CHEQUE
+s090CHEQUE
+s091CHEQUE
+s092CHEQUE
+s093CHEQUE
+s094CHEQUE
+s095CHEQUE
+s096CHEQUE
+s097CHEQUE
+s098CHEQUE
+s099CHEQUE
+s100CHEQUE
+<!--//Variables-->
+	
+	
+</table>
+
+<br>                                                                  														
+</th>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+		<!--//Content-->

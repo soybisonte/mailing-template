@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+
+<body .div {margin-bottom:20px;>
+<blockquote>&nbsp;</blockquote>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://www.bancomermovil.net:11443/mbank/mbank/Descargas/AlertasBancomer/Fondosa.png" style="display:block" width="313" height="99" border="0" /></td>
+  </tr>
+  <tr>
+    <td><table width="730" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="114"><img src="https://www.bancomermovil.net:11443/mbank/mbank/Descargas/AlertasBancomer/lateral.png" style="display:block" width="13" height="auto" /></td>
+        <td width="616" height="30" style="font-family: Arial; color: #005698; font-size: 9px;"><p align="right">TABLA DE AMORTIZACI&Oacute;N 
+        </p>
+          <p align="right">*Tabla de amortizaci&oacute;n informativa </p>
+          <table width="100%"><tr>
+            <td width="50%" bgcolor="#D6EAF8"><p>Fecha de elaboraci&oacute;n: <u>sKZVV-FCHELB</u></p>
+            <p>Nombre del cliente:<u>sKZVV-NUMCLI</u></p>
+            <p>Tipo de cr&eacute;dito: <u> sKZVV-TIPCRD</u></p>
+            <p>Monto del cr&eacute;dito:<u> sKZVV-MONCRD</u></p>
+            <p>Plazo en meses:<u> sKZVV-PLZMSS</u></p>
+            <p>N&uacute;mero de pagos:<u> sKZVV-NUMPAS</u></p>
+            <p>Frecuencia de pago: <u> sKZVV-FREPAG</u></p>
+      </td>
+            <td width="50%" bgcolor="#EBF5FB"><p>Fecha de inicio de cr&eacute;dito:<u>sKZVV-FCHINI</u></p>
+              <p>Fecha de vencimiento del cr&eacute;dito:<u>sKZVV-FCHVTO</u></p>
+              <p>Tasa de inter&eacute;s anual sin IVA: <u>sKZVV-TSAINT</u></p>
+              <p>Comisión por apertura:<u>sKZVV-COMAPR</u></p>
+              <p>IVA de la comisi&oacute;n:<u>sKZVV-IVACOM</u></p>
+              <p>Comisi&oacute;n por disposici&oacute;n:<u>sKZVV-COMDIS</u></p>
+              <p>Monto total al pagar:<u> $ sKZVV-MONPAG</u></p></td></tr></table>
+        
+          </td>
+       
+      </tr>
+      <tr>
+        <td>&nbsp;</td><td style="font-family: Arial; color: #005698; text-align: justify; font-size: 9px;"><table width="100%"><tr bgcolor="#A9CCE3" align="center">
+          <td>N&uacute;mero</td><td>Fecha<br />
+            de vencimiento</td><td>Amortizaci&oacute;n<br />
+              de capital</td>
+            <td>Intereses<br />
+              sin IVA</td>
+            <td>Pago <br />
+              sin IVA</td>
+            <td>IVA<br />
+              de los intereses</td><td>Pago total<br />
+                del periodo</td><td>Saldo<br />
+                  insoluto</td></tr>
+s01KZVV-NUMPAG
+s02KZVV-NUMPAG
+s03KZVV-NUMPAG
+s04KZVV-NUMPAG
+s05KZVV-NUMPAG
+s06KZVV-NUMPAG
+s07KZVV-NUMPAG
+s08KZVV-NUMPAG
+s09KZVV-NUMPAG
+s10KZVV-NUMPAG
+s11KZVV-NUMPAG
+s12KZVV-NUMPAG
+s13KZVV-NUMPAG
+s14KZVV-NUMPAG
+s15KZVV-NUMPAG
+s16KZVV-NUMPAG
+        </table></td></tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+</table>
+</body .div {margin-bottom:20px;>
+</html>
+

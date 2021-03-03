@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contrato M&uacute;ltiple de Servicios Digitales</title>
+	<style type="text/css">
+
+    body{
+	text-align: justify;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: Arial;
+	color: navy;
+    }
+	p {
+        color: navy;
+}
+
+	div{
+		color: navy;
+	}
+
+
+    .texto{
+      text-decoration: underline;
+      color: #0000FF;
+      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .numeroDePagina{
+      text-align: right;
+      padding-top: 10px;
+      padding-bottom: 20px;
+    }
+
+
+    .tituloPrincipal{
+      padding-top: 10px;
+      padding-bottom: 40px;
+      color: #398BDE;
+      font-size: 45px;
+      font-weight: bold;
+    }
+
+    .filaIndice{
+      width: 100%;
+      display: flex;
+    }
+
+    .subSeccionIndice{
+      flex-grow: 1;
+      padding-left: 5%;
+      font-weight: normal;
+    }
+
+    .subSubSeccionIndice{
+      flex-grow: 1;
+      padding-left: 10%;
+      font-weight: normal;
+    }
+
+    .seccionIndice{
+      flex-grow: 1;
+    }
+
+    .puntosIndice{
+      border-bottom-style: dotted;
+      flex-grow: 100;
+      border-bottom-width: 2px;
+    }
+
+    .numeroIndice{
+      flex-grow: 1;
+    }
+
+    .numeroTitulo{
+      float: left;
+      font-size: 30px;
+      color: #2482D0;
+    }
+
+    .textoTitulo{
+      font-size: 18px;
+      color: #00B1EF;
+      padding-top: 10px;
+    }
+
+    .textoTitulo2{
+      font-size: 17px;
+      color: #009EE5;
+      vertical-align: text-bottom;
+    }
+    .textoTitulo3{
+      font-size: 17px;
+      color: #2E9AFE;
+      vertical-align: text-bottom;
+    }
+
+    .bordeLinea{
+      border:1px solid #000;
+      border-collapse: collapse;
+    }
+
+    .bordeLinea .encabezado th{
+      font-weight: bold;
+    }
+
+    .bordeLinea th{
+      border:1px solid #000;
+      font-weight: normal;
+    }
+
+    .sinBorde th{
+      font-weight: normal;
+    }
+
+    .temaTabla{
+      font-weight: bold;
+      text-decoration: underline;
+      padding-right: 10px;
+
+    }
+
+    .link{
+      color: blue;
+      text-decoration: underline;
+
+    }
+
+
+  #pagina3 {
+	color: navy;
+}
+    </style>
+</head>
+<body>
+<p>&nbsp;</p>
+<div id="pagina3">
+  <p align="right">Folio: sFOLIO</p>
+  <p align="right"><b></b></p>
+
+ 	<br>
+ 	<br>
+	<p><b>CONVENIO MODIFICATORIO QUE CELEBRAN, POR UNA PARTE BBVA BANCOMER, SOCIEDAD ANONIMA, INSTITUCI&Oacute;N DE BANCA MULTIPLE, GRUPO FINANCIERO BBVA BANCOMER, COMO ACREEDOR, A QUIEN EN LO SUCESIVO SE DESIGNARA COMO &quot;EL BANCO&quot; A TRAV&Eacute;S DE SUS REPRESENTANTES LEGALES Y POR OTRA PARTE EL(LA) SE&Ntilde;OR (A) <u>sNOMBRECLIENTE</u>, COMO ACREDITADO, QUIEN COMPARECE POR SU PROPIO DERECHO, Y QUE EN LO SUCESIVO SE DENOMINAR&Aacute; COMO "EL CLIENTE", Y CONJUNTAMENTE CON "EL BANCO" COMO "LAS PARTES", AL TENOR DE LAS SIGUIENTES DECLARACIONES Y CLAUSULAS:</b></p>
+ 	<br>
+ 	<p align="center"><b>ANTECEDENTES</b></p>
+	<p><b>I.- CONTRATO DE APERTURA DE CR&Eacute;DITO.-</b></p>
+	<p> Con fecha <u>sFECAPER</u>, se celebr&oacute; un Contrato de Apertura de Cr&eacute;dito Simple, en adelante &quot;EL CONTRATO&quot;, identificado con el n&uacute;mero <u>sCONTRATO</u>, que otorg&oacute; &quot;EL BANCO&quot; a &quot;EL CLIENTE&quot;, por la cantidad de $<u>sIMPCON</u>, en Moneda Nacional, oblig&aacute;ndose &quot;EL CLIENTE&quot; a pagar la cantidad dispuesta, sus respectivos accesorios, intereses, intereses moratorios, comisi&oacute;n, seguros y/o dem&aacute;s gastos que deba cubrir &quot;EL CLIENTE&quot; en favor de &quot;EL BANCO&quot;, mediante pagos MENSUALES y sucesivos.</p>
+
+ 	<div style="height:20px; clear:both;"></div>
+
+      <div style="font-size:9pt; text-align:center; color:#FFFFFF; background-color: navy; ">
+        <div style="height:2px; clear:both;"></div>
+        <b>D E C L A R A C I O N E S</b>
+        <div style="height:2px; clear:both;"></div>
+    </div>
+  <div style="height:20px; clear:both;"></div>
+	<p><b>I.- Declara &quot;EL CLIENTE&quot; que:</b> </p>
+ 	<p><br>
+
+ 	  a) Es persona f&iacute;sica en pleno uso y goce de sus facultades para la celebraci&oacute;n del presente convenio.<br>
+  <br>
+ 	  b) La informaci&oacute;n y documentaci&oacute;n con la que cuenta &quot;EL BANCO&quot; reflejan adecuadamente y en forma veraz su solvencia econ&oacute;mica a la fecha y que sabe que en consideraci&oacute;n a la misma, &quot;EL BANCO&quot; autoriza la celebraci&oacute;n de este convenio.<br>
+  <br>
+ 	  c) Podr&aacute; tener celebrado con &quot;EL BANCO&quot; un contrato de Banca Electr&oacute;nica el cual a trav&eacute;s de claves y contrase&ntilde;as previamente convenidas con &quot;EL BANCO&quot;, lo identifican y vinculan, tiene acceso a los sistemas de c&oacute;mputo de &quot;EL BANCO&quot; para realizar diversas operaciones, entre las cuales se encuentran la contrataci&oacute;n de productos y servicios, la disposici&oacute;n y pagos del cr&eacute;dito, etc&eacute;tera; mediante los diversos servicios de Banca Electr&oacute;nica que tiene contratados.<br>
+  <br>
+  	  d) Conoce el(los) sistema(s) se&ntilde;alado(s) anteriormente que &quot;EL BANCO&quot; tiene en funci&oacute;n y que opera(n) mediante medios electr&oacute;nicos, que conoce y acepta que a trav&eacute;s de &eacute;l(ellos), expresar&aacute; su consentimiento respecto de la contrataci&oacute;n de productos y servicios, disposici&oacute;n y pagos del cr&eacute;dito, que realice al amparo del presente convenio, mediante el empleo de claves y contrase&ntilde;as  previamente convenidas, mismas que lo identifican y vinculan, e intercambiar&aacute; instrucciones, archivos y mensajes de datos con &quot;EL BANCO&quot;.<br>
+
+  <br>
+	  e) Con fecha <u>sFECAPER</u>, celebr&oacute; con &quot;EL BANCO&quot; en su calidad de acreditado &quot;EL CONTRATO&quot; y que a la fecha adeuda la cantidad de $<u>sSALDOACT</u> por concepto del cr&eacute;dito otorgado, en adelante &quot;EL CR&Eacute;DITO&quot;. <br>
+  <br>
+      f) Es su deseo celebrar el presente Convenio a fin de reestructurar las cantidades adeudadas derivadas de &quot;EL CONTRATO&quot;, y entiende que dicha celebraci&oacute;n implicar&aacute; una reestructura de &quot;EL CR&Eacute;DITO&quot;.<br>
+  <br>
+      g) Previamente a la celebraci&oacute;n del presente convenio, &quot;EL BANCO&quot; le hizo del conocimiento el alcance y contenido del presente instrumento y de los dem&aacute;s documentos a suscribir, los cargos o gastos que se generen por la celebraci&oacute;n del mismo y, en su caso, los descuentos o bonificaciones a que tenga derecho, as&iacute; como el Costo Anual Total, en adelante &quot;CAT&quot;, correspondiente al presente cr&eacute;dito.<br>
+  <br>
+      h) Que todos y cada uno de los recursos con los que realizar&aacute;n los pagos a que se compromete en el presente Convenio, son de procedencia l&iacute;cita, obtenidos de sus actividades financieras cotidianas.<br>
+
+  <br>
+
+  <div style="height:20px; clear:both;"></div>
+<b>II.- Declara &quot;EL BANCO&quot; a trav&eacute;s de sus representantes legales que:</b>
+  <div style="height:20px; clear:both;"></div>
+a) Es una sociedad an&oacute;nima debidamente constituida conforme a las leyes mexicanas y autorizadas para operar como instituci&oacute;n de banca m&uacute;ltiple, por lo que cuenta con las facultades necesarias para la celebraci&oacute;n y cumplimiento de este convenio.<br>
+<br>
+b) Sus representantes cuentan con las facultades suficientes para acudir en su nombre y representaci&oacute;n a la celebraci&oacute;n y ejecuci&oacute;n del presente convenio, mismas que no les han sido revocadas ni en forma alguna modificadas.<br>
+<br>
+c) Est&aacute; de acuerdo en celebrar el presente convenio en los t&eacute;rminos y condiciones que se establecen en este instrumento.<br>
+<br>
+<br>
+<br>
+Expuesto lo anterior &quot;LAS PARTES&quot; se sujetan a lo que estipulan las siguientes:<br>
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#FFFFFF; background-color: navy; ">
+        <div style="height:2px; clear:both;"></div>
+        <b>C L &Aacute; U S U L A S</b>
+        <div style="height:2px; clear:both;"></div>
+</div>
+<div style="height:20px; clear:both;"></div>
+
+<div style="height:20px; clear:both;"></div>
+<b>PRIMERA.- RECONOCIMIENTO DE ADEUDO Y FORMA DE PAGO</b>. &quot;EL CLIENTE&quot; reconoce adeudar y se obliga a pagar a &quot;EL BANCO&quot; con motivo de &quot;EL CONTRATO&quot;, la cantidad de $<u>sSALDOACT</u>, que resulta de la suma de capital, intereses ordinarios, intereses moratorios, accesorios, seguros, garant&iacute;as, y/o dem&aacute;s gastos que deba cubrir &quot;EL CLIENTE&quot; en favor de &quot;EL BANCO&quot;, conforme a los t&eacute;rminos y condiciones pactados en el presente convenio y en &quot;EL CONTRATO&quot;.<br>
+<br>
+<b>SEGUNDA.- PLAZO DE LA DISMINUCI&Oacute;N TEMPORAL DE PAGO.</b> &quot;LAS PARTES&quot; est&aacute;n de acuerdo en pactar un nuevo esquema de pagos que consiste en la disminuci&oacute;n de las mensualidades de &quot;EL CR&Eacute;DITO&quot;, as&iacute; como el rec&acute;lculo y reprogramaci&oacute;n de los pagos subsecuentes del mismo, por un plazo de <u>sPLAZON</u> (<u>sPLAZOL</u>) meses a solicitud de &quot;EL CLIENTE&quot; con el objeto de ponerse al corriente y dar cumplimiento a las obligaciones contra&iacute;das en &quot;EL CONTRATO&quot;.<br>
+<br>
+<b>TERCERA.- DISMINUCI&Oacute;N TEMPORAL DE PAGO.</b> - &quot;EL BANCO&quot; concede una disminuci&oacute;n temporal equivalente al <u>sPORDISM</u>% sobre el importe de la mensualidad, por lo que hace al capital y parte de los intereses, &uacute;nicamente durante los siguientes 12 (doce) meses, a partir de la vigencia del  presente instrumento, tal y como se menciona en la Cl&aacute;usula S&Eacute;PTIMA, por lo cual el cliente cubrir&aacute; de manera mensual, durante este periodo el monto de $<u>sMONDIS</u> con IVA.<br>
+<br>
+Aclarando que dicho importe de la disminuci&oacute;n que &quot;EL BANCO&quot; realice sobre las mensualidades de acuerdo al p&aacute;rrafo anterior, de ninguna manera se considera como alg&uacute;n tipo de remisi&oacute;n, por lo cual, el capital que sea diferido de &quot;EL CR&Eacute;DITO&quot;, para obtener la disminuci&oacute;n de las mensualidades, y los intereses que se generen por este capital diferido conforme a la tasa de inter&eacute;s pactada en &quot;EL CONTRATO&quot;, ser&aacute;n cubiertos por &quot;EL CLIENTE&quot; en la &uacute;ltima amortizaci&oacute;n de &quot;EL CR&Eacute;DITO&quot;;  es decir, al pago o monto correspondiente de la &uacute;ltima mensualidad se le deber&aacute; a&ntilde;adir y/o sumar tambi&eacute;n, el monto total de la suma disminuida y el rec&aacute;lculo del inter&eacute;s ordinario respectivo, y/o en su caso, las cantidades que tambi&eacute;n se se&ntilde;alen en el presente convenio, tal y como se define en la Tabla de Pagos, la cual forma parte integrante del presente Convenio.<br>
+<br>
+&quot;LAS PARTES&quot; acuerdan que, si &quot;EL CLIENTE&quot; tiene saldos vencidos o mensualidades sin cubrir al inicio de vigencia del presente convenio, dichas cantidades no cubiertas se deber&aacute;n amortizar tambi&eacute;n en la &uacute;ltima fecha de pago de &quot;EL CR&Eacute;DITO&quot;.<br>
+<br>
+<b>(Esta cl&aacute;usula aplica cuando el plazo de la Disminuci&oacute;n Temporal de Mensualidad es mayor a 12 meses)</b>
+<br>
+<b>CUARTA. - REINSTALACI&Oacute;N PROGRESIVA DEL PAGO.</b> &quot;LAS PARTES&quot; convienen que una vez concluido el periodo de disminuci&oacute;n de sus 12 (doce) mensualidades, y durante los siguientes 6 (seis) meses de dicho plazo, la mensualidad se ir&aacute; ajustando en forma proporcional conforme a los porcentajes subsecuentes indicados en la tabla que a continuaci&oacute;n se detalla, dependiendo del porcentaje de reducci&oacute;n que fue acordado por &quot;LAS PARTES&quot; en la cl&aacute;usula anterior inmediata, por lo cual, &quot;EL CLIENTE&quot; se obliga a pagar el monto correspondiente del periodo una vez aplicados dichos descuentos, en el entendido que al final de este plazo de 6 (seis) meses, la amortizaci&oacute;n se restituir&aacute; de conformidad con lo que se pact&oacute; en &quot;EL CONTRATO&quot;, salvo lo acordado en la cl&aacute;usula Tercera.
+	<br>
+ 	<br>
+ 	<br>
+
+
+
+
+<center>
+<table class="bordeLinea" >
+
+	<tr class="encabezado">
+		<th width="90" height="10"></th>
+		<th width="99" colspan="6">Parcialidades</th>
+ 	</tr>
+	<tr class="encabezado">
+		<th width="90" height="10">DESCUENTO (%)</th>
+		<th width="99">13</th>
+		<th width="99">14</th>
+		<th width="99">15</th>
+		<th width="99">16</th>
+		<th width="99">17</th>
+		<th width="99">18</th>
+ 	</tr>
+ 	<tr>
+			<th width="90" height="10">30</th>
+			<th width="99">25.72</th>
+			<th width="99">21.44</th>
+			<th width="99">17.16</th>
+			<th width="99">12.88</th>
+			<th width="99">8.60</th>
+			<th width="99">4.32</th>
+ 	</tr>
+ 	<tr>
+			<th width="90" height="10">40</th>
+			<th width="99">34.29</th>
+			<th width="99">28.58</th>
+			<th width="99">22.87</th>
+			<th width="99">17.16</th>
+			<th width="99">11.45</th>
+			<th width="99">5.74</th>
+ 	</tr>
+ 	<tr>
+				<th width="90" height="10">50</th>
+				<th width="99">42.86</th>
+				<th width="99">35.72</th>
+				<th width="99">28.58</th>
+				<th width="99">21.44</th>
+				<th width="99">14.30</th>
+				<th width="99">7.16</th>
+ 	</tr>
+ 	<tr>
+					<th width="90" height="10">60</th>
+					<th width="99">51.43</th>
+					<th width="99">42.86</th>
+					<th width="99">34.29</th>
+					<th width="99">25.72</th>
+					<th width="99">17.15</th>
+					<th width="99">8.58</th>
+ 	</tr>
+ 	<tr>
+					<th width="90" height="10">70</th>
+					<th width="99">60</th>
+					<th width="99">50</th>
+					<th width="99">40</th>
+					<th width="99">30</th>
+					<th width="99">20</th>
+					<th width="99">10</th>
+ 	</tr>
+
+
+
+ 	</table>
+</center>
+
+
+
+
+ 	<br>
+ 	<br>
+	<br>
+El capital no cubierto por &quot;EL DEUDOR&quot;, as&iacute; como los intereses que se generen por este capital diferido conforme a la tasa de inter&eacute;s pactada en &quot;EL CR&Eacute;DITO&quot; durante el periodo de los 6 (seis) meses en que se aplique la reducci&iacute;n gradual, se diferir&aacute; y se har&aacute; exigible o se sumar&aacute; en el &uacute;ltimo pago del plazo del cr&eacute;dito, tal y como se define en su Tabla de Pagos.<br>
+<br>
+<b>QUINTA. - INTERESES DIFERIDOS.</b> &quot;LAS PARTES&quot; acuerdan que la porci&oacute;n de intereses que sea diferida de &quot;EL CR&Eacute;DITO&quot; para obtener la disminuci&oacute;n de los pagos correspondientes, deber&aacute; ser cubierta por &quot;EL CLIENTE&quot;, al t&eacute;rmino del plazo total de la disminuci&oacute;n, mediante el incremento proporcional de sus mensualidades, y hasta que sean liquidados en su totalidad dichos intereses diferidos.<br>
+<br>
+&quot;LAS PARTES&quot; acuerdan que concluido el plazo de la disminuci&oacute;n de las <u>sPLAZON</u> (<u>sPLAZOL</u>) mensualidades de &quot;EL CR&Eacute;DITO&quot;, los pagos correspondientes a las amortizaciones subsecuentes estar&aacute;n compuestas por: (a) el monto original de su amortizaci&oacute;n conforme lo pactado en &quot;EL CONTRATO&quot; m&aacute;s la cantidad de $<u>sMONINC</u> o el porcentaje de <u>sPORINC</u>% sobre dicha amortizaci&oacute;n, el cual corresponde a la porci&oacute;n de intereses diferidos y no cubiertos.<br>
+<br>
+Una vez liquidados los intereses diferidos de &quot;EL CR&Eacute;DITO&quot;, se eliminar&aacute; el excedente antes se&ntilde;alado y las mensualidades de &quot;EL CR&Eacute;DITO&quot; se restablecer&aacute;n al importe originalmente pactado en &quot;EL CONTRATO&quot;, por lo cual, el importe de la mensualidad deber&aacute; quedar sin disminuci&oacute;n o incremento alguno y deber&aacute; pagarlo &quot;EL CLIENTE&quot; conforme a lo establecido en &quot;EL CONTRATO&quot;, con excepci&oacute;n de la &uacute;ltima amortizaci&oacute;n del mismo, la cual se integrar&aacute;, conforme a lo se&ntilde;alado en la Cl&aacute;usula Tercera.<br>
+<br>
+<b>SEXTA.- CONDICIONANTE DE LA DISMINUCI&Oacute;N.</b> Los diferimientos y/o disminuciones, indicados en la cl&aacute;usulas Tercera, o en su caso tambi&eacute;n la Cuarta, del presente convenio, se condicionan a que &quot;EL CLIENTE&quot; cumpla puntualmente con sus pagos mensuales conforme a lo convenido en &quot;EL CONTRATO&quot; y en el presente Convenio Modificatorio, por lo que en caso de incumplimiento del pago de 4 (cuatro) o m&aacute;s mensualidades, por parte de &quot;EL DEUDOR&quot;, &quot;EL BANCO&quot; cancelar&aacute; el diferimiento otorgado, por lo que &quot;EL BANCO&quot; podr&aacute; hacer exigible el pago del monto total adeudado junto con sus correspondientes intereses, comisiones y/o penas convencionales de conformidad a lo establecido en &quot;EL CONTRATO&quot;.<br>
+<br>
+<b>S&Eacute;PTIMA.- VIGENCIA.</b> La vigencia de este convenio, estar&aacute; sujeta a la condici&oacute;n suspensiva, consistente en que &quot;EL CLIENTE&quot; realice un pago inicial por la cantidad de $<u>sPAGOININ</u> (<u>sPAGOINIL</u>) en &quot;EL CR&Eacute;DITO&quot; y conforme a la forma de pago se&ntilde;alada en &quot;EL CONTRATO&quot;, a m&aacute;s tardar el <u>sFECLIMPA</u>. De no hacer este pago inicial por el monto y, a m&aacute;s tardar, en la fecha se&ntilde;alada, no surtir&aacute; efectos el presente convenio, quedando vigentes todos los t&eacute;rminos y condiciones pactados en &quot;EL CONTRATO&quot;. <br>
+<br>
+En caso de que &quot;EL CLIENTE&quot; realic&eacute; un pago por una cantidad mayor a la indicada en esta cl&aacute;usula, el esquema de pagos de &quot;EL CR&Eacute;DITO&quot; se ajustar&aacute;.<br>
+<br>
+Durante el plazo que transcurra entre la fecha de firma del presente Convenio y la fecha en que se realice el pago referido en el primer p&aacute;rrafo de esta Cl&aacute;usula, &quot;EL CLIENTE&quot; se obliga a leer de manera &iacute;ntegra los t&eacute;rminos y condiciones del presente instrumento, por lo que, el pago aludido, constituye un acto que permite acreditar su conformidad con este Convenio.<br>
+<br>
+Una vez satisfecha la condici&oacute;n antes se&ntilde;alada, el presente instrumento iniciar&aacute; su vigencia a partir de la fecha en que se cumpla con el pago inicial y concluir&aacute; en la fecha de terminaci&oacute;n de &quot;EL CONTRATO&quot; o en caso, de que la vigencia de &quot;EL CONTRATO&quot; se hubiere prorrogado, la vigencia ser&aacute; en la fecha convenida con &quot;EL BANCO&quot; conforme al diferimiento del pago; fechas en que &quot;EL CLIENTE&quot; deber&aacute; cubrir el &uacute;ltimo pago de &quot;EL CR&Eacute;DITO&quot; conforme a las condiciones pactadas en &quot;EL CONTRATO&quot; y en la cl&aacute;usula Tercera. No obstante su terminaci&oacute;n, &quot;EL CONTRATO&quot; y este instrumento seguir&aacute;n produciendo todos sus efectos legales hasta que &quot;EL CLIENTE&quot; haya liquidado en su totalidad todas las cantidades a su cargo.<br>
+<br>
+<b>OCTAVA.- LUGAR Y FORMA DE PAGO.</b> &quot;EL CLIENTE&quot; expresamente reconoce y acepta que el pago del saldo insoluto o mensualidades de &quot;EL CR&Eacute;DITO&quot;, as&iacute; como todas las cantidades que &quot;EL CLIENTE&quot; deba pagar a &quot;EL BANCO&quot; en virtud del presente convenio, y de &quot;EL CONTRATO&quot;, incluyendo el pago de sus intereses, seguros, accesorios, comisiones, gastos y accesorios que se pudieren devengar en favor de &quot;EL BANCO&quot;, se har&aacute;n conforme a las fechas, t&eacute;rminos y condiciones y &oacute;rdenes e instrucciones de pago pactados en &quot;EL CONTRATO&quot; y en el presente instrumento.<br>
+<br>
+En caso de que cualquier fecha l&iacute;mite de pago fuese un d&iacute;a que no sea d&iacute;a h&aacute;bil, el pago se realizar&aacute; el d&iacute;a h&aacute;bil inmediato siguiente.<br>
+<br>
+<b>NOVENA.- PAGOS ANTICIPADOS.-</b> &quot;EL CLIENTE&quot; podr&aacute; pagar por anticipado total o parcialmente el importe del adeudo reconocido a su cargo, incluyendo el saldo diferido, mediante pagos al capital dispuesto siempre y cuando: a) est&eacute; al corriente en sus pagos mensuales y no exista alg&uacute;n adeudo de intereses pendiente a su cargo, conforme a lo establecido en el presente Convenio de Modificaci&oacute;n y b) el importe de sus pagos anticipados ser&aacute; por lo menos el equivalente al importe de una amortizaci&oacute;n o mayor a &eacute;sta. <br>
+<br>
+En caso de que &quot;EL CLIENTE&quot; realice pagos anticipados parciales, estos se aplicar&aacute;n en el siguiente orden:  al inter&eacute;s diferido, al inter&eacute;s generado, al capital diferido y por &uacute;ltimo al capital del cr&eacute;dito, permaneciendo los t&eacute;rminos y condiciones se&ntilde;alados en &quot;EL CONTRATO&quot; conforme a lo pactado en la cl&aacute;usula de pagos anticipados y adelantados. <br>
+<br>
+Una vez liquidado el saldo diferido y el saldo disminuido, los pagos podr&aacute;n aplicarse para reducir el plazo estipulado para el pago del cr&eacute;dito, o para reducir el pago mensual. <br>
+<br>
+Los pagos anticipados &quot;EL CLIENTE&quot; podr&aacute; realizarlos conforme a los t&eacute;rminos y condiciones pactados en &quot;EL CONTRATO&quot;. <br>
+<br>
+<b>PAGOS ADELANTADOS</b> &quot;EL CLIENTE&quot; podr&aacute; solicitar a &quot;EL BANCO&quot;, en sucursales, banca electr&oacute;nica, cajeros autom&aacute;ticos o cualquier otro medio electr&oacute;nico previamente pactado, recibir pagos adelantados que a&uacute;n no sean exigibles para cubrir pagos peri&oacute;dicos inmediatos siguientes, en el entendido de que s&iacute; el pago adelantado es inferior al pago del per&iacute;odo inmediato siguiente, &quot;EL CLIENTE&quot; pagar&aacute; el importe insoluto al periodo correspondiente. En el caso de que el pago sea superior al que deba cubrirse en un periodo, &quot;EL CLIENTE&quot; deber&aacute; presentar un escrito con su firma aut&oacute;grafa que incluya la leyenda siguiente: &quot;EL CLIENTE autoriza que los recursos que se entregan en exceso a sus obligaciones exigibles, no se apliquen para el Pago Anticipado del principal, sino que se utilicen para cubrir por adelantado los pagos peri&oacute;dicos del Cr&eacute;dito inmediatos siguientes&quot;. <br>
+<br>
+Cuando &quot;EL CLIENTE&quot; realice un pago adelantado, &quot;EL BANCO&quot; le entregar&aacute; el comprobante de dicho pago.<br>
+<br>
+<b>(Aplica en caso de que &quot;EL CONTRATO&quot; haya requerido la contrataci&oacute;n de un seguro)</b>
+<br>
+<b>D&Eacute;CIMA.- SEGUROS.</b> &quot;EL CLIENTE&quot; se obliga a mantener vigente por todo el plazo del presente convenio y de &quot;EL CONTRATO&quot; y en su caso durante las pr&oacute;rrogas a los mismos, mientras exista saldo a su cargo, un seguro de vida y desempleo o un seguro de vida, conforme a lo pactado en &quot;EL CONTRATO&quot;, a nombre de &quot;EL CLIENTE&quot;, dicho seguro de vida cubrir&aacute; el importe del &quot;CR&Eacute;DITO&quot; y sus accesorios; siguiendo surtiendo efectos los t&eacute;rminos y condiciones pactados en &quot;EL CONTRATO&quot; en la cl&aacute;usula de &quot;SEGURO&quot;. <br>
+<br>
+En caso de omisi&oacute;n por parte de &quot;EL CLIENTE&quot; respecto al aseguramiento estipulado en esta cl&aacute;usula, y en la respectiva del &quot;Seguro&quot; en &quot;EL CONTRATO&quot;,  &quot;EL CLIENTE&quot; faculta a &quot;EL BANCO&quot; contratar el seguro correspondiente a nombre y por cuenta del primero, quedando &quot;EL CLIENTE&quot; obligado a reembolsar a &quot;EL BANCO&quot; dentro de los 15 (QUINCE) d&iacute;as siguientes a la fecha en que se haya contratado dicho seguro, el importe de las primas y los gastos efectuados, m&aacute;s intereses calculados a la tasa moratoria pactada en este contrato sobre las cantidades que &quot;EL BANCO&quot; erogue por ese motivo, los cuales se generar&aacute;n a partir de la fecha de contrataci&oacute;n de dichos seguros, hasta la fecha en que el monto correspondiente sea totalmente pagado. <br>
+<br>
+<b>D&Eacute;CIMA PRIMERA. - &quot;CAT&quot;. El Costo Anual Total de financiamiento expresado en t&eacute;rminos porcentuales anuales que, para fines informativos y de comparaci&oacute;n, incorpora la totalidad de los costos y gastos inherentes al presente &quot;CR&Eacute;DITO&quot; es del <u>sCAT</u>%.</b><br>
+<br>
+<b>D&Eacute;CIMA SEGUNDA. - AUSENCIA DE NOVACI&Oacute;N.</b> &quot;LAS PARTES&quot; acuerdan que, salvo lo expresamente convenido en el presente convenio modificatorio y su aceptaci&oacute;n mediante los medios electr&oacute;nicos que &quot;EL CLIENTE&quot; tenga previamente pactados con &quot;EL BANCO&quot;, &quot;EL CONTRATO&quot;, celebrado entre &quot;EL CLIENTE&quot; y &quot;EL BANCO&quot; y cualquier otro convenio relacionado con &eacute;ste, conservar&aacute; todo su valor y fuerza legal, ya que este Convenio Modificatorio de ninguna manera modifica, ni implica novaci&oacute;n alguna a las obligaciones pactadas en el Contrato de Apertura de Cr&eacute;dito Simple citado en el Antecedente I y por ende, los dem&aacute;s t&eacute;rminos y condiciones de &quot;EL CONTRATO&quot; contin&uacute;an vigentes y aplicables, teni&eacute;ndose por reproducidas tal y como si se insertasen a la letra en el presente convenio. <br>
+<br>
+<b>D&Eacute;CIMA TERCERA. - DOMICILIOS.</b> &quot;LAS PARTES&quot; se&ntilde;alan como domicilio para todos los efectos de este convenio, los siguientes:<br>
+<br>
+&quot;EL BANCO&quot;: Avenida Paseo de la Reforma 510, Colonia Ju&aacute;rez, Alcald&iacute;a Cuauht&eacute;moc, C.P. 06600, Ciudad de M&eacute;xico.<br>
+<br>
+&quot;EL CLIENTE&quot; el se&ntilde;alado en el anexo de &quot;EL CONTRATO&quot;. <br>
+<br>
+En caso, de que &quot;EL CLIENTE&quot; realice cambio en su domicilio deber&aacute; informar a &quot;EL BANCO&quot;, cuando menos con 10 (DIEZ) d&iacute;as h&aacute;biles de anticipaci&oacute;n. En caso de no hacerlo, todos los avisos, notificaciones y dem&aacute;s diligencias judiciales o extrajudiciales que se hagan en el domicilio indicado en esta cl&aacute;usula, surtir&aacute;n plenamente sus efectos. <br>
+<br>
+<b>D&Eacute;CIMA CUARTA. - LEYES Y TRIBUNALES.</b> Para la interpretaci&oacute;n y cumplimiento de este convenio, y de &quot;EL CONTRATO&quot;, &quot;LAS PARTES&quot; se someten a la jurisdicci&oacute;n y competencia de los tribunales de la Ciudad de M&eacute;xico, renunciando a cualquier otro fuero o domicilio que tuvieren o llegaren a tener. <br>
+<br>
+<b>D&Eacute;CIMA QUINTA. - CONFORMIDAD EN EL TEXTO DE LO CONVENIDO.</b> &quot;LAS PARTES&quot; en este acto manifiestan su conformidad con la celebraci&oacute;n del presente Convenio, oblig&aacute;ndose a estar y pasar por &eacute;l en todo tiempo y lugar, toda vez que el mismo no contiene cl&aacute;usulas contrarias a la moral, al Derecho y a las buenas costumbres, habiendo comprendido los alcances y consecuencias de los derechos y obligaciones estipulados en el mismo, ya que fueron convenidos por ellos. <br>
+<br>
+El presente Convenio, la Tabla de Pagos y los Comprobantes emitidos constituyen la expresi&oacute;n de la voluntad de &quot;LAS PARTES&quot;, por lo que se suscribe por &quot;EL BANCO&quot; y por &quot;EL CLIENTE&quot;, en la Ciudad de M&eacute;xico, el d&iacute;a <u>sFECOPER</u>.<br>
+<br>
+<br>
+
+ <div style="height:20px; clear:both;"></div>
+ <div class="numeroDePagina"></div>
+</div>
+
+<div id="pagina26">
+
+ 	<br>
+ 	<br>
+	<table class="bordeLinea" style="width: 100%;height: 130px;">
+		<tr>
+			<th style="width: 50%;" align="center">________________________________
+			<br>
+			<p><b>BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER</b> </p>
+			</th>
+			<th style="width: 50%;" align="center">________________________________
+
+  			<p><b>BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER </b></p>
+			</th>
+   		</tr>
+	</table >
+	<br>
+	<br>
+	<table class="bordeLinea" width="400" align="center">
+		<tr class="encabezado" align="center"></tr>
+			<th>
+
+ 			<br>
+ 			<br>
+ 			<br>
+ 			<br>
+	 		</th>
+      <tr><td><p align="center"><b>NOMBRE COMPLETO Y FIRMA DE &ldquo;EL CLIENTE&rdquo;</b></p></td></tr>
+      <tr><td><p align="center"><br></p></td></tr>
+ 	</table>
+ <p>&nbsp;</p>
+
+
+	 <div style="height:20px; clear:both;"></div>
+   <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+  <div class="numeroDePagina"></div>
+</div>
+
+
+</body>
+</html>

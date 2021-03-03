@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+
+<body .div {margin-bottom:20px;>
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://www.bancomermovil.net:11443/mbank/mbank/Descargas/AlertasBancomer/Fondosa.png" style="display:block" width="313" height="99" border="0" /></td>
+  </tr>
+  <tr>
+    <td><table width="730" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="114"><img src="https://www.bancomermovil.net:11443/mbank/mbank/Descargas/AlertasBancomer/lateral.png" style="display:block" width="13" height="auto" /></td>
+        <td width="616" height="30" style="font-family: Arial; color: #005698; font-size: 9px;"><p align="right">TABLA DE AMORTIZACI&Oacute;N 
+        </p>
+          <p align="right">*Tabla de amortizaci&oacute;n informativa </p>
+          <table width="100%"><tr>
+            <td width="50%" bgcolor="#D6EAF8"><p>Fecha de elaboraci&oacute;n: <u>sKZVC-FCHELB</u></p>
+            <p>Nombre del cliente:<u>sKZVC-NUMCLI</u></p>
+            <p>Tipo de cr&eacute;dito: <u> sKZVC-TIPCRD</u></p>
+            <p>Monto del cr&eacute;dito:<u>sKZVC-MONCRD</u></p>
+            <p>Plazo en meses:<u>sKZVC-PLZMSS</u></p>
+            <p>N&uacute;mero de pagos:<u>sKZVC-NUMPAS</u></p>
+            <p>Frecuencia de pago: <u>sKZVC-FREPAG</u></p>
+      </td>
+            <td width="50%" bgcolor="#EBF5FB"><p>Fecha de inicio de cr&eacute;dito:<u>sKZVC-FCHINI</u></p>
+              <p>Fecha de vencimiento del cr&eacute;dito:<u>sKZVC-FCHVTO</u></p>
+              <p>Tasa de inter&eacute;s anual sin IVA: <u>sKZVC-TSAINT</u></p>
+              <p>Comisi&oacute;n por apertura:<u>sKZVC-COMAPR</u></p>
+              <p>IVA de la comisi&oacute;n:<u>sKZVC-IVACOM</u></p>
+              <p>Comisi&oacute;n por disposici&oacute;n:<u>sKZVC-COMDIS</u></p>
+              <p>Monto total al pagar:<u> $ sKZVC-MONPAG</u></p></td></tr></table>
+        
+          </td>
+       
+      </tr>
+      <tr>
+        <td>&nbsp;</td><td style="font-family: Arial; color: #005698; text-align: justify; font-size: 9px;"><table width="100%"><tr bgcolor="#A9CCE3" align="center">
+          <td>Mens</td><td>Saldo<br />
+            inicial</td><td>Capital<br />
+              </td>
+            <td>Inter&eacute;s<br />
+              </td>
+            <td>Pago Min.<br />
+              exigible</td>
+            <td>Pago<br />
+              real</td><td>IVA<br />
+                intereses</td><td>Mensualidad<br />
+                  + IVA</td></tr>
+
+s1KZVC-NUMPAG
+s2KZVC-NUMPAG
+s3KZVC-NUMPAG
+s4KZVC-NUMPAG
+s5KZVC-NUMPAG
+s6KZVC-NUMPAG
+s7KZVC-NUMPAG
+s8KZVC-NUMPAG
+s9KZVC-NUMPAG
+s10KZVC-NUMPAG
+s11KZVC-NUMPAG
+s12KZVC-NUMPAG
+s13KZVC-NUMPAG
+s14KZVC-NUMPAG
+s15KZVC-NUMPAG
+s16KZVC-NUMPAG
+
+
+        </table></td></tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td><table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+</table>
+</body .div {margin-bottom:20px;>
+</html>
+

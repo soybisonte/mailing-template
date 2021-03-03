@@ -1,0 +1,210 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+<style type="text/css">
+
+body {
+
+background-color : White;
+
+color:#000000;
+
+font-family:Arial, Helvetica, sans-serif;
+
+font-size :14px;
+
+}
+
+.tablaSit {
+
+font-size :14px;
+
+width: 100%
+
+}
+
+.Estilo8 {color: #000000}
+.Estilo11 {color: #0066FF}
+
+td{
+        vertical-align: top;
+    }
+</style></head><body>
+
+<p class="Estilo8">&nbsp; </p>
+
+<table style="width: 61%; text-align: left; margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td width="55%"><img src="http://www.bancomer.com.mx/comun/img/comun_logo.gif"></td>
+
+</tr>
+
+<tr>
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+
+<tr>
+  <td style="text-align: right;">sFECHA</td></tr><tr>
+
+<td><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td><b><font font="" color="#30c0f3" size="3">Notificaci&oacute;n Host to Host</font></b></td>
+
+</tr>
+
+<tr>
+
+<td>&nbsp;</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table style="width: 56%; text-align: left; margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td width="50%">&nbsp;</td>
+
+<td width="5%">&nbsp;</td>
+
+<td width="45%">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td align="right">
+
+Contrato:
+
+</td>
+
+<td width="5%">&nbsp;</td>
+
+<td>sCONTRATO</td>
+
+</tr>
+
+<tr>
+  
+  <td style="text-align: right;">Raz&oacute;n Social:</td>
+  
+  <td><br>
+  </td>
+  
+  <td>sRAZON_SOCIAL</td>
+  
+</tr>
+
+<tr>
+  
+  <td align="right">
+    
+  Servicio:
+    
+  </td>
+  
+  <td width="5%">&nbsp;</td>
+  
+  <td>sSERVICIO</td>
+  
+</tr>
+<tr>
+  <td style="text-align: right;"> Grupo/Cuenta-Contrato: </td>
+  <td>&nbsp;</td>
+  <td>sGRUP_CTA_CONTRA</td>	
+</tr>
+<tr>
+  <td style="text-align: right;">Archivo:</td>
+  <td>&nbsp;</td>
+  <td>sARCHIVO</td>
+</tr>
+<tr>
+  <td style="text-align: right;"> Acci&oacute;n: </td>
+  <td>&nbsp;</td>
+  <td>sACCION</td>
+</tr>
+<tr>
+  <td style="text-align: right;"> Resultado: </td>
+  <td>&nbsp;</td>
+  <td>sRESULTADO</td>
+</tr>
+<tr>
+  <td style="text-align: right;">Hora de operaci&oacute;n:</td>
+  <td>&nbsp;</td>
+  <td>sHORA_OPE</td>
+</tr>
+
+
+
+</tbody>
+
+</table>
+
+<table style="width: 61%; text-align: left; margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td><p>&nbsp;</p>
+  <p>Reciba un cordial saludo</p></td>
+
+</tr>
+
+<tr>
+
+<td><br>
+</td>
+
+</tr>
+
+<tr bgcolor="#f0f9fe">
+
+<td align="center">
+
+
+      <p>Para la resoluci&oacute;n de dudas, consultas, soporte de las operaciones que realice y recepci&oacute;n de sugerencias, ponemos a sus ordenes nuestro &quot;Centro de Servicio a Clientes&quot; al tel&eacute;fono s1NumeroNetCash en la Ciudad de M&eacute;xico y al 800-11-22787 del resto del pa&iacute;s, donde con gusto lo atenderemos.</p>
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align: justify;">&nbsp;</td>
+
+</tr>
+
+<tr>
+
+<td>&nbsp;</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</body></html>

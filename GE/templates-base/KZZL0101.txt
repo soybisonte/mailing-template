@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+    style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0 auto !important;padding: 0 !important;height: 100% !important;width: 100% !important;">
+
+<head style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <meta charset="utf-8" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <meta name="viewport" content="width=device-width" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <meta name="x-apple-disable-message-reformatting" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <title style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Simulaci&oacute;n Guardada</title>
+    <meta http-equiv="Content-Type" content="text/html charset=UTF-8" />
+    <!--[if mso]>
+    <style>
+        * {
+            font-family: sans-serif !important;
+        }
+    </style>
+    <![endif]-->
+
+    <!-- CSS Reset : BEGIN -->
+    <style style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        html,
+        body {
+            margin: 0 auto !important;
+            padding: 0 !important;
+            height: 100% !important;
+            width: 100% !important;
+            font-family: Helvetica;
+
+        }
+
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        div[style*="margin: 16px 0"] {
+            margin: 0 !important;
+        }
+
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+            background-color: white !important;
+        }
+
+        table table table {
+            table-layout: auto;
+        }
+
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        *[x-apple-data-detectors],
+        /* iOS */
+
+        .x-gmail-data-detectors,
+        /* Gmail */
+
+        .x-gmail-data-detectors *,
+        .aBn {
+            border-bottom: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+
+        img.g-img+div {
+            display: none !important;
+        }
+
+        .button-link {
+            text-decoration: none !important;
+        }
+
+        /* email template styles */
+
+        .logo_container {
+            text-align: left;
+            background-color: #072146;
+            padding: 33px 70px 8px;
+        }
+
+        .bbva_logo {
+            max-width: 150px;
+        }
+
+        .welcome_message {
+            margin: 0;
+            font-family: Helvetica;
+            font-size: 24px;
+            font-weight: bold;
+            line-height: 1.5;
+            color: #004481;
+            letter-spacing: -0.2px;
+            padding-top: 50px;
+        }
+
+        .column_padding {
+            padding: 0px 70px 20px;
+        }
+
+        .footer_container {
+            text-align: left;
+            background-color: #072146;
+        }
+
+        .footer_text {
+            max-width: 441px;
+            font-family: Helvetica;
+            font-size: 11px;
+            color: #ffffff;
+            padding: 14px 70px 11px;
+            margin: 0;
+            font-weight: 100;
+        }
+
+        .cornercutline {
+            width: 0px;
+            height: 15px;
+            border-left: 5px solid #5bbeff;
+            border-top: 2px solid transparent;
+            margin-right: 8px;
+        }
+
+        .data-table-text {
+            display: inline;
+        }
+
+        .datatable-column-left {
+            padding: 0 0 10px 70px;
+            font-family: Helvetica;
+            font-size: 14px;
+            line-height: 1.5;
+            color: #121212;
+            width: 45%;
+        }
+
+        .datatable-column-right {
+            padding: 0 70px 10px 0;
+            font-family: Helvetica;
+            font-size: 14px;
+            line-height: 1.5;
+            color: #121212;
+            width: 45%;
+        }
+
+        .line {
+            width: 463px;
+            height: 1px;
+            background-color: #1973b8;
+        }
+
+        .line_padding {
+            padding: 20px 70px 0 70px;
+        }
+        .bottom-center-text{
+            font-family: Helvetica;
+            font-size: 14px;
+            line-height: 1.43;
+            color: #304858;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .bottom-text {
+            font-family: Helvetica;
+            font-size: 15px;
+            line-height: 1.33;
+            text-align: justify;
+            color: #304858;
+        }
+
+        .bottom-text-p2 {
+            text-align: center;
+            font-size: 15px;
+            line-height: 1.33;
+            padding-top: 40px;
+        }
+
+        .btn {
+            position: relative;
+            display: block;
+            width: 197px;
+            height: 60px;
+            margin: 10px auto;
+            padding: 0;
+            border-radius: 1px;
+            background-color: #1973b8;
+        }
+
+        .btn a {
+            display: block;
+            padding: 20px 24px;
+            /* font-family: BentonSansBBVA; */
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center;
+            color: #ffffff;
+            text-decoration: none;
+        }
+
+        .disclaimer {
+            font-family: Helvetica;
+            font-size: 11px;
+            line-height: 1.27;
+            text-align: justify;
+            color: #304858;
+            padding: 20px 0 15px  0;
+
+        }
+        sup{
+            font-size: 8px;
+        }
+
+        .title-2-text {
+            font-size: 16px;
+            text-align: left;
+            color: #304858;
+            padding-bottom: 25px;
+        }
+
+        .folio-text {
+            font-size: 12px;
+            font-weight: bold;
+            text-align: center;
+            color: #121212;
+            padding-top: 20px;
+        }
+
+        .top-text {
+            padding: 0 70px 20px;
+        }
+
+        .table-title-text {
+            font-size: 18px;
+            text-align: center;
+            color: #121212;
+        }
+
+        .table-title-text-2 {
+            font-size: 14px;
+            text-align: center;
+            color: #121212;
+            position: relative;
+            top: -10px;
+        }
+        .number-table-container{
+            font-size:14px;
+        }
+        .number-table{
+            margin-left: 70px !important;
+        }
+
+        /* css for firefox only */
+
+        @-moz-document url-prefix() {
+            .datatable-column-left {
+                width: 35%;
+            }
+
+        }
+
+
+
+        @media only screen and (min-device-width: 320px) and (max-device-width: 413px) {
+            /* iPhone 6 and 6+ */
+            .email-container {
+                min-width: 375px !important;
+            }
+        }
+
+        @media screen and (min-width: 320px) and (max-width: 480px) {
+            u~div .email-container {
+                min-width: 100vw;
+                width: 100% !important;
+            }
+            .logo_container {
+                text-align: center !important;
+                padding: 30px 20px 8px !important;
+            }
+            .logo_container>img {
+                max-width: 98px;
+            }
+            .welcome_message {
+                font-size: 18px;
+            }
+            .column_padding {
+                padding: 21px 15px 20px;
+            }
+            .folio-text{
+                font-size: 12px;
+            }
+            .table-title-text{
+                font-size: 16px;
+            }
+            .table-title-text-2{
+                font-size: 13px;
+            }
+            .data-table-text{
+                font-size: 12px;
+            }
+            .bottom-text, .title-2-text{
+                font-size: 14px;
+            }
+            .bottom-text-p2{
+                font-size: 14px;
+                padding-top: 30px;
+            }
+            .disclaimer{
+                font-size: 11px;
+            }
+            .top-text{
+                padding: 0 16px 20px;
+            }
+            .line{
+                width: 100%;
+            }
+            .cornercutline{
+                margin-right: 15px;
+            }
+            .datatable-column-right {
+                padding: 0 16px 10px 0;
+            }
+            .datatable-column-left{
+                padding: 0 0 10px 16px;
+                line-height: 2.5;
+            }
+            .btn{
+                width: 190px;
+	            height: 50px;
+            }
+            .btn a {
+                font-size: 14px;
+                padding: 17px 24px;
+            }
+            .footer_text {
+                padding: 14px 70px 11px;
+                text-align: center;
+            }
+            .hero_banner_mobile {
+                display: block;
+            }
+            .hero_banner_desktop {
+                display: none;
+            }
+            .line_padding{
+                padding: 20px 16px 0 16px;
+            }
+            .image_mobile {
+                display: block !important;
+                max-height: none !important;
+                max-width: none !important;
+                line-height: 1.5 !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+            .hide {
+                display: none !important;
+                width: 0px !important;
+                height: 0px !important;
+                overflow: hidden !important;
+                line-height: 0px !important;
+                font-size: 0px !important;
+            }
+            .datatable{
+                margin-left: 30px;
+                display: table;
+                margin-bottom: 10px;
+            }
+            .datatable-column{
+                display: table-row;
+            }
+            
+        }
+
+        @media screen and (min-width: 481px) {
+            .hero_banner_mobile {
+                display: none
+            }
+            .hero_banner_desktop {
+                display: block;
+            }
+        }
+
+        .padding-top0 {
+            padding-top: 0;
+        }
+
+        .padding-bottom17 {
+            padding-bottom: 17px;
+        }
+    </style>
+    <!-- CSS Reset : END -->
+
+    <!-- Progressive Enhancements : BEGIN -->
+    <style style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        .button-td,
+        .button-a {
+            transition: all 100ms ease-in;
+        }
+
+        .button-td:hover,
+        .button-a:hover {
+            background: #555555 !important;
+            border-color: #555555 !important;
+        }
+
+        @media screen and (max-width: 600px) {
+
+            .email-container {
+                width: 100% !important;
+                margin: auto !important;
+            }
+
+            .fluid {
+                max-width: 100% !important;
+                height: auto !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+
+            .stack-column,
+            .stack-column-center {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+                direction: ltr !important;
+            }
+            .stack-column-center {
+                text-align: center !important;
+            }
+
+            .center-on-narrow {
+                text-align: center !important;
+                display: block !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+                float: none !important;
+            }
+            table.center-on-narrow {
+                display: inline-block !important;
+            }
+
+            .email-container p {
+                /* font-size: 17px !important; */
+            }
+
+        }
+    </style>
+    <!-- Progressive Enhancements : END -->
+
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+
+</head>
+
+<body width="100%" bgcolor="#222222" style="margin: 0 auto !important;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;padding: 0 !important;height: 100% !important;width: 100% !important;">
+    <center style="width: 100%;background: #EEE;text-align: left;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+        <!-- Email Header : BEGIN -->
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" height="70" style="margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;"
+            class="email-container">
+            <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <td class="logo_container" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-align: left;background-color: #072146;padding: 33px 70px 8px;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                    <img class="bbva_logo" src="httpsBBVA-Bancomer.png"
+                        width="110" alt="alt_text" border="0" style="height: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;-ms-interpolation-mode: bicubic;width:auto;">
+                </td>
+            </tr>
+        </table>
+        <!-- Email Header : END -->
+
+        <!-- Email Body : BEGIN -->
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;"
+            class="email-container">
+
+            <!-- Hero Image, Flush : BEGIN -->
+            <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <td bgcolor="#ffffff" align="center" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                    <div class="image_container" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    </div>
+                    <img border="0" align="center" width="600" height="" src="httpsHero_image_mail_mx.png"
+                        alt="" style="display: block;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"
+                        class="hide">
+                    <div style="display: none;font-size: 0;line-height: 0;mso-hide: all;max-height: 0;max-width: 0;width: 0;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"
+                        class="image_mobile">
+                        <img border="0" src="httpsMobile_hero_image_mail_mx.png"
+                            height="" alt="" style="display: none;font-size: 0;line-height: 0;mso-hide: all;max-height: 0;max-width: 0;width: 0;-ms-interpolation-mode: bicubic;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"
+                            class="image_mobile">
+                    </div>
+
+                    <!--                     <img class="hero_banner hero_banner_desktop" src="" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; margin: auto;" class="g-img">
+                                    <img class="hero_banner hero_banner_mobile" src="" width="600" height="" alt="alt_text" border="0" align="center" style="width: 100%; max-width: 600px; height: auto; margin: auto;" class="g-img">
+                                     -->
+                </td>
+            </tr>
+            <!-- Hero Image, Flush : END -->
+
+            <!-- 1 Column Text + Button : BEGIN -->
+            <tr style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <td bgcolor="#ffffff" class="column_padding" style="text-align: left;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;">
+                    <h1 class="welcome_message" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;font-family: Helvetica;font-size: 24px;font-weight: bold;line-height: 1.5;color: #004481;letter-spacing: -0.2px;padding-top: 60px;">Hola,</h1>
+                </td>
+            </tr>
+            <tr>
+                <td class="top-text">
+                    <p class="title-2-text"> Hemos guardado tu simulaci&oacute;n y &eacute;ste es el resumen:</p>
+                    <div class="line"></div>
+                    <p class="table-title-text"> Monto del Pr&eacute;stamo:
+                        <!-- number $296,000.00 is dynamic  -->
+                        <b>$ sKZZL_PRESTAMO </b>
+                    </p>
+                    <p class="table-title-text-2">Enganche:
+                        <!-- number $74,000.00 is dynamic  -->
+                        <b>$ sKZZL_ENGANCHE </b>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        
+
+        <div  class="email-container number-table-container" style = "display: table; width: 600px; margin:auto; padding: 0px; background-color:white;">
+                <table role="presentation" cellspacing="0" cellpadding="7px" border="0" align="left" width="280" style="width: 38%; margin-left: 70px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;"
+                    class=" number-table email-container ">
+                    <tr class="datatable">
+                        <td class="datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">Plazo
+                                <!-- number 36 is dynamic  -->
+                                <b> sKZZL_PLAZO Meses </b>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="datatable-row datatable" >
+                        <td class="datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">Pago Mensual <sup>1</sup>
+                                <!-- number $9,426.00 is dynamic  -->
+                                <b>$sKZZL_PAGMEN </b>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="datatable-row datatable ">
+                        <td class=" datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">Tasa de Inter&eacute;s  <sup>2</sup>
+                                 <!-- number 8.00% is dynamic  -->
+                                <b>sKZZL_TASA% </b>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="datatable-row datatable">
+                        <td class=" datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">CAT  <sup>3</sup>
+                                 <!-- number 8.60% is dynamic.-->
+                                <b>sKZZL_CAT% </b> sin IVA
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+    
+    
+                <table role="presentation" cellspacing="0" cellpadding="7px" border="0" align="right" width="300" style=" width = 50%;margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;"
+                    class="email-container">
+                    <tr class="datatable">
+                        <td class="datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">Comisi&oacute;n de Apertura <sup>4</sup>
+                                <!-- number $5,920.00 is dynamic  -->
+                                <b> $ sKZZL_COMAPER </b>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="datatable-row datatable" >
+                        <td class="datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">Seguro de Vida
+                                <!-- number $9,426 is dynamic  -->
+                                <b>$ sKZZL_SEGVID </b>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr class="datatable-row datatable ">
+                        <td class=" datatable-column">
+                            <span class=" cornercutline"> </span>
+                            <p class="data-table-text">Monto Total a pagar
+                                 <!-- number $300,806.00 is dynamic  -->
+                                <b>$sKZZL_MTOTOTPAG</b>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div> 
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;"
+        class="email-container">
+
+            <tr class="datatable-row">
+                <td class="column_padding">
+                    <div class="line" style ="margin-top: 30px;"> </div> 
+                </td>
+            </tr>
+        </table>
+
+        
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center" width="600" style="margin: auto;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;border-spacing: 0 !important;border-collapse: collapse !important;table-layout: fixed !important;"
+            class="email-container">
+
+            <tr class="datatable-row">
+                <td class="column_padding">
+                    <p class ="bottom-center-text"> Si quieres acceder a tu simulaci&oacute;n, ingresa aqu&iacute;:</p>
+                    <p class="btn">
+                        <a href="https://tuprestamoauto.bbvaautodigital.com.mx/" target="_blank">Mi Cuenta</a>
+                    </p>
+                    <div class="disclaimer">
+                         <!-- all % numbers and date is dynamic -->
+                        <p>  <sup>1</sup> Pago mensual sin IVA. </p>
+                        <p>  <sup>2</sup> Tasa Fija de Inter&eacute;s Anual.</p>
+                        <p>  <sup>3</sup> CAT sKZZL_NCAT% sin IVA. Fecha de c&aacute;lculo: sKZZL_FECCAL. Vigencia de la oferta: sKZZL_FECVIG.</p>
+                        <p>  <sup>4</sup> Comisi&oacute;n por apertura sKZZL_1COMAPER% sobre el monto a financiar (pago &uacute;nico al inicio).</p>
+                        <p> Este documento es para efectos informativos y no constituye obligaci&oacute;n u ofrecimiento formal por parte de BBVA M&eacute;xico, S.A. en el otorgamiento del Cr&eacute;dito. Las condiciones de los Cr&eacute;ditos estar&aacute;n sujetas a cambios sin previo aviso.</p>
+                    </div>
+                    <br />
+                    <p class="footer-legal-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:right;">
+                                                            <br>
+                                                            KZZL0101-1845
+                                                        </p>
+                </td>
+            </tr>
+        </table>
+        <!-- Email Body : END -->
+    </center>
+</body>
+
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><!-- PARAMETRO DE ENVIO POR TECNICO --><title>Documento sin t&iacute;tulo</title>
+
+
+  
+
+  
+  
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1"></head><body>
+<p class="Estilo8"> </p>
+
+<table align="center" width="77%">
+
+  <tbody>
+    <tr>
+      <td width="55%"><img src="http://www.bancomer.com.mx/comun/img/comun_logo.gif"></td>
+    </tr>
+    <tr>
+      <td><span style="color: rgb(53, 123, 197);">Estimado Cliente</span>.<br>
+      </td>
+    </tr>
+    <tr>
+      <td><span style="color: rgb(53, 123, 197);">En respuesta a su
+solicitud
+enviamos Amortizaci&oacute;n de Auto de su cr&eacute;dito.</span><br>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><p><strong><span style="font-weight: normal;">C.C.C: sCCC</span><br style="font-weight: normal;">
+              <span style="font-weight: normal;">Titular: sTITULAR</span><br style="font-weight: normal;">
+              <span style="font-weight: normal;">Fecha Formalizada:
+                sFECHA_FORMALIZADA&nbsp; Tasa de inter&eacute;s: sTASA_INTERES</span><br style="font-weight: normal;">
+        <span style="font-weight: normal;">Capital
+          Concedido: </span></strong><strong><span style="font-weight: normal;">sCAPITAL_CONCEDIDO&nbsp; Plazo Total: sPLAZO_TOTAL</span><br style="font-weight: normal;">
+          <br style="font-weight: normal;">
+          <span style="font-weight: normal;">Importe Anual Detalle</span></strong></p>
+        <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="2">
+        <tbody>
+          <tr>
+            <td width="5%" height="42" bordercolor="2" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">NR</td>
+            <td width="17%" align="center" valign="middle" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">&nbsp;&nbsp;&nbsp;&nbsp;Vencim&nbsp;&nbsp;&nbsp;&nbsp; </td>
+            <td width="13%" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">Saldo<br>
+Inic<br></td>
+            <td width="12%" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">Renta</td>
+            <td width="15%" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">Capital</td>
+            <td width="10%" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">Intereses</td>
+            <td width="12%" style="vertical-align: middle; background-color: rgb(0, 176, 240); text-align: center;">IVA</td>
+            <td width="16%" align="center" valign="baseline" style="vertical-align: top; background-color: rgb(0, 176, 240);"><div align="center">MTO REC</div></td>
+          </tr>
+          
+s00NR
+s01NR
+s02NR
+s03NR
+s04NR
+s05NR
+s06NR
+s07NR
+s08NR
+s09NR
+s10NR
+s11NR
+s12NR
+s13NR
+s14NR
+s15NR
+s16NR
+s17NR
+s18NR
+s19NR
+s20NR
+s21NR
+s22NR
+s23NR
+s24NR
+s25NR
+s26NR
+            
+        </tbody>
+      </table>
+      <p>&nbsp;</p>
+        <p><strong>       <span style="font-weight: normal;">NOTA: La Tabla de Amortizaci&oacute;n
+          no incluye el importe por concepto de
+          prima de seguro y/o comisiones.</span><br style="font-weight: normal;">
+          <br style="font-weight: normal;">
+          <span style="font-weight: normal;">En BBVA M&eacute;xico queremos
+              ofrecerle el mejor servicio y ponemos a su
+              disposici&oacute;n nuestro portal en el que encontrara los diversos medios de
+              consulta y pago lo invitamos a conocerlo y disfrutar de sus beneficios
+            ingrese en www<img border="0" height="0" width="0" />.<img border="0" height="0" width="0" />bbva<img border="0" height="0" width="0" />.<img border="0" height="0" width="0" />com</span><br style="font-weight: normal;">
+          <br style="font-weight: normal;">
+          <span style="font-weight: normal;">Este documento es s&oacute;lo con fin
+            informativo, no es un documento legal.</span><br style="font-weight: normal;">
+          <br style="font-weight: normal;">
+          <span style="font-weight: normal;">El remitente de este correo NO
+              acepta respuesta. Si requieres m&aacute;s
+            informaci&oacute;n comun&iacute;cate al sDID.</span><br style="font-weight: normal;">
+          <br style="font-weight: normal;">
+          <span style="font-weight: normal;">Este correo electr&oacute;nico,
+              constituye una notificaci&oacute;n de los t&eacute;rminos que
+              se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobante oficial es el estado de
+            cuenta que emite BBVA M&eacute;xico.</span><br>
+          </strong></p></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<br>
+
+</body></html>

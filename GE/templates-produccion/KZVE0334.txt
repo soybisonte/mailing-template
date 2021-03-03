@@ -1,0 +1,311 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>BBVA Bancomer</title>
+<style type="text/css">
+    .fuente{font-family:Helvetica,Arial,sans-serif;text-decoration: none;word-wrap: normal; hyphens: none;}
+    .font2{color:#121212;font-size: 12px;font-weight: 300;}
+    .font1{color:#fff;font-size: 14px;font-weight: 400;}
+    .font3{color:#666;font-size:12px;font-weight:300;}
+    .font9{color:#666666;font-size: 13px;font-weight: 300;}
+    body {margin: 0; padding: 0; min-width: 100%!important;}
+    img {height: auto;}  .content {width: 100%; max-width: 600px;}
+    .pre-header{margin: 25px auto 25px;}
+    .header {margin: 25px auto 25px auto;}
+    .h3, .bodycopy1 {color: #121212; font-family: Helvetica,Arial,sans-serif;}
+    .h3 {font-size:20px;font-weight:700;line-height:20px;text-align:left;}
+    .bodycopy1 {font-size: 14px; line-height: 22px;font-weight: 300; padding-top: 60px;}
+    
+
+      @media only screen and (max-width: 550px), screen and (max-device-width: 550px) {
+      body[yahoo] .hide {display: none!important;}
+      body[yahoo] .buttonwrapper {background-color: transparent!important;}
+      body[yahoo] .button {padding: 0px!important;}
+      body[yahoo] .button a {background-color: #e05443; padding: 15px 15px 13px!important;}
+      body[yahoo] .unsubscribe {display: block; margin-top: 20px; padding: 10px 50px; background: #2f3942; border-radius: 5px; text-decoration: none!important; font-weight: bold;}
+      }
+
+  /*@media only screen and (min-device-width: 601px) {
+    .content {width: 600px !important;}
+    .col425 {width: 425px!important;}
+    .col380 {width: 380px!important;}
+    }*/
+
+  </style>
+</head>
+
+<body yahoo bgcolor="#efeeed">
+<table width="100%" bgcolor="#efeeed" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td>
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+    <![endif]-->     
+    <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td bgcolor="#efeeed">
+          <table  align="center" border="0" cellpadding="0" cellspacing="0">  
+            <tr>
+              <td class="pre-header" style="padding: 0 ">
+                <p class="font3 fuente pre-header " style="text-align:center; margin: 25px auto 25px!important;">
+                    Notificaci&oacute;n BBVA Bancomer
+                </p>
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+          </table>
+          <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+      <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+    <![endif]-->     
+    <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td bgcolor="#072146">
+          <table  align="center" border="0" cellpadding="0" cellspacing="0">  
+            <tr>
+              <td  style="padding: 0 ">
+                <a href="https://www.bancomer.com/" target="_blank">
+                <img class="header" src="httpsBBVA-Bancomer.png" width="226" border="0" alt="BBVA Bancomer" style="margin: 25px auto 25px auto!important;" />
+                </a>
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 63px 50px!important;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td>
+                <h3 class="h3" style="margin: 0">Apreciable sCLIENTE</h3>
+              </td>
+            </tr>
+            <tr>
+              <td class="bodycopy1" style="padding-top: 57px;">
+               Le informamos que se realiz&oacute; una <b>sDESCRIPCION</b> en su contrato con terminaci&oacute;n sCONTRATO, le compartimos los detalles:<br><br><br>
+        
+        <table style="background: #efeeed; height: 55px; width: 100%">
+          <tr>
+            <td style="width: 17.5%; text-align: center;vertical-align: top! important;padding-top: 17px;position: static;">
+              <img width="30" height="30" src="httpsinfo.png"class="img" alt="alert message"style="-ms-interpolation-mode:bicubic;clear:both;max-width:30px;outline:0;text-decoration:none;width:auto;" />
+            </td>
+            <td class="bodycopy2"style="padding: 23px; padding-left: 0px;position: static;">
+                Fecha: sFECHA<br>
+                Hora: sHORA<br>
+                Lugar: sDIRECCION
+            </td>
+          </tr>
+        </table>
+              </td>
+            </tr>
+        <tr>
+        <td style="padding-top:35px;color:#666666;">
+          <b><span class="fuente font8">DETALLES DE LA OPERACI&Oacute;N</span></b>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 0px 0px 20px 0px!important;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td style="padding: 8px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Mercado:</span> <br />
+                <span class="fuente font10">CAPITALES</span>
+              </td>
+              <td style="padding: 8px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Precio:</span> <br />
+                <span class="fuente font10">$ sPRECIO</span>
+              </td>             
+            </tr>
+
+            <tr>
+              <td style="padding: 0px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Tipo de inversi&oacute;n:</span> <br />
+                <span class="fuente font10">COLOCACI&Oacute;N</span>
+              </td>
+              <td style="padding: 0px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Comisi&oacute;n:</span> <br />
+                <span class="fuente font10">$ sCOMISION</span>
+              </td>             
+            </tr>
+            
+             <tr>
+              <td style="padding: 0px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Emisora serie:</span> <br />
+                <span class="fuente font10">sEMISORA sSERIE</span>
+              </td>
+              <td style="padding: 0px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">IVA:</span> <br />
+                <span class="fuente font10">$ sIVA</span>
+              </td>             
+            </tr>
+            <tr>
+              <td style="padding: 0px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Titulos:</span> <br />
+                <span class="fuente font10">sTITULOS</span>
+              </td>
+              <td style="padding: 0px 10px 0px 0px; width: 50%; height: 53px;">
+                <span class="fuente font9">Folio:</span> <br />
+                <span class="fuente font10">sFOLIO</span>
+              </td>             
+            </tr>
+      </tr> 
+      <tr>
+        <td class="bodycopy1" colspan="2" style="text-align: left; padding: 33px 0px 0px 0px! important;">
+          Para m&aacute;s informaci&oacute;n consulte a su ejecutivo patrimonial. 
+        </td>
+      </tr>     
+      <tr>
+        <td class="bodycopy1" colspan="2" style="text-align: left; padding: 33px 0px 0px 0px! important;">
+          Saludos, 
+        </td>
+      </tr>
+      <tr>
+        <td class="bodycopy1" colspan="2" style="text-align: left; padding: 20px 0px 0px 0px! important;">
+          Equipo Bancomer
+        </td>
+      </tr>
+      </table>
+    </table>
+      <tr>
+        <td bgcolor="#004481" style="padding: 20px 32px 20px 32px!important;">
+          <table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">  
+            <tr>
+              <td class="fuente font1 " height="20">
+                <a class="fuente font1" href="https://www.bancomer.com/aplicativos/buscador-sucursales/index.jsp" target="_blank;">
+                <img class="fix" src="httpsplace_icon.png" width="20" height="20" border="0" alt="Sucursal"/>
+                </a>
+              </td>
+                <td class="fuente font1" style="padding-left: 10px" >
+                     <a class="fuente font1" href="https://www.bancomer.com/aplicativos/buscador-sucursales/index.jsp" target="_blank;" style="color: #fff !important;text-decoration: none;">
+                        Encuentra una sucursal 
+                     </a> 
+                </td>
+                <td class="fuente font1" style="text-align: right">
+                     <a href="tel:01-800-226-2663" target="_blank" style="color: #fff !important; text-decoration: none!important;">
+                        &iquest;No reconoces esta operaci&oacute;n? Llama a L&iacute;nea Bancomer
+                     </a>
+                    <a href="tel:01800 112 1113"  target="_blank" style="color: #fff !important; text-decoration: none;word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; hyphens: none;padding-left:10px;display: inline-block;">01-800-112-1113</a>
+                </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#237aba" style="padding: 40px 32px 40px 32px!important; ">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="center" class="fuente font1" style="color:#fff!important;">
+                 S&iacute;guenos en:
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 20px 0 0 0;">
+                <table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="37" style="text-align: center; padding: 0 6px 0 10px;">
+                      <a href="https://www.facebook.com/BBVABancomer">
+                        <img src="httpsfb_icon.png" width="26" height="26" alt="Facebook" border="0" />
+                      </a>
+                    </td>
+                    <td width="37" style="text-align: center; padding: 0 10px 0 6px;">
+                      <a href="https://twitter.com/BBVABancomer">
+                        <img src="httpstw_icon.png" width="26" height="26" alt="Twitter" border="0" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#f4f4f4" style="padding: 40px 32px 40px 32px;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="center" class="fuente font2">
+                 Este correo no admite respuestas.
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 45px 0 0 0;">
+                <table border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="37" style="text-align: center; padding: 0 6px 0 10px;">
+                      <a href="https://www.bancomer.com/" target="_blank">
+                        <img src="httpsBBVA-Bancomer_navy.png" alt="Facebook" border="0" style="max-width:250px;width:auto" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" class="fuente font3" style="padding: 45px 0 0 0;">
+                 <span style="color:#666 !important;text-decoration:none!important">
+                    <strong>
+                        BBVA Bancomer, S.A., Instituci&oacute;n de Banca M&uacute;ltiple, Grupo Financiero BBVA Bancomer.
+                    </strong>
+                    <br>
+                        Avenida Paseo de la Reforma 510, colonia Ju&aacute;rez, c&oacute;digo postal 06600, delegaci&oacute;n Cuauht&eacute;moc, Ciudad de M&eacute;xico.
+                 </span>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 65px 32px!important;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="fuente font3" style="color: #666 !important;">
+                 <p class="footer-legal-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0;margin-left:3px;margin-right:32px;padding:0;text-align:justify; hyphens: none;">
+                            
+                             Este correo electr&oacute;nico constituye una notificaci&oacute;n de los t&eacute;rminos en los que se realiz&oacute; la operaci&oacute;n; el &uacute;nico comprobante oficial es el estado de cuenta que emite BBVA Bancomer.
+                            <br><br>
+                            BBVA Bancomer, S.A., Instituci&oacute;n de Banca M&uacute;ltiple, Grupo Financiero BBVA Bancomer, recaba sus datos para verificar su identidad. El Aviso de Privacidad Integral actualizado est&aacute; en cualquiera de nuestras oficinas y en <a href="https://www.bancomer.com/personas/aviso-privacidad.jsp" target="_blank" style="font-weight: bold; text-decoration: none; color:#237aba;">www.bancomer.com</a>.
+                            </p>
+
+              </td>
+            </tr>
+              <tr>
+              <td class="fuente font3" style="color: #666 !important;text-align: right; padding-top: 30px;font-size:9px;">
+                T03AL<br>
+                100 / 107
+                <br>
+                KZVE0334
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+    </table>
+    <![endif]-->
+    </td>
+  </tr>
+</table>
+
+<!--analytics-->
+</td>
+</tr>
+</table>
+</body>
+</html>

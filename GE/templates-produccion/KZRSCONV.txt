@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contrato M&uacute;ltiple de Servicios Digitales</title>
+	<style type="text/css">
+    
+    body{
+	text-align: justify;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-family: Arial;
+	color: navy;
+    }
+	p {
+        color: navy;
+}
+
+	div{
+		color: navy;
+	}
+	
+    
+    .texto{
+      text-decoration: underline;
+      color: #0000FF;
+      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    } 
+    .numeroDePagina{
+      text-align: right;
+      padding-top: 10px;
+      padding-bottom: 20px;
+    }
+
+
+    .tituloPrincipal{
+      padding-top: 10px;
+      padding-bottom: 40px;
+      color: #398BDE;
+      font-size: 45px;
+      font-weight: bold;
+    }
+
+    .filaIndice{
+      width: 100%;
+      display: flex;
+    }
+
+    .subSeccionIndice{
+      flex-grow: 1;
+      padding-left: 5%;
+      font-weight: normal;
+    }
+
+    .subSubSeccionIndice{
+      flex-grow: 1;
+      padding-left: 10%;
+      font-weight: normal;
+    }
+
+    .seccionIndice{
+      flex-grow: 1;
+    }
+
+    .puntosIndice{
+      border-bottom-style: dotted;
+      flex-grow: 100;
+      border-bottom-width: 2px;
+    }
+
+    .numeroIndice{
+      flex-grow: 1;
+    }
+
+    .numeroTitulo{
+      float: left;
+      font-size: 30px;
+      color: #2482D0;
+    }
+
+    .textoTitulo{
+      font-size: 18px;
+      color: #00B1EF;
+      padding-top: 10px;
+    }
+
+    .textoTitulo2{
+      font-size: 17px;
+      color: #009EE5;
+      vertical-align: text-bottom;
+    }
+    .textoTitulo3{
+      font-size: 17px;
+      color: #2E9AFE;
+      vertical-align: text-bottom;
+    }
+
+    .bordeLinea{
+      border:1px solid #000;
+      border-collapse: collapse;
+    }
+    
+    .bordeLinea .encabezado th{
+      font-weight: bold;
+    }
+
+    .bordeLinea th{
+      border:1px solid #000;
+      font-weight: normal;
+    }
+
+    .sinBorde th{
+      font-weight: normal;
+    }
+
+    .temaTabla{
+      font-weight: bold;
+      text-decoration: underline;
+      padding-right: 10px;
+
+    }
+
+    .link{
+      color: blue;
+      text-decoration: underline;
+
+    }
+	
+
+  #pagina3 {
+	color: navy;
+}
+    </style>
+</head>
+<body>
+<p>&nbsp;</p>
+<div id="pagina3">
+  <p align="right">Folio: sFOLIO</p>
+  <p align="right"><b></b></p>
+
+ 	<br>
+ 	<br>
+	<p><b>CONVENIO PARA RECONOCIMIENTO DE ADEUDO Y REESTRUCTURACI&Oacute;N QUE CELEBRAN, POR UNA PARTE BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER, COMO ACREDOR, A QUIEN EN LO SUCESIVO SE DESIGNAR&Aacute; COMO &quot;EL BANCO&quot; A TRAV&Eacute;S DE SUS REPRESENTANTES LEGALES Y POR OTRA PARTE EL SE&Ntilde;OR (A) <u> sNOMBRE </u> COMO DEUDOR, QUIEN COMPARECE POR SU PROPIO DERECHO, Y QUIEN EN LO SUCESIVO SE DENOMINAR&Aacute; COMO &quot;EL CLIENTE&quot; Y CONJUNTAMENTE CON &quot;EL BANCO&quot; Y &quot;EL CLIENTE&quot; COMO &quot;LAS PARTES&quot;, AL TENOR DE LAS SIGUIENTES DECLARACIONES Y CL&Aacute;USULAS:</b>  </p> 
+ 	<div style="height:20px; clear:both;"></div>
+
+      <div style="font-size:9pt; text-align:center; color:#FFFFFF; background-color: navy; ">
+        <div style="height:2px; clear:both;"></div>
+        <b>D E C L A R A C I O N E S</b>
+        <div style="height:2px; clear:both;"></div>   
+    </div>
+  <div style="height:20px; clear:both;"></div>
+	<p><b>I.- Declara &quot;EL CLIENTE&quot; que:</b> </p>
+ 	<p><br>
+ 	
+ 	  a) Es persona f&iacute;sica en pleno uso y goce de sus facultades para la celebraci&oacute;n del presente convenio.<br>
+  <br>
+ 	  b) La informaci&oacute;n y documentaci&oacute;n con la que cuenta &quot;EL BANCO&quot; reflejan adecuadamente y en forma veraz su solvencia econ&oacute;mica a la fecha y que sabe que en consideraci&oacute;n a la misma, &quot;EL BANCO&quot; autoriza la celebraci&oacute;n de este convenio.<br>
+  <br>
+ 	  c) Podr&aacute; tener celebrado con &quot;EL BANCO&quot; un contrato de Banca Electr&oacute;nica el cual a trav&eacute;s de claves y contrase&ntilde;as previamente convenidas con &quot;EL BANCO&quot;, lo identifican y vinculan, tiene acceso a los sistemas de c&oacute;mputo de &quot;EL BANCO&quot; para realizar diversas operaciones, entre las cuales se encuentran la contrataci&oacute;n de productos y servicios, la disposici&oacute;n y pagos del cr&eacute;dito, as&iacute; como la consulta del saldo del cr&eacute;dito.<br>
+  <br>
+ 	  d) Conoce el(los) sistema(s) se&ntilde;alado(s) anteriormente que &quot;EL BANCO&quot; tiene en funci&oacute;n y que opera(n) mediante medios electr&oacute;nicos, en adelante &quot;EL SISTEMA&quot;, que conoce y acepta que a trav&eacute;s de &eacute;l(ellos), expresar&aacute; su consentimiento respecto de la contrataci&oacute;n de productos y servicios, disposici&oacute;n y pagos del cr&eacute;dito, que realice al amparo del presente convenio, mediante el empleo de claves y contrase&ntilde;as (seg&uacute;n dichos t&eacute;rminos se definen m&aacute;s adelante) previamente convenidas, mismas que lo identifican y vinculan, e intercambiar&aacute; instrucciones, archivos y mensajes de datos con "EL BANCO".<br>
+ 
+  <br>       (Aplica cuando el reconocimiento de adeudo y reestructura sea sobre un cr&eacute;dito en cuenta corriente con Expedici&oacute;n de Tarjeta de Cr&eacute;dito.)<br>
+ 	  e) Tiene celebrados con &quot;EL BANCO&quot; el Contrato de Apertura de Cr&eacute;dito en Cuenta Corriente con Expedic&iacute;on de Tarjeta de Cr&eacute;dito identificado con el n&uacute;mero de tarjeta: <u>sNUMTDC</u> , en adelante el &quot;CR&Eacute;DITO&quot;, y que a la fecha adeuda la cantidad de <u>sSALTDC</u>.<br>	  
+  <br>  
+    	     (Aplica cuando el reconocimiento de adeudo y reestructura sea sobre un cr&eacute;dito de consumo.)<br>
+ 	  e) Tiene celebrados con &quot;EL BANCO&quot; el Contrato de Apertura de Cr&eacute;dito Simple identificados con el n&uacute;mero de cr&eacute;dito: <u>sNUMCC</u> , en adelante el &quot;CR&Eacute;DITO&quot;, y que a la fecha adeuda la cantidad de $<u>sSALCCC</u>.<br>
+  <br> 	  
+          f) Es su deseo celebrar el presente convenio respecto del cr&eacute;dito relacionado en el inciso e) aplicable y, entiende que dicha celebraci&oacute;n implicar&aacute; una reestructura del cr&eacute;dito, por lo que permanecer&aacute; en cartera vencida hasta en tanto no se acredite el pago sostenido.<br>
+  <br> 	  
+          g) Previamente a la celebraci&oacute;n del presente convenio, &quot;EL BANCO&quot; le hizo del conocimiento el alcance y contenido del presente instrumento y de los dem&aacute;s documentos a suscribir, los cargos o gastos que se generen por la celebraci&oacute;n del mismo y, en su caso, los descuentos o bonificaciones a que tenga derecho, as&iacute; como el Costo Anual Total, en adelante &quot;CAT&quot;, correspondiente al presente cr&eacute;dito.<br>  
+  <br> 	  
+          h)  Los recursos que utilizar&aacute; para pagar el presente adeudo no son ni ser&aacute;n de procedencia il&iacute;cita.<br>
+
+ 	  <br>
+ 	
+  <div style="height:20px; clear:both;"></div>
+<b>II.- Declara &quot;EL BANCO&quot; a trav&eacute;s de sus representantes legales que:</b>
+  <div style="height:20px; clear:both;"></div>
+a) Es una sociedad an&oacute;nima debidamente constituida conforme a las leyes mexicanas y autorizadas para operar como instituci&oacute;n de banca m&uacute;ltiple, por lo que cuenta con las facultades necesarias para la celebraci&oacute;n y cumplimiento de este convenio.<br>
+<br>
+b) Sus representantes cuentan con las facultades suficientes para acudir en su nombre y representaci&oacute;n a la celebraci&oacute;n y ejecuci&oacute;n del presente convenio, mismas que no les han sido revocadas ni en forma alguna modificadas.<br>
+<br>
+c) Est&aacute; de acuerdo en celebrar el presente convenio en los t&eacute;rminos y condiciones que se establecen en este instrumento.<br>
+<br>
+<br>
+<br>
+Expuesto lo anterior &quot;LAS PARTES&quot; se sujetan a lo que estipulan las siguientes:<br>
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#FFFFFF; background-color: navy; ">
+        <div style="height:2px; clear:both;"></div>
+        <b>C L &Aacute; U S U L A S</b>
+        <div style="height:2px; clear:both;"></div>   
+</div>
+<div style="height:20px; clear:both;"></div>
+
+<div style="height:20px; clear:both;"></div>
+<b>PRIMERA.- RECONOCIMIENTO DE ADEUDO Y FORMA DE PAGO</b>. &quot;EL CLIENTE&quot; reconoce adeudar y se obliga a pagar a &quot;EL BANCO&quot; con motivo del cr&eacute;dito relacionado en el inciso e) respectivo, de Declaraciones de &rdquo;EL CLIENTE&rdquo;, la cantidad de $<u>sMONDEUDA</u>, que resulta de la suma de capital, intereses, intereses moratorios, accesorios y dem&aacute;s gastos que deba cubrir &ldquo;EL CLIENTE&rdquo; en favor de &quot;EL BANCO&quot;. En ese sentido, &quot;LAS PARTES&quot; est&aacute;n de acuerdo en pactar un nuevo esquema de pagos a solicitud de &quot;EL CLIENTE&quot; para crear un solo adeudo.<br>
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+<div id="pagina4">
+  <p>&quot;EL CLIENTE&quot; se obliga a pagar a &quot;EL BANCO&quot; la cantidad adeudada  mediante <u>sPLAZO</u> pagos sucesivos de hasta un mes o en su caso quincenales, seg&uacute;n sea el caso; lo anterior  tal y como se encuentra establecido de manera clara en el Comprobante Anexo a este mismo documento, el cual forma parte integrante del mismo. En caso de que cualquier fecha l&iacute;mite de pago fuese un d&iacute;a que no sea d&iacute;a h&aacute;bil, el pago se realizar&aacute; el d&iacute;a h&aacute;bil inmediato siguiente.<br>
+<br>
+   (Este p&aacute;rrafo aplica cuando se oferte una Reestructura con Descuento).<br>
+<b>SEGUNDA.- DESCUENTO O QUITA CONDICIONADA.</b> &rdquo;LAS PARTES&rdquo; convienen que en caso de que &rdquo;EL CLIENTE&rdquo; pague el monto adeudado en los t&eacute;rminos convenidos en la cl&aacute;usula anterior y conforme al comprobante anexo a este documento, &rdquo;EL BANCO&rdquo; esta de acuerdo en hacerle una quita a &rdquo;EL CLIENTE&rdquo; por <u>sMONQUITA</u> del monto adeudado, equivalente a las <u>sAMORTREQ</u> &uacute;ltimas amortizaciones obligadas a cubrir. En caso que &quot;EL CLIENTE&quot; no cumpla con los pagos convenidos en los t&eacute;rminos pactados, &quot;EL BANCO&quot; tendr&aacute; derecho a cobrar el monto total adeudado en los t&eacute;rminos se&ntilde;alados en la Cl&aacute;usula Primera.<br>
+ 	
+<br>
+<b><strong>TERCERA</strong>.- VIGENCIA.</b> La vigencia de este convenio, estar&aacute; sujeta a la condici&oacute;n suspensiva, consistente en que &quot;EL CLIENTE&quot; realice un pago inicial por la cantidad de <u>sPAGOINI</u> (<u>sPAGOINILE</u>) en el &quot;CR&Eacute;DITO&quot; relacionado en el inciso e) respectivo, del apartado de Declaraciones de &quot;EL CLIENTE&quot;, a m&aacute;s tardar en la fecha convenida.<br>
+<br>
+En caso de que &quot;EL CLIENTE&quot; realic&eacute; un pago por una cantidad mayor a la indicada en esta cl&aacute;usula, el monto del &quot;CR&Eacute;DITO&quot; consolidado se ajustar&aacute;.<br>
+<br>
+Durante el plazo que transcurra entre la fecha de firma del presente Convenio y la fecha en que se realice el pago referido en el primer p&aacute;rrafo de esta Cl&aacute;usula, &quot;EL CLIENTE&quot; se obliga a leer de manera &iacute;ntegra los t&eacute;rminos y condiciones del presente instrumento, por lo que, el pago aludido, constituye un acto que permite acreditar su conformidad con este Convenio.<br>
+<br>
+Una vez satisfecha la condici&oacute;n antes se&ntilde;alada, el presente instrumento iniciar&aacute; su vigencia a partir de la fecha en que se cumpla con el pago y concluir&aacute; el <u>sFECVEN</u>.<br>
+<br>
+Al vencimiento del plazo de vigencia del presente convenio, se le denominar&aacute; en lo sucesivo &quot;FECHA DE PAGO FINAL&quot;; sin embargo, seguir&aacute; produciendo todos sus efectos hasta que se hayan cumplido todas las obligaciones que se contemplan para LAS PARTES en este documento.<br>
+
+ 	<br>
+ 	<br>
+	
+ 	<b><strong>CUARTA</strong>.- AUTORIZACI&Oacute;N.</b> &ldquo;EL CLIENTE&quot; en este acto otorga a &quot;EL BANCO&quot;, la autorizaci&oacute;n irrevocable para cargar y/o gestionar el cargo en cualquier cuenta de n&oacute;mina o dep&oacute;sito a la vista que &ldquo;EL CLIENTE&ldquo; mantenga con &ldquo;EL BANCO&ldquo; para efectuar el pago del importe del saldo vencido proveniente del presente &ldquo;CR&Eacute;DITO&ldquo;.<br>
+<br>
+&quot;EL BANCO&quot; s&oacute;lo podr&aacute; hacer el cargo, cuando el importe del saldo vencido, sea respecto de los montos vencidos en la fecha y por el monto que se indica en el estado de cuenta.<br>
+<br>
+<b><strong>QUINTA</strong>.- INTERESES ORDINARIOS.</b> &ldquo;EL CLIENTE&ldquo; se obliga a pagar a &ldquo;EL BANCO&ldquo;, durante la vigencia del presente convenio, intereses ordinarios quincenales o mensuales, en su caso, a partir de la fecha de celebraci&oacute;n del presente convenio sobre el saldo insoluto del adeudo, a raz&oacute;n de una tasa anual del <u>sTASA</u>.<br>
+<br>
+&quot;EL CLIENTE&quot; pagar&aacute; intereses ordinarios sobre la suma principal insoluta correspondiente al &quot;CR&Eacute;DITO&quot;, en cada per&iacute;odo de intereses (seg&uacute;n este t&eacute;rmino se define m&aacute;s adelante), a partir de la fecha de disposici&oacute;n del &quot;CR&Eacute;DITO&quot; conforme a lo establecido en este convenio y hasta la "FECHA DE PAGO FINAL".<br>
+<br>
+&quot;PERIODO DE INTERESES&quot; significa, con respecto del &quot;CR&Eacute;DITO&quot;, cada periodo de 15 (QUINCE) d&iacute;as naturales o cada mes natural, seg&uacute;n sea el caso, con base en el cual se calcular&aacute;n los intereses que cause la suma principal insoluta del &quot;CR&Eacute;DITO&quot;; en la inteligencia de que (i) el primer &quot;PERIODO DE INTERESES&quot; comenzar&aacute; en la fecha de vigencia del presente &quot; y terminar&aacute; precisamente a los 15 (QUINCE) d&iacute;as naturales siguientes o al mes natural siguiente, seg&uacute;n sea el caso; (ii) los &quot;PERIODOS DE INTERESES&quot; subsecuentes comenzar&aacute;n el d&iacute;a 16 (DIECIS&Eacute;IS) d&acute;a natural siguiente o mes natural siguiente al &uacute;ltimo d&iacute;a del &quot;PERIODO DE INTERESES&quot; inmediato anterior y terminar&aacute;n a los 15 (QUINCE) d&iacute;as naturales o un mes natural despu&eacute;s, seg&uacute;n sea el caso, y (iii) cualquier &quot;PERIODO DE INTERESES&quot; que est&eacute; vigente en     
+&quot;FECHA DE PAGO FINAL&quot;, terminar&aacute; precisamente en dicha fecha.<br>
+<br>
+Para calcular los intereses ordinarios de cada &quot;PERIODO DE INTERESES&quot;, la tasa anualizada de inter&eacute;s aplicable se dividir&aacute; entre 360 (TRESCIENTOS SESENTA) y el resultado se multiplicar&aacute; por el n&uacute;mero de los d&iacute;as naturales que integren el &quot;PERIODO DE INTERESES&quot; de que se trate. La tasa resultante se multiplicar&aacute; por el saldo insoluto del &quot;CR&Eacute;DITO&quot; y el producto ser&aacute; la cantidad que por concepto de intereses deber&aacute; pagar &quot;EL CLIENTE&quot; a &quot;EL BANCO&quot; en cada &quot;FECHA DE PAGO DE INTERESES&quot;.<br>
+<br>
+<b><strong>SEXTA</strong>.- INTERESES MORATORIOS.</b> &quot;EL CLIENTE&quot; se obliga a pagar intereses moratorios sobre el saldo del adeudo reconocido, mismos que se generar&oacute;n desde el d&iacute;a siguiente a su vencimiento, hasta el d&iacute;a en que dicho adeudo quede totalmente pagado, a raz&oacute;n de la tasa de inter&eacute;s anual que se obtenga de multiplicar la tasa ordinaria por el factor de 2 (DOS) por cada periodo que haya incurrido en mora.<br>
+<br>
+Para calcular los intereses moratorios, la tasa anualizada de inter&eacute;s moratorio aplicable se dividir&aacute; entre 360 (TRESCIENTOS SESENTA) y el cociente se aplicar&aacute; a los saldos insolutos y vencidos, resultando as&iacute; el inter&eacute;s moratorio de cada d&iacute;a, que se ha obligado a pagar &quot;EL CLIENTE&quot; en t&eacute;rminos de este convenio.<br>
+
+    <br>
+    <b><strong>S&Eacute;PTIMA</strong>.- LUGAR Y FORMA DE PAGO.</b> Todas las cantidades que &quot;EL CLIENTE&quot; deba pagar a &quot;EL BANCO&quot; en virtud del presente convenio, incluyendo sin limitar intereses y principal del &quot;CR&Eacute;DITO&quot;, las pagar&aacute; en las fechas convenidas, sin necesidad de previo requerimiento, mismas que deber&aacute;n de ser a satisfacci&oacute;n de &quot;EL BANCO&quot; en moneda nacional y en fondos libremente transferibles y disponibles en el mismo d&iacute;a de su abono. Dichos pagos ser&aacute;n efectuados en el domicilio estipulado por &quot;EL BANCO&quot; en el presente convenio, en el Comprobante Anexo a este documento o bien, podr&aacute;n hacerse en cualquier otro lugar que al efecto &quot;EL BANCO&quot; notifique a &quot;EL CLIENTE&quot;.<br>
+    <br>
+    &quot;EL BANCO&quot; estar&aacute; obligado a recibir efectivo, cheques salvo buen cobro y &oacute;rdenes de transferencias de fondos y domiciliaciones interbancarias, para el pago de principal, intereses y gastos del &quot;CR&Eacute;DITO&quot;.<br>
+    </b>
+    <br>
+     Las &oacute;rdenes de transferencia de fondos podr&aacute;n ser enviadas a solicitud de &quot;EL CLIENTE&quot; o por un tercero, y la instituci&oacute;n emisora podr&aacute; ser otra instituci&oacute;n de cr&eacute;dito. Asimismo, los cheques podr&aacute;n ser librados por &quot;EL CLIENTE&quot; o por un tercero, incluyendo aquellos que hayan sido expedidos a cargo de otra instituci&oacute;n de cr&eacute;dito. Lo anterior siempre y cuando quienes libren los cheques o soliciten &oacute;rdenes de transferencias de fondos respectivos, tengan en las cuentas que correspondan recursos suficientes.<br>
+    <br>
+     El pago del &quot;CR&Eacute;DITO&quot; se acreditar&aacute; de acuerdo al medio de pago que utilice &quot;EL CLIENTE&quot;, de la manera siguiente:<br>
+
+
+  </p>
+    <table class="bordeLinea" >
+ 		<tr class="encabezado">
+ 			<th width="90" height="10">MEDIOS DE PAGOS PERMITIDOS</th>
+ 			<th width="10">FECHAS DE ACREDITACI&Oacute;N DE LOS PAGOS </th>
+ 		</tr>
+		<tr height="40">
+ 			<th style="font-weight: bold;">Efectivo</th>
+ 			<th style="font-weight: bold;">Se acreditar&aacute; el mismo d&iacute;a. 
+			</th>
+ 	</tr>
+ 	<tr height="80">
+ 		<th style="font-weight: bold;">Cheque del mismo<br>&quot;BANCO&quot;</th>
+ 		<th style="font-weight: bold;">Se acreditar&aacute; el mismo d&iacute;a. 
+	  </th>
+ 	</tr height="80">
+    <tr>
+    <th style="font-weight: bold;">Cheque de otro banco<br></th>
+    <th style="font-weight: bold;">Si se deposita antes de las 16:00 horas, se acreditar&aacute; a m&aacute;s tardar el &quot;D&Iacute;A H&Aacute;BIL&quot; siguiente.<br>
+Si se deposita despu&eacute;s de las 16:00 horas, se acreditar&aacute; a m&aacute;s tardar el segundo &quot;D&Iacute;A H&Aacute;BIL&quot; siguiente.
+      </th>
+  </tr>
+  <tr height="80">
+    <th style="font-weight: bold;">Domiciliaci&oacute;n<br></th>
+    <th style="font-weight: bold;">Se acreditar&aacute;:<br>
+      a) En la fecha en que la Entidad acuerde con el deudor, o <br>
+      b) En la fecha l&iacute;mite de pago del cr&eacute;dito<br>
+      </th>
+  </tr>
+  <tr height="80">
+    <th style="font-weight: bold;">Transferencias<br>
+    electr&oacute;nicas de fondos</th>
+    <th style="font-weight: bold;">a) A trav&eacute;s del Sistema de Pagos Electr&oacute;nicos Interbancarios (SPEI), o mediante cargos y abonos a cuentas en el mismo &ldquo;BBVA&rdquo;, se acreditar&aacute; mismo &ldquo;D&Iacute;A H&Aacute;BIL&rdquo; en que se ordene la transferencia.<br>
+b) A trav&eacute;s del Sistema de Transferencia Electr&oacute;nica, se acreditar&aacute; a m&aacute;s tardar el &ldquo;D&Iacute;A H&Aacute;BIL&rdquo; siguiente al que se ordene la transferencia. </th>
+  </tr>
+ 	</table>
+
+    <br>
+    <b><strong>OCTAVA</strong>.- PAGOS ANTICIPADOS Y ADELANTADOS.</b> &quot;EL CLIENTE&quot; podr&aacute; efectuar pagos anticipados del &quot;CR&Eacute;DITO&quot; y para esto deber&aacute;: a) estar al corriente en el cumplimiento de sus obligaciones se&ntilde;aladas en este convenio y, b) el importe de sus pagos anticipados ser&aacute; por lo menos el equivalente al importe de una amortizaci&oacute;n o mayor a &eacute;sta. Estos pagos anticipados ser&aacute;n aplicados al saldo insoluto del principal y si el importe de los pagos anticipados no es suficiente para amortizar el saldo insoluto en su totalidad, &quot;EL BANCO&quot; disminuir&aacute; el importe de las amortizaciones restantes, o a elecci&aacute;n de &quot;EL CLIENTE&quot;, disminuir&aacute;, el n&uacute;mero de pagos.<br>
+    <br>
+    Si &quot;EL CLIENTE&quot; solicita a &quot;EL BANCO&quot; efectuar pagos anticipados, &quot;EL BANCO&quot; informar&aacute; a &quot;EL CLIENTE&quot; sobre su saldo insoluto y seguir&aacute; el siguiente procedimiento en:<br>
+    <br>
+    <b><strong>a) Sucursal</strong>.</b> &quot;EL CLIENTE&quot; con su n&uacute;mero de cr&eacute;dito, acude a cualquier sucursal presenta su identificaci&oacute;n oficial y hace su pago anticipado.<br>
+    <br>
+    <b><strong>b) En Banca electr&oacute;nica por Internet</strong>.</b> En caso de que &quot;EL CLIENTE&quot; cuente con este servicio, mediante el uso de claves y contrase&ntilde;as previamente convenidas, &quot;EL CLIENTE&quot; ingresa al portal de BBVA.mx, donde en la pantalla se muestra un men&uacute; de opciones, &quot;EL CLIENTE&quot; selecciona la opci&oacute;n &quot;Pagar&quot; donde digita la cantidad del pago anticipado.<br>
+    <br>
+    <b><strong>c) Por cajeros autom&aacute;ticos o por cualquier medio electr&oacute;nico previamente pactado</strong>.</b> &quot;EL CLIENTE&quot; mediante el uso de claves y contrase&ntilde;as previamente convenidas accede al cajero autom&aacute;tico o al medio electr&oacute;nico pactado, donde se muestra en la pantalla la opci&oacute;n de &quot;Pago del Cr&eacute;dito&quot;, &quot;El CLIENTE&quot; ingresa la cantidad a pagar para llevar a cabo su pago anticipado.<br>
+    <br>
+     Si el importe de los pagos anticipados no es suficiente para amortizar el saldo insoluto en su totalidad, &quot;EL BANCO&quot; disminuir&aacute; el importe de las amortizaciones restantes y entregar&aacute; a &quot;EL CLIENTE&quot; la tabla de amortizaci&oacute;n actualizada, poni&eacute;ndola a su disposici&oacute;n en cualquier sucursal.<br>
+    <br>
+     En todos los casos &quot;EL BANCO&quot; entregar&aacute; un comprobante del pago al momento de realizarlo. Si los pagos anticipados que realice &quot;EL CLIENTE&quot; son por un importe igual al saldo insoluto, &quot;EL BANCO&quot; le entregar&aacute; el finiquito y documentaci&oacute;n respectiva.<br>
+    <br>
+     &quot;EL CLIENTE&quot; podr&aacute; efectuar pagos adelantados del &quot;CR&Eacute;DITO&quot;, y para ello deber&aacute; solicitar a &quot;EL BANCO&quot;, en sucursales, recibir pagos que a&uacute;n no sean exigibles para cubrir pagos peri&oacute;dicos inmediatos siguientes. En el caso de que el pago sea superior al que deba cubrirse en un per&iacute;odo, &quot;EL CLIENTE&quot; deber&aacute; presentar un escrito con su firma aut&oacute;grafa que incluya la leyenda siguiente: &quot;EL CLIENTE&quot; autoriza que los recursos que se entregan en exceso a sus obligaciones exigibles, no se apliquen para el Pago Anticipado del principal, sino que se utilicen para cubrir por adelantado los pagos peri&oacute;dicos del Cr&eacute;dito inmediatos siguientes:.<br>
+    <br>
+     Cuando &quot;EL CLIENTE&quot; realice un pago adelantado, &quot;EL BANCO&quot; le entregar&aacute; el comprobante de dicho pago.<br>
+    <br>
+    <b><strong>NOVENA</strong>.- COMISIONES.</b> Este &quot;CR&Eacute;DITO&quot; no genera comisiones. Lo anterior podr&aacute; ser modificado en caso de reestructuraci&oacute;n, previo consentimiento expreso de &quot;EL CLIENTE&quot;.<br>
+    <br>
+    En caso de realizar pagos del cr&eacute;dito a trav&eacute;s de comisionistas bancarios pudiera generar una comisi&oacute;n. &quot;Las operaciones realizadas a trav&eacute;s de los comisionistas bancarios podr&aacute;n generar una Comisi&oacute;n, consulte antes de realizar su operaci&oacute;n.&quot;<br>
+    <br>
+    <b>D&Eacute;CIMA.- &quot;CAT&quot;.</b> El Costo Anual Total de financiamiento expresado en t&eacute;rminos porcentuales anuales que, para fines informativos y de comparaci&oacute;n, incorpora la totalidad de los costos y gastos inherentes al presente &quot;CR&Eacute;DITO&quot; es del <u>sCAT</u>.<br>
+    <br>
+    <b>D&Eacute;CIMA PRIMERA.- CAUSAS DE VENCIMIENTO ANTICIPADO .</b> &quot;EL BANCO&quot; podr&aacute; dar por vencido anticipadamente el plazo estipulado en el presente convenio y exigir el pago del saldo del Monto Adeudado que permanezca insoluto, en cualquiera de los siguientes casos:<br>
+    <br>
+    a) Si &quot;EL CLIENTE&quot; no paga puntual e &iacute;ntegramente alguna amortizaci&oacute;n de capital vencida, o los intereses devengados, o gastos que se causen en virtud del presente instrumento y en relaci&oacute;n con el &quot;CR&Eacute;DITO&quot; (cada uno de dichos eventos constituir&aacute; una &quot;Causa de Vencimiento Anticipado&quot;).<br>
+    <br>
+    b) Si &quot;EL CLIENTE&quot; faltare al cumplimiento de cualquiera de sus obligaciones bajo el presente instrumento, incluyendo sin limitar las obligaciones de hacer y de no hacer estipuladas en el presente instrumento.<br>
+    <br>
+    c) Si resulta ser falsa cualquier informaci&oacute;n o dato proporcionado por &quot;EL CLIENTE&quot; en la solicitud del &quot;CR&Eacute;DITO&quot; o en cualquier informaci&oacute;n que deba proporcionar a &quot;EL BANCO&quot;.<br>
+    <br>
+    Independientemente de lo anterior, el &quot;CR&Eacute;DITO&quot; se extinguir&aacute; en los casos previstos por la Ley General de T&iacute;tulos y Operaciones de Cr&eacute;dito.<br>
+    <br>
+    En caso de incurrir en alguna de las causas de vencimiento anticipado antes previstas, &quot;EL BANCO&quot; podr&aacute; declarar por vencido anticipadamente el plazo para el pago del adeudo y dem&aacute;s accesorios estipulados en el presente instrumento y &quot;EL CLIENTE&quot; deber&aacute; pagar a &quot;EL BANCO&quot; de manera inmediata el importe total insoluto del adeudo y todas las dem&aacute;s sumas que se adeuden bajo el presente convenio. En caso contrario &quot;EL CLIENTE&quot; se obliga a pagar intereses moratorios conforme a lo pactado en el presente instrumento, tomando como base la tasa ordinaria aplicable pactada en el presente &quot;CR&Eacute;DITO&quot;.<br>
+
+ 	<br>
+	<b>D&Eacute;CIMA SEGUNDA.- PROCEDIMIENTO PARA MODIFICAR EL CONVENIO.</b> &quot;EL BANCO &quot; podr&aacute; modificar el presente convenio, mediante aviso dado con 30 (TREINTA) d&iacute;as naturales de anticipaci&oacute;n a su entrada en vigor, a trav&eacute;s del Portal Financiero www.bbva.mx.<br>
+<div style="height:20px; clear:both;"></div>
+ <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+<div id="pagina6">
+  <p>En caso de que &quot;EL CLIENTE&quot; no est&eacute; de acuerdo con las modificaciones notificadas por &quot;EL BANCO&quot; podr&aacute; solicitar la terminaci&oacute;n del convenio en un plazo de 30 (TREINTA) d&iacute;as naturales posteriores a la entrada en vigor de las modificaciones, mediante la presentaci&oacute;n de una solicitud por escrito ante cualquier sucursal de &quot;EL BANCO&quot; para la realizaci&oacute;n de dicha cancelaci&oacute;n. &quot;EL BANCO&quot; una vez que reciba el aviso de terminaci&oacute;n por parte de &quot;EL CLIENTE&quot;, proceder&aacute; a la cancelaci&oacute;n del convenio, sin eximir a &quot;EL CLIENTE&quot; de las obligaciones de pago que tenga pendientes hasta el t&eacute;rmino de la operaci&oacute;n.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>TERCERA</strong>.- DOMICILIOS.</b> &quot;LAS PARTES&quot; se&ntilde;alan como domicilio para todos los efectos de este convenio, los siguientes:.<br>
+    <br>
+    &quot;EL BANCO&quot; en Avenida Paseo de la Reforma 510, Colonia Ju&aacute;rez, Alcald&iacute;a Cuauht&eacute;moc, C.P. 06600, Ciudad de M&eacute;xico.<br>
+    <br>
+    &quot;EL CLIENTE&quot; en el relacionado en el contrato de cr&eacute;dito se&ntilde;alado en el inciso e) respectivo, de las Declaraciones de &quot;EL CLIENTE&quot;.<br>
+    <br>
+    En caso, de que &quot;EL CLIENTE&quot; realice cambio en su domicilio deber&aacute; informar a &quot;EL BANCO&quot;, cuando menos con 10 (DIEZ) d&iacute;as h&aacute;biles de anticipaci&oacute;n. En caso de no hacerlo, todos los avisos, notificaciones y dem&aacute;s diligencias judiciales o extrajudiciales que se hagan en el domicilio indicado en esta cl&aacute;usula, surtir&aacute;n plenamente sus efectos.<br>
+    <br>
+    &quot;EL CLIENTE&quot; podr&aacute; consultar las redes sociales, con las que cuenta &quot;EL BANCO&quot; en www.bbva.mx.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>CUARTA</strong>.- IMPUESTOS.</b> &quot;EL CLIENTE&quot; pagar&aacute; a &quot;EL BANCO&quot; todas las sumas de principal, intereses y otras sumas pagaderas conforme al presente convenio, libres, exentas y sin deducci&oacute;n, carga o cualquier otra responsabilidad fiscal que grave dichas cantidades en la actualidad o en el futuro, pagaderos en cualquier jurisdicci&oacute;n en M&eacute;xico.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>QUINTA</strong>.- TITULO EJECUTIVO.</b> El presente convenio, conjuntamente con el estado de cuenta certificado por el Contador de &quot;EL BANCO&quot;, ser&aacute; t&iacute;tulo ejecutivo.<br>
+    <br>
+    
+  </p>
+  <div style="height:20px; clear:both;"></div>
+   <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+</div>
+
+<div id="pagina7">
+  <p><b>D&Eacute;CIMA <strong>SEXTA</strong>.- LEYES Y TRIBUNALES.</b> Este convenio se rige de acuerdo a las leyes de los Estados Unidos Mexicanos, particularmente por lo previsto en la Ley de Instituciones de cr&eacute;dito, la Ley General de T&iacute;tulos y Operaciones de Cr&eacute;dito y sus leyes supletorias.<br>
+    <br>
+    Asimismo, para todo lo relativo a la interpretaci&oacute;n, ejecuci&oacute;n y cumplimiento del presente convenio, &quot;LAS PARTES&quot; se someten a la jurisdicci&oacute;n de las Leyes y Tribunales de la Ciudad de M&eacute;xico o del lugar de celebraci&oacute;n del presente instrumento, a elecci&oacute;n de la parte actora, renunciando expresamente al fuero de su domicilio presente o futuro.<br>
+    <br>
+    <b>D&Eacute;CIMA <strong>S&Eacute;PTIMA</strong>.- CONFORMIDAD EN EL TEXTO DE LO CONVENIDO.</b> &quot;LAS PARTES&quot; en este acto manifiestan su conformidad con la celebraci&oacute;n del presente Convenio, oblig&aacute;ndose a estar y pasar por &eacute;l en todo tiempo y lugar, toda vez que el mismo no contiene cl&aacute;usulas contrarias a la moral, al Derecho y a las buenas costumbres, habiendo comprendido los alcances y consecuencias de los derechos y obligaciones estipulados en el mismo, ya que fueron convenidos por ellos.<br>
+    <br>
+    El presente contrato, los datos y el Comprobante Anexo a este convenio constituyen la expresi&oacute;n de la voluntad de &quot;LAS PARTES&quot;, por lo que se suscribe por &quot;EL BANCO&quot; y por &quot;EL CLIENTE&quot;, en la Ciudad de M&eacute;xico, el d&iacute;a <u>sFECCONTR</u>.<br>
+    <br>
+    
+  
+ 	<br>
+ 	
+ 
+ <div style="height:20px; clear:both;"></div>
+ <div class="numeroDePagina"></div>
+</div>
+
+<div id="pagina26">
+	
+ 	<br>
+ 	<br>
+	<table class="bordeLinea" style="width: 100%;height: 130px;">
+		<tr>
+			<th style="width: 50%;" align="center">________________________________
+			<br>
+			<p><b>BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER</b> </p>
+			</th>
+			<th style="width: 50%;" align="center">________________________________
+		
+  			<p><b>BBVA BANCOMER, SOCIEDAD AN&Oacute;NIMA, INSTITUCI&Oacute;N DE BANCA M&Uacute;LTIPLE, GRUPO FINANCIERO BBVA BANCOMER </b></p>
+			</th>
+   		</tr>
+	</table >
+	<br>
+	<br>
+	<table class="bordeLinea" width="400" align="center">  
+		<tr class="encabezado" align="center"></tr>
+			<th>
+			 
+ 			<br>
+ 			<br>
+ 			<br>
+ 			<br>
+	 		</th>
+      <tr><td><p align="center"><b>NOMBRE COMPLETO Y FIRMA DE &ldquo;EL CLIENTE&rdquo;</b></p></td></tr>
+      <tr><td><p align="center"><b><u>sNOMCLI</u>.<br></b></p></td></tr>
+ 	</table>
+ <p>&nbsp;</p>
+
+
+	 <div style="height:20px; clear:both;"></div>
+   <div style="font-size:9pt; text-align:center; color:#BB7042; background-color:#BB7042;"></div>
+  <div class="numeroDePagina"></div>
+</div>
+
+
+</body>
+</html>

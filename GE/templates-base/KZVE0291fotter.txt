@@ -1,0 +1,474 @@
+			<!--Botones/Pasos-->
+			<table class="wrapper banner secondary float-center" style="Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%" align="center">
+				<tbody>
+					<tr style="padding:0;text-align:left;vertical-align:top">
+						<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+							<table class="container" style="Margin:0 auto;background:#237aba;border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:600px" align="center">
+								<tbody>
+									<tr style="padding:0;text-align:left;vertical-align:top">
+									<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+										<table class="row collapse" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+											<tbody>
+												<tr style="padding:0;text-align:left;vertical-align:top">
+													<th class="banner-content small-12 large-6 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;min-height:294px!important;padding:0;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;vertical-align:top!important;width:300px" valign="top">
+														<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%; height: 300px">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+																		<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:50px;font-weight:400;hyphens:auto;line-height:50px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="50px">&nbsp;
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<h4 class="banner-headline" style="Margin:0;Margin-bottom:0!important;Margin-left:50px;Margin-right:50px;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:24px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0!important;margin-left:50px;margin-right:50px;padding:0;text-align:left;word-wrap:normal; hyphens: none;">Ay&uacute;danos a protegerte
+																		</h4>
+																		<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="30px">&nbsp;
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<p class="banner-body" style="Margin:0;Margin-bottom:0!important;Margin-left:50px;Margin-right:50px;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0!important;margin-left:50px;margin-right:50px;padding:0;text-align:left; hyphens: none;">
+																			Tu tarjeta tiene datos confidenciales, cu&iacute;dala. En BBVA nunca solicitamos tu NIP, c&oacute;digo de seguridad o contrase&ntilde;as por ning&uacute;n medio.
+																		</p>
+																		<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="30px">&nbsp;
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</th>
+																</tr>
+															</tbody>
+														</table>
+													</th>
+													<th class="small-12 large-6 columns last" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0!important;padding-left:0;padding-right:0;text-align:left;width:300px" valign="top">
+														<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+																		<a href="#" target="_blank" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none">
+																			<img src="
+httpsbanner1-300x300.jpg" alt="banner image description" class="banner-image" style="-ms-interpolation-mode:bicubic;border:none;clear:both;display:block;max-width:100%;outline:0;text-decoration:none;width:100%">
+																		</a>
+																	</th>
+																</tr>
+															</tbody>
+														</table>
+													</th>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<!--//1-->
+			<!--//Botones/Pasos-->
+    <!--caja telefonos-->
+		<table align="center" class="wrapper contact float-center" style="Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%">
+			<tr style="padding:0;text-align:left;vertical-align:top">
+				<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+					<table align="center" class="container" style="Margin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:600px">
+						<tbody>
+							<tr style="padding:0;text-align:left;vertical-align:top">
+								<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+									<table class="row contact-location" style="background:#F4F4F4;border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%; margin: 0;">
+										<tbody>
+											<tr style="padding:0;text-align:left;vertical-align:top">
+												<th class="small-12 large-12 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0!important;padding-left: 45px;padding-right: 45px;text-align:left;width:195px;">
+													<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+														<tbody><tr style="padding:0;text-align:left;vertical-align:top">
+															<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+															<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																<tbody>
+																	<tr style="padding:0;text-align:left;vertical-align:top">
+																		<td height="48px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:14px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word; height: 48px">&nbsp;
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															 <p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:23px;font-weight:300;line-height:24px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:center; hyphens: none;">
+                                                                            		&iquest;Tienes dudas?
+																			</p>
+			<p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:23px;font-weight:300;line-height:24px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:center; hyphens: none;">
+						Ll&aacute;manos desde tu app L&iacute;nea BBVA
+																			</p>
+																			<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																				<tbody>
+																					<tr style="padding:0;text-align:left;vertical-align:top">
+																						<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:30px;font-weight:400;hyphens:auto;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="20px">
+																							&nbsp;
+																						</td>
+																					</tr>
+																				</tbody>
+																			</table>
+															 <p class="hero-body-text" style="Margin:0;Margin-bottom:0px;Margin-left:32px;Margin-right:32px;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:19px;margin:0;margin-bottom:0px;margin-left:32px;margin-right:32px;padding:0;text-align:center; hyphens: none;">
+                                                                            	          O al tel&eacute;fono de L&iacute;nea BBVA:
+																			</p>
+																			<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																				<tbody>
+																					<tr style="padding:0;text-align:left;vertical-align:top">
+																						<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:30px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word" height="30px">
+																							&nbsp;
+																						</td>
+																					</tr>
+																				</tbody>
+																			</table>
+																			<!--CTA-->
+																		<table class="row collapse" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+																			<tbody>
+																				<tr style="padding:0;text-align:left;vertical-align:top">
+																					<th class="banner-content small-12 large-2 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-right:0;padding-bottom: 10px;text-align:left;vertical-align:top!important;width:154px;" valign="top">
+																						<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																							<tbody>
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+																										
+																										<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																											<tbody><tr> 
+																												<td style=" text-align: center;">  <a href="tel:sFunNumeroLocal" target="_blank" style="color:#237aba; text-decoration: none; "> 
+																													<table cellspacing="0" cellpadding="0" style="display: inline-block;"> 
+																														<tbody>
+																															<tr> 
+																																<td align="left" bgcolor="#ffffff" style="border-radius: 1px;display: block;text-align: center;margin: 0 auto;padding: 23px 0px 23px 0px;font-size: 20px;font-weight:400;background-color: #fff;width: 235px;">  <a href="tel:sFunNumeroLocal" target="_blank" name="TrackedLink_SPCLICK_3" style="color:#237aba; text-decoration: none; font-weight: 700; ">sNumeroLocal</a><a href="tel:sFunNumeroLocal" target="_blank" name="TrackedLink_SPCLICK_3" style="color:#121212; text-decoration: none; font-size: 14px; "><br>Ciudad de M&eacute;xico</a>
+																																</td> 
+																															</tr> 
+																														</tbody>
+																													</table> </a> 
+																												</td> 
+																											</tr>
+																										</tbody></table>
+																									</th>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</th>
+																					<th class="banner-content small-12 large-2 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-left:0px;padding-bottom: 10px;text-align:left;vertical-align:top!important;width: 164px;" valign="top">
+																						<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																							<tbody>
+																								<tr style="padding:0;text-align:left;vertical-align:top">
+																									<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+																										
+																										<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																											<tbody><tr> 
+																												<td style="text-align: center;width:  100%;">  <a href="tel:sFunNumero800" target="_blank" name="TrackedLink_SPCLICK_3" style="color:#121212; text-decoration: none; "> 
+																													<table cellspacing="0" cellpadding="0" style="display: inline-block"> 
+																														<tbody>
+																															<tr> 
+																																<td align="left" bgcolor="#ffffff" style="border-radius: 1px;display: block;text-align: center;margin: 0 auto;padding: 23px 0px 23px;font-size: 20px;font-weight:400;background-color: #fff;width: 235px;">  <a href="tel:sFunNumero800" target="_blank" name="TrackedLink_SPCLICK_3" style="color:#237aba; text-decoration: none; font-weight: 700;">sFunApp</a><a href="tel:sFunNumero800" target="_blank" name="TrackedLink_SPCLICK_3" style="color:#121212; text-decoration: none; font-size: 14px; "><br>Lada sin costo</a>
+																																</td> 
+																															</tr> 
+																														</tbody>
+																													</table> </a> 
+																												</td> 
+																											</tr>
+																										</tbody></table>
+																									</th>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</th>
+																					
+																				</tr>
+																			</tbody>
+																		</table>
+																			<!--//CTA-->
+
+															<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																<tbody>
+																	<tr style="padding:0;text-align:left;vertical-align:top">
+																		<td height="48px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:14px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word; height: 38px">&nbsp;
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+														</th>
+													</tr>
+												</tbody>
+											</table>
+										</th>
+									</tr>
+								</tbody>
+							</table>	
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+</table>
+	<!--//caja telefonos-->
+
+	<!--Sociales-->
+		<table align="center" class="wrapper contact float-center" style="Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%">
+			<tr style="padding:0;text-align:left;vertical-align:top">
+				<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+					<table align="center" class="container" style="Margin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:600px">
+						<tbody>
+							<tr style="padding:0;text-align:left;vertical-align:top">
+								<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+
+								<!--CONTACTO-->	
+									<table class="row contact-location" style="background:#004481;border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%; margin: 0;">
+										<tbody>
+											<tr style="padding:0;text-align:left;vertical-align:top">
+												<th class="small-12 large-12 columns first" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0!important;padding-left:50px;padding-right:50px;text-align:left;width:195px">
+													<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+														<tr style="padding:0;text-align:left;vertical-align:top">
+															<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+															<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%" >
+																<tbody>
+																	<tr style="padding:0;text-align:left;vertical-align:top">
+																		<td height="14px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:14px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word; height: 19px" >&#xA0;
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																<tr>
+																	<td style="width: 20px; padding-right: 10px">
+																		<p class="contact-network-text" style="Margin:0;Margin-bottom:0!important;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0!important;padding:0;text-align:left;">	
+
+
+																		<a href="https://www.bancomer.com/serviciocliente/buscador-sucursales.jsp" target="_blank" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none"><img class="contact-network-icon" src="httpsplace_icon.png" alt="Encuentra una sucursal" hspace="6" style="-ms-interpolation-mode:bicubic;Margin:0 2px;border:none;clear:both;display:inline-block;margin:0 2px;max-width:100%;outline:0;text-decoration:none;width:20px; height: 20px">
+																		</a>
+																
+																		</p>
+																	</td>
+																	<td>
+																	<p style="text-align: left;Margin:0;Margin-bottom:0!important;Margin-left:0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica,Arial,sans-serif;font-size: 14px;line-height: 1.3;font-weight:400;margin-left:0;margin-right:0; hyphens: none;">
+																				<a href="https://www.bancomer.com/serviciocliente/buscador-sucursales.jsp" target="_blank" style="color:#ffffff;text-decoration: none;word-wrap: break-word;font-weight: 400;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; hyphens: none;">Encuentra una sucursal</a>
+																		</p>
+																		
+																	</td>
+																	<td>
+																	<p style="text-align: right;Margin:0;Margin-bottom:0!important;Margin-left:0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica,Arial,sans-serif;font-size: 14px;line-height: 1.3;font-weight:400;margin-left:0;margin-right:0;; hyphens: none;">
+																				<a href="tel:sFunNumero800" name="Anchor9" target="_blank" style="color:#ffffff;text-decoration: none;word-wrap: break-word;font-weight: 400;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; hyphens: none;">	&iquest;Necesitas ayuda?</a>
+																		</p>
+																		
+
+																	</td>
+																</tr>
+															</table>
+
+															<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																<tbody>
+																	<tr style="padding:0;text-align:left;vertical-align:top">
+																		<td height="14px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:14px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word; height: 19px" >&#xA0;
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+														</th>
+														</tr>
+													</table>
+												</th>
+									</tr>
+								</tbody>
+							</table>
+								<!--//Contacto-->
+
+								<!--Social Icon-->
+									<table class="row contact-network" style="background:#237aba
+									;border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+										<tbody>
+											<tr style="padding:0;text-align:left;vertical-align:top">
+												<th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:40px;padding-left:18px;padding-right:18px;padding-top:40px;text-align:left;width:582px">
+													<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+														<tr style="padding:0;text-align:left;vertical-align:top">
+															<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+																<p class="contact-network-text" style="Margin:0;Margin-bottom:0!important;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0!important;padding:0;text-align:center">S&iacute;guenos en:
+																</p>
+																<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+																	<tbody>
+																		<tr style="padding:0;text-align:left;vertical-align:top">
+																			<td height="20px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:400;hyphens:auto;line-height:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;
+																			</td>
+																		</tr>
+																	</tbody>
+																</table>
+																	<p class="contact-network-text" style="Margin:0;Margin-bottom:0!important;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:1px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0!important;padding:0;text-align:center">		<a href="sFacebookRedSocial" target="_blank" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none;padding-right: 6px"><img class="contact-network-icon" src="httpsfb_icon.png" alt="link to facebook" hspace="6" style="-ms-interpolation-mode:bicubic;Margin:0 2px;border:none;clear:both;display:inline-block;margin:0 2px;max-width:26px;outline:0;text-decoration:none;width:auto"> 
+																		</a>
+																		<a href="sTwitterRedSocial" target="_blank" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none;padding-left: 6px"><img class="contact-network-icon" src="httpstw_icon.png" alt="link to twitter" hspace="6" style="-ms-interpolation-mode:bicubic;Margin:0 2px;border:none;clear:both;display:inline-block;margin:0 2px;max-width:26px;outline:0;text-decoration:none;width:auto"> 
+																		</a>
+																	</p>
+																	
+															</th>
+															<th class="expander" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0">
+															</th>
+														</tr>
+													</table>
+												</th>
+											</tr>
+										</tbody>
+									</table>
+										<!--//Social Icon-->
+								
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+</table>
+	<!--//Sociales-->
+
+<!--Caja de Cierre-->
+<table align="center" class="wrapper footer float-center" style="Margin:0 auto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%">
+	<tr style="padding:0;text-align:left;vertical-align:top">
+		<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+			<table align="center" class="container" style="Margin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:600px">
+				<tbody>
+					<tr style="padding:0;text-align:left;vertical-align:top">
+						<td style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">
+							<table class="row footer-brand" style="background:#F4F4F4;border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+								<tbody>
+									<tr style="padding:0;text-align:left;vertical-align:top">
+										<th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0px;padding-left:18px;padding-right:18px;text-align:justify;width:582px">
+											<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+												<tr style="padding:0;text-align:left;vertical-align:top">
+													<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:justify;">
+														<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<td height="45px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:28px;font-weight:400;hyphens:auto;line-height:45px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+														<table class="wrapper footer-brand-logo" align="center" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:center;vertical-align:top;width:90%">
+															<tr style="padding:0;text-align:left;vertical-align:top">
+																<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:300;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:justify;vertical-align:top;word-wrap:break-word">
+				
+																	<p class="footer-brand-headline" style="Margin:0;Margin-bottom:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:300;line-height:18px;margin:0;margin-bottom:0;padding:0;text-align:center; hyphens: none;">Este correo no admite respuestas
+																</td>
+															</tr>
+														</table>
+															<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<td height="40px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:28px;font-weight:400;hyphens:auto;line-height:40px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+														<table class="wrapper footer-brand-logo" align="center" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:center;vertical-align:top;width:100%">
+															<tr style="padding:0;text-align:center;vertical-align:top">
+																<td class="wrapper-inner" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#F4F4F4;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:center;vertical-align:top;word-wrap:break-word">
+																	<p class="footer-brand-logo-text" style="Margin:0;Margin-bottom:0;color:#F4F4F4;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:700;line-height:1.3;margin:0;margin-bottom:0;padding:0;text-align:center"><img class="footer-brand-logo-img" src="httpsBBVA-Bancomer_navy.png" alt="BBVA logo blue" style="-ms-interpolation-mode:bicubic;clear:both;display:inline-block;max-width:250px;outline:0;text-decoration:none;width:100%; ">
+																	</p>
+																
+																</td>
+															</tr>
+														</table>
+														<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<td height="40px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:45px;font-weight:400;hyphens:auto;line-height:40px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+														<p class="footer-brand-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:300;line-height:13px;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:center; hyphens: none;">sDireccion
+														</p>
+														<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<td height="45px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;hyphens:auto;line-height:45px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</th>
+													<th class="expander" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0">
+													</th>
+												</tr>
+											</table>
+										</th>
+									</tr>
+								</tbody>
+							</table>
+							<table class="row footer-legal" style="border-collapse:collapse;border-spacing:0;display:table;padding:0;position:relative;text-align:left;vertical-align:top;width:100%">
+								<tbody>
+									<tr style="padding:0;text-align:left;vertical-align:top">
+										<th class="small-12 large-12 columns first last" style="Margin:0 auto;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:18px;padding-left:18px;padding-right:18px;text-align:left;width:582px">
+											<table style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+												<tr style="padding:0;text-align:left;vertical-align:top">
+													<th style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left">
+														<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+															<tbody>
+																<tr style="padding:0;text-align:left;vertical-align:top">
+																	<td height="45px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:45px;font-weight:400;hyphens:auto;line-height:45px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+														<!--Legales-->
+														
+														<p class="footer-legal-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:justify; hyphens: none;">
+													<strong> IMPORTANTE:</strong> Los documentos y archivos que se acompa&ntilde;an a este mail, contienen informaci&oacute;n confidencial legalmente secreta. Esta informaci&oacute;n puede ser usada &uacute;nicamente por el destinatario cuyo nombre aparece inserto en esta transmisi&oacute;n. Si usted ha recibido este correo por error, borre el archivo y sus anexos.
+															<br><br>
+															Se hace de su conocimiento por medio de esta nota, que queda estrictamente prohibida cualquier divulgaci&oacute;n, copia, distribuci&oacute;n o toma de cualquier acci&oacute;n derivada de la informaci&oacute;n confiada en esta transmisi&oacute;n. El incumplimiento de esto genera responsabilidad legal.
+
+														<br><br>
+														En cumplimiento de la Ley Federal de Protecci&oacute;n de Datos Personales en Posesi&oacute;n de los Particulares, informamos que los datos personales que se tratan en este mensaje son para cumplir con las finalidades del Aviso de Privacidad Integral de BBVA M&eacute;xico, S.A., puesto a su disposici&oacute;n en <a href="https://www.bancomer.com/index.jsp" target="_blank" class="link apple" style="Margin:0;color:#237aba;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none"><span class="apple-data-link" style="color:inherit!important;text-decoration:none!important"><strong>www.bbva.com</strong></span></a> o en cualquier sucursal, con domicilio en Paseo de la Reforma 510, colonia Ju&aacute;rez, delegaci&oacute;n Cuauht&eacute;moc, 
+														<!--Legales-->
+<!--/////////////////////////////////////////////// NO BORRAR CODIGO TEMPLATE ///////////////////////////////////////-->
+
+												<!--Código template-->
+														<p class="footer-legal-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:right;">
+															<br><br>
+															T03AL
+														</p>
+                                                        <p class="footer-legal-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:9px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:right;">
+															<br>
+															KVZE0291
+														</p>
+												<!--//Código template-->
+
+				<!--/////////////////////////////////////////////// NO BORRAR CODIGO TEMPLATE ///////////////////////////////////////-->
+
+														<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
+														<tbody>
+															<tr style="padding:0;text-align:left;vertical-align:top">
+																<td height="25px" style="-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:25px;font-weight:400;hyphens:auto;line-height:25px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;</td>
+															</tr>
+														</tbody>
+													</table>
+													</th>
+													<th class="expander" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0">
+													</th>
+												</tr>
+											</table>
+										</th>
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</td>
+	</tr>
+</table>
+</center>
+</td>
+</tr>
+</table>
+<!-- prevent Gmail on iOS font size manipulation -->
+<div style="display:none;white-space:nowrap;font:15px courier;line-height:0">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</body>
+</html>

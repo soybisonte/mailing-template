@@ -1,0 +1,98 @@
+<!-- PARAMETRO DE ENVIO POR TECNICO -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Documento sin t&iacute;tulo</title>
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+<style type="text/css">
+body {
+        background-color : White;
+        color:#000000;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size :14px;
+}
+.tablaSit {
+        font-size :14px;
+        width: 100%
+}
+    .Estilo8 {color: #000000}
+.Estilo10 {
+	font-size: 16px;
+	font-weight: bold;
+}
+</style>
+
+</head>
+
+<body>
+<p class="Estilo8">&nbsp; </p>
+
+<table width="61%" align="center">
+<tr >
+  <td width="55%"><img src="http://www.bancomer.com.mx/comun/img/comun_logo.gif" ></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+  <td><div align="right"></div></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+  <td><b><font color="#30c0f3" size="3">sNOTIFICACION  </font></b></td>
+</tr> 
+<tr>
+  <td>&nbsp;</td>
+</tr>
+<tr><td><strong>Notificacion Bancomer net cash</strong></td></tr>
+<tr>
+  <td>&nbsp;</td>
+</tr>
+</table>
+<table width="699" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-left:30">
+  <tr><td width="31%">Contrato:</td><td>&nbsp;</td><td width="66%">sCONTRATO</td></tr>
+<tr><td width="31%">Tipo de servicio:</td><td>&nbsp;</td><td width="66%">sSERVICIO</td></tr>
+<tr><td width="31%">N&uacute;mero de registros:</td><td>&nbsp;</td><td width="66%">sREGISTROS</td></tr>
+<tr><td width="31%">Cifra de control:</td><td>&nbsp;</td><td width="66%">$sCIFRA-CONTROL</td></tr>
+<tr><td width="31%">Importe por divisas	de cargo:</td><td>&nbsp;</td><td width="66%"></td></tr>
+<tr><td width="31%" align="right">s1-DIVISA:&nbsp;</td><td width="3%">&nbsp;</td>
+  <td width="66%"> <font color="#006EC1">$s1-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s2-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"> <font color="#006EC1">$s2-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s3-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"> <font color="#006EC1">$s3-IMPORTE</font></td></tr>
+<tr><td width="31%">Importe por divisas de abono: </td><td colspan="2">(pagos internacionales)</td>
+<tr><td width="31%" align="right">s4-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s4-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s5-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s5-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s6-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s6-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s7-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s7-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s8-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s8-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s9-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s9-IMPORTE</font></td></tr>
+<tr><td width="31%" align="right">s10-DIVISA:&nbsp;</td><td>&nbsp;</td><td width="66%"><font color="#006EC1">$s10-IMPORTE</font></td></tr>
+<tr>
+  <td>Fecha de la operaci&oacute;n:</td>
+  <td>&nbsp;</td>
+  <td>sFECHA</td>
+</tr>
+<tr>
+  <td>Hora estimada de aplicaci&oacute;n (programado): </td>
+  <td>&nbsp;</td>
+  <td>06:30:00 hrs.</td>
+</tr>
+<tr>
+  <td>Hora de la operaci&oacute;n:</td>
+  <td>&nbsp;</td>
+  <td>sHORAGR hrs.</td>
+</tr>
+<tr><td width="31%">Folio lote:</td><td>&nbsp;</td><td width="66%">sFOLIO</td></tr>
+<tr><td width="31%">Identificador usuario:</td><td>&nbsp;</td><td width="66%">sUSUARIO</td>
+</tr>
+</table>
+<table width="61%" align="center">
+  <tr><td>&nbsp;</td> </tr>
+  <tr bgcolor="#f0f9fe">
+ <td align="center"><br>
+ Este correo electr&oacute;nico constituye una notificaci&oacute;n de los t&eacute;rminos en que se realiz&oacute;
+	la operaci&oacute;n, el &uacute;nico comprobante oficial es el estado de cuenta que emite BBVA Bancomer.</td></tr>
+    <tr><td>&nbsp;</td></tr>
+</table>
+</body>
+</html>
