@@ -143,7 +143,7 @@
                 </table>
             <!--//header-->
             <!--Modulo 1-->
-                <table bgcolor="􀀆􀀓􀀗􀀖􀀕􀀙􀀖#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px" >
+                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px" >
                     <tr>
                         <td bgcolor="#ffffff">
                             <table  border="0" cellpadding="0" cellspacing="0" >
@@ -250,7 +250,7 @@
                 </table>
             <!--//Detalles de opeeracion-->
             <!--Modulo 2-->
-                <table bgcolor="􀀆􀀓􀀗􀀖􀀕􀀙􀀖#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px;width: 100%;margin-bottom: 28px;" >
+                <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="margin-bottom: 0px;width: 100%;margin-bottom: 28px;" >
                     <tr>
                         <td bgcolor="#ffffff">
                             <table  align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%;" >
@@ -296,7 +296,7 @@
                                 <tr bgcolor="#f4f4f4" style="width: 100%" align="center">
                                     <td bgcolor="#ffffff" style="display: inline-block;padding: 0; width:235px;margin-right: 20px;margin-left: 20px;margin-bottom: 0px;">
                                         <a href="tel:555624-1199" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
-                                        55 5624 1199
+                                            sNumDomiciliacion
                                         </p>
                                         </a>
                                     </td>
