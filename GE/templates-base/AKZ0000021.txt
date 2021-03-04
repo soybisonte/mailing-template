@@ -165,7 +165,7 @@
                                                                                                     <tr>
                                                                                                         <td  style="padding: 0; margin-bottom: 16px ">
                                                                                                             <p class="fuente font1 margin" style="text-align: left; margin-top: 0px; margin-bottom: 35px">
-                                                                                                                    Te informamos, que ha sido suspendida la recepci�n de dep�sitos en tu <b>cuenta con terminaci&oacute;n sTERMINACION</b> en cumplimiento al art&iacute;culo 115 de la Ley de Instituciones de Cr&eacute;dito. 
+                                                                                                                    Te informamos, que ha sido suspendida la recepci&oacute;n de dep&oacute;sitos en tu <b>cuenta con terminaci&oacute;n sTERMINACION</b> en cumplimiento al art&iacute;culo 115 de la Ley de Instituciones de Cr&eacute;dito. 
                                                                                                                     
                                                                                                                     
                                                                                                             </p>
