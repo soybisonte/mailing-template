@@ -108,7 +108,7 @@ s60CONVENIO
 
 
 <tr><td colspan="7">&nbsp;</td> </tr>
-<tr bgcolor="#30c0f3"><td colspan="7"><p align="center">Para m&aacute;s informaci&oacute;n comun&iacute;cate al Centro de Atenci&oacute;n Supply Chain Finance al 55 1054 7086
+<tr bgcolor="#30c0f3"><td colspan="7"><p align="center">Para m&aacute;s informaci&oacute;n comun&iacute;cate al Centro de Atenci&oacute;n Supply Chain Finance al sNumCrediProveedores
 de lunes a viernes en horario de 8:00 a 18:00 hrs.
 </p>    
 </tr>
