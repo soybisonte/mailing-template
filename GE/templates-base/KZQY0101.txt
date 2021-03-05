@@ -235,8 +235,8 @@
                             <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 15px;width: 100%">
                                 <tr bgcolor="#f4f4f4" style="width: 100%" align="center">
                                     <td bgcolor="#ffffff" style="display: inline-block;padding: 0; width:235px;margin-right: 20px;margin-left: 20px;margin-bottom: 0px;">
-                                       <a href="tel:555624-1199" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
-                                        55 5624 1199<span style="color:#121212;font-weight: 300; text-align: center;padding-top: 10px; margin: 0;font-size: 15px;text-decoration: none!important;"><br>Ciudad de M&eacute;xico</span>
+                                       <a href="tel:sNumHrefDomiciliacion" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
+                                        sNumDomiciliacion<span style="color:#121212;font-weight: 300; text-align: center;padding-top: 10px; margin: 0;font-size: 15px;text-decoration: none!important;"><br>Ciudad de M&eacute;xico</span>
                                         </p>
                                         </a>
                                     </td>
