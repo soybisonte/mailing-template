@@ -430,8 +430,8 @@
                               <tr>
                                   <td  style="padding: 0 ">
                                       <p class="fuente legal margin5" style="margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 0px;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;">
-Producto operado por BBVA Seguros M&eacute;xico S.A. de C.V., Grupo Financiero BBVA M&eacute;xico. Consulta t&eacute;rminos y condiciones en <a href="https://www.bbvaseguros.mx/" style="font-weight:bold; text-decoration: none; color: #1973B8" target="_blank">www.bbvaseguros.mx</a> o cont&aacute;ctanos al <a href="tel:551102-0000" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;">55 1102 0000</a> Ciudad de M&eacute;xico,
-<a href="tel:55-1102-0000" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;">55 1102 0000</a> para el interior de la Rep&uacute;blica y correo electr&oacute;nico <a href="mailto:sac.seguro.mx@bbva.com" style="font-weight:bold; text-decoration: none; color: #1973B8" target="_blank">sac.seguro.mx@bbva.com</a>.
+Producto operado por BBVA Seguros M&eacute;xico S.A. de C.V., Grupo Financiero BBVA M&eacute;xico. Consulta t&eacute;rminos y condiciones en <a href="https://www.bbvaseguros.mx/" style="font-weight:bold; text-decoration: none; color: #1973B8" target="_blank">www.bbvaseguros.mx</a> o cont&aacute;ctanos al <a href="tel:sHrefNumeroSeguros" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;">sNumeroSeguros</a> Ciudad de M&eacute;xico,
+<a href="tel:sHrefNumeroSeguros" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;">sNumeroSeguros</a> para el interior de la Rep&uacute;blica y correo electr&oacute;nico <a href="mailto:sac.seguro.mx@bbva.com" style="font-weight:bold; text-decoration: none; color: #1973B8" target="_blank">sac.seguro.mx@bbva.com</a>.
 <br><br>
 Este correo electr&oacute;nico adem&aacute;s constituye una notificaci&oacute;n de la operaci&oacute;n realizada.</p>
 
