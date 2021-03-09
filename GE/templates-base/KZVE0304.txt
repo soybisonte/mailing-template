@@ -217,7 +217,7 @@
                                     </td>
                                     <td class="contacto2"  style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
                                         <a href="tel:sFunNumero800" target="_blank" style="text-decoration: none">
-                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">55 4160 7179</p>
+                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">sAutoBBVA</p>
                                         </a>
                                         
                                     </td>
