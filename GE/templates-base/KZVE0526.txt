@@ -258,8 +258,8 @@
                         <p class="fuente detalleText edicion" style="font-size: 16px;line-height: 18px; color:#121212; font-weight: 300;margin: 0;vertical-align: top;">sFOLIO</p>
                     </td>
                     <td class="display" style="width: 249px;vertical-align: top;">
-                        <p class="fuente valorTitle edicion" style="font-size: 14px; color:#666; font-weight: 300; margin: 0px;padding-top: 15px;vertical-align: top;">&Uacute;ltima etapa:</p>
-                        <p class="fuente detalleText edicion" style="font-size: 16px; color:#121212; font-weight: 300;margin: 0px;vertical-align: top;">sULTIMAETAPA</p>
+                        <p class="fuente valorTitle edicion" style="font-size: 14px; color:#666; font-weight: 300; margin: 0px;padding-top: 15px;vertical-align: top;">Divisi&oacute;n:</p>
+                        <p class="fuente detalleText edicion" style="font-size: 16px; color:#121212; font-weight: 300;margin: 0px;vertical-align: top;">sDIVISION</p>
                     </td>
                 </tr>
             </tbody></table>
