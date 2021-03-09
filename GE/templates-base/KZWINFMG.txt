@@ -196,7 +196,7 @@
           <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td align="left" class="fuente font2" style="color:#666666;">
-                 Si requieres m&aacute;s informaci&oacute;n comun&iacute;cate a L&iacute;nea BBVA al 800-2262663 Larga distancia sin costo o al 5226-2663 desde la Cd. de M&eacute;xico.<br><br>Este correo electr&oacute;nico constituye uan notificaci&oacute;n de los t&eacute;rminos en que se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobate oficial es el estado de cuanta que emite BBVA M&eacute;xico.
+                 Si requieres m&aacute;s informaci&oacute;n comun&iacute;cate a L&iacute;nea BBVA al sNumeroBBVA Larga distancia sin costo o al sNumeroLocal desde la Cd. de M&eacute;xico.<br><br>Este correo electr&oacute;nico constituye uan notificaci&oacute;n de los t&eacute;rminos en que se realiz&oacute; la operaci&oacute;n, el &uacute;nico comprobate oficial es el estado de cuanta que emite BBVA M&eacute;xico.
               </td>
             </tr>
             <tr>
