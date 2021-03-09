@@ -188,7 +188,7 @@
                      <a href="tel:sFunNumero800" target="_blank" style="color: #fff !important; text-decoration: none!important;">
                         &iquest;No reconoces esta operaci&oacute;n? Llama a L&iacute;nea BBVA
                      </a>
-                    <a href="tel:800 112 1113"  target="_blank" style="color: #fff !important; text-decoration: none;word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; hyphens: none;padding-left:10px;display: inline-block;">01-800-112-1113</a>
+                    <a href="tel:s2HrefNumeroBBVA"  target="_blank" style="color: #fff !important; text-decoration: none;word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; hyphens: none;padding-left:10px;display: inline-block;">s2NumeroBBVA</a>
                 </td>
             </tr>
           </table>
