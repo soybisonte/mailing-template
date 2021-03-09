@@ -310,9 +310,9 @@
 																	<tr>
 																		<td style="padding: 0; margin-bottom: 16px ">
 																			<p class="fuente font1 margin edicionArea" style="text-align: left; margin-top: 0px; margin-bottom: 35px;margin-left: 50px; margin-right: 50px;">
-																				<b>�Comienza a hacer compras con tu tarjeta digital!&nbsp;</b>
+																				<b>¡Comienza a hacer compras con tu tarjeta digital!&nbsp;</b>
 																				<br>Tu tarjeta de cr&eacute;dito ahora incluye una versi&oacute;n digital que puedes utilizar a trav&eacute;s de tu aplicaci&oacute;n BBVA Wallet para que hagas compras seguras por internet.
-																				<br>�Empieza a usarla desde hoy! Aprovecha los <b>12 meses sin intereses</b> en tus primeras compras y disposiciones de efectivo durante los <b>primeros 30 d&iacute;as&nbsp;naturales&nbsp;posteriores a la contrataci&oacute;n</b>. Si a&uacute;n no tienes Wallet desc&aacute;rgala aqu&iacute;&nbsp;
+																				<br>¡Empieza a usarla desde hoy! Aprovecha los <b>12 meses sin intereses</b> en tus primeras compras y disposiciones de efectivo durante los <b>primeros 30 d&iacute;as&nbsp;naturales&nbsp;posteriores a la contrataci&oacute;n</b>. Si a&uacute;n no tienes Wallet desc&aacute;rgala aqu&iacute;&nbsp;
 																			</div>
 																			</div>
 																			<p></p>
