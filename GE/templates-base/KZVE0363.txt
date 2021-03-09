@@ -480,8 +480,7 @@
 																</tr>
 															</tbody>
 														</table>
-														<p class="footer-brand-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:300;line-height:13px;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:center; hyphens: none;"><strong>BBVA M&eacute;xico, S.A., Instituci&oacute;n de Banca M&uacute;ltiple, Grupo Financiero BBVA M&eacute;xico.</strong><br/>
-                                                        Avenida Paseo de la Reforma 510, colonia Ju&aacute;rez, c&oacute;digo postal 06600, delegaci&oacute;n Cuauht&eacute;moc, Ciudad de M&eacute;xico.
+														<p class="footer-brand-text" style="Margin:0;Margin-bottom:0;Margin-left:32px;Margin-right:32px;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:300;line-height:13px;margin:0;margin-bottom:0;margin-left:32px;margin-right:32px;padding:0;text-align:center; hyphens: none;">sDireccion
 														</p>
 														<table class="spacer" style="border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%">
 															<tbody>
