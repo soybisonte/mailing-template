@@ -528,8 +528,8 @@
             <table align="center" border="0" cellpadding="0" cellspacing="0" style="padding: 24px 30px 24px 30px;width: 100%;text-align: center" bgcolor="#ffffff">
                 <tbody><tr>
                     <td class="contacto2" style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
-                        <a href="https://bbva.info/appbbva2020mx " target="_blank" style="text-decoration: none" class="Edit-link">
-                            <p class="fuente contacto contacto3 edicion" style="color:#1973b8; text-align: left;margin: 0;">Usa la app BBVA</p>
+                        <a href="sFunApp" target="_blank" style="text-decoration: none" class="Edit-link">
+                            <p class="fuente contacto contacto3 edicion" style="color:#1973b8; text-align: left;margin: 0;">Usa la app sApp</p>
                         </a>
                     </td>
                     <td class="contacto2" style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
@@ -625,12 +625,7 @@
                                                                     <tr>
                                                                         <td align="center" class="edicionArea">
                                                                             <p class="fuente font1 margin4 small" style="text-align:center; margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 40px;font-weight: 300;color:#121212!important;font-size: 11px; line-height: 14px ;text-decoration: none!important; ">
-                                                                                BBVA Bancomer, S.A., Instituci&oacute;n de
-                                                                                Banca M&uacute;ltiple, Grupo Financiero BBVA
-                                                                                Bancomer. Avenida Paseo de la Reforma
-                                                                                510, colonia Ju&aacute;rez, c&oacute;digo postal
-                                                                                06600, alcald&iacute;a Cuauht&eacute;moc, Ciudad de
-                                                                                M&eacute;xico.
+                                                                                sDireccion
                                                                             </p>
                                                                         </td>
                                                                     </tr>
