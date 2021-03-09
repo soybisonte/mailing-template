@@ -494,11 +494,11 @@
                                                 <td class="contacto2"
                                                     style="display: inline-block;padding: 0; width:32%;"
                                                     bgcolor="#ffffff">
-                                                    <a href="tel:555621-5300" target="_blank"
+                                                    <a href="tel:sNumeroHrefComercioExt" target="_blank"
                                                         style="text-decoration: none">
                                                         <p class="fuente contacto contacto3"
                                                             style="color:#1973b8; text-align: center;margin: 0;">
-                                                            55 5621 5300</p>
+                                                            sNumeroComercioExt</p>
                                                     </a>
                                                 </td>
                                                 <td class="contacto2"
