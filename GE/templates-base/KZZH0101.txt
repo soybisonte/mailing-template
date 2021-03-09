@@ -523,8 +523,8 @@
 
                                                 </td>
                                                 <td class="contacto2" style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
-                                                    <a href="tel:555219-8986" target="_blank" style="text-decoration: none">
-                                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">55 5219 8986</p>
+                                                    <a href="tel:sHrefCreditoAuto" target="_blank" style="text-decoration: none">
+                                                        <p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">sNumeroCreditoAuto</p>
                                                     </a>
 
                                                 </td>
