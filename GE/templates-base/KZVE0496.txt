@@ -412,7 +412,7 @@
                             </td>
                             <td bgcolor="#ffffff" style="display: inline-block;padding: 0; width:235px;margin-left: 20px;margin-right: 20px;margin-bottom: 10px;">
                                 <a href="tel:sFunNumero800" style="text-decoration: none!important;">
-                                    <p class="fuente" style="color:#1973b8;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;"> <span class="edicion">sFunApp</span> <span class="edicion" style="color:#121212;font-weight: 300; text-align: center;padding-top: 10px; margin: 0;font-size: 15px;text-decoration: none!important;"><br>Lada sin costo</span> </p>
+                                    <p class="fuente" style="color:#1973b8;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;"> <span class="edicion">sNumero800</span> <span class="edicion" style="color:#121212;font-weight: 300; text-align: center;padding-top: 10px; margin: 0;font-size: 15px;text-decoration: none!important;"><br>Lada sin costo</span> </p>
                                 </a>
 
 
