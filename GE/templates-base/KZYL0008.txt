@@ -97,7 +97,7 @@ td {
 		  <td align="left" class="Estilo10"><strong>sCMTA-KZCUENTA</strong></td>
 		</tr>
 		<tr >  
-		  <td height="20" align="right" class="Estilo9">Compa�&iacute;a celular:</td>
+		  <td height="20" align="right" class="Estilo9">Compa&ntilde;&iacute;a celular:</td>
 		  <td>&nbsp;</td>
 		  <td align="left" class="Estilo10"><strong>sCMTA-KZCELULA</strong></td>
 		</tr>
