@@ -350,7 +350,7 @@
                                                         <a href="sFunApp" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: left;margin: 0;" >Use la app sApp</p></a>
                                                     </td>
                                                     <td class="contacto2"  style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
-                                                        <a href="tel:800-112-1113" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">800 112 1113</p></a>
+                                                        <a href="tel:s2HrefNumeroBBVA" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">s2NumeroBBVA</p></a>
                                                     </td>
                                                     <td class="contacto2" style="display: inline-block;padding: 0; width: 32%;" bgcolor="#ffffff">
                                                         <a href="https://portal.bbva.mx/aplicativos/buscador-sucursales/index.jsp" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: right;margin: 0;" >Busque una sucursal</p></a>
