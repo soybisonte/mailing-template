@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Mask Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.7692308,29.5384615 C6.61240985,29.5384615 0,22.9260517 0,14.7692308 C0,6.61240985 6.61240985,0 14.7692308,0 C22.9260517,0 29.5384615,6.61240985 29.5384615,14.7692308 C29.5384615,22.9260517 22.9260517,29.5384615 14.7692308,29.5384615 Z M13.5384615,12.3076923 L13.5384615,20.9230769 L16,23.3846154 L16,12.3076923 L13.5384615,12.3076923 Z M14.7692308,9.84615385 C15.7888334,9.84615385 16.6153846,9.01960262 16.6153846,8 C16.6153846,6.98039738 15.7888334,6.15384615 14.7692308,6.15384615 C13.7496282,6.15384615 12.9230769,6.98039738 12.9230769,8 C12.9230769,9.01960262 13.7496282,9.84615385 14.7692308,9.84615385 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask-Copy" fill="#196BA9" xlink:href="#path-1"></use>
+    </g>
+</svg>
