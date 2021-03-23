@@ -171,7 +171,7 @@
 																			</tr>
 																		</tbody>
 																	</table>
-																		<p class="header-preview-text" style="Margin:0;Margin-bottom:0;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0;padding:0;text-align:center">Notificaci&oacute;n BBVA 
+																		<p class="header-preview-text" style="Margin:0;Margin-bottom:0;color:#666;font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:300;line-height:1.3;margin:0;margin-bottom:0;padding:0;text-align:center">s1PreHeader
 																		</p>
 																</th>
 																	<th class="expander" style="Margin:0;color:#121212;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;width:0">
