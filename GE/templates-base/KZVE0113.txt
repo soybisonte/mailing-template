@@ -323,7 +323,7 @@ s5COBER
                         <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 100%">
                             <tr bgcolor="#f4f4f4" style="width: 100%" align="center">
                                 <td bgcolor="#ffffff" style="display: inline-block;padding: 0; width:235px;margin-right: 20px;margin-left: 20px;margin-bottom: 0px;">
-                                   <a href="tel:551102-0000" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
+                                   <a href="tel:5511020000" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
                                      sNumeroSeguros
 
 
@@ -437,7 +437,7 @@ s5COBER
                                   <tr>
                                       <td  style="padding: 0 ">
                                           <p class="fuente legal margin5" style="margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 0px;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;">Aplican restricciones y exclusiones de acuerdo con las Condiciones Generales de los productos que son registradas ante la Comisi&oacute;n Nacional de Seguros y Fianzas, las cuales pueden ser consultados en
-                                            <a href="https://www.bbvaseguros.mx/" style="font-weight:bold; text-decoration: none; color: #1973B8" target="_blank">www.bbvaseguros.mx</a> Centro de Servicio a Clientes: lunes a viernes de 8:30 a 19:00 hrs. En Ciudad de M&eacute;xico y Zona Metropolitana <a href="tel:551102-0000" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;"> 1102 0000</a>. Interior de la Rep&uacute;blica
+                                            <a href="https://www.bbvaseguros.mx/" style="font-weight:bold; text-decoration: none; color: #1973B8" target="_blank">www.bbvaseguros.mx</a> Centro de Servicio a Clientes: lunes a viernes de 8:30 a 19:00 hrs. En Ciudad de M&eacute;xico y Zona Metropolitana <a href="tel:5511020000" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;"> 1102 0000</a>. Interior de la Rep&uacute;blica
                                             <a href="tel:sHrefNumero800Seguros" target="_blank" style="font-weight:bold; text-decoration:none; color:#1973B8;">sNumero800Seguros</a>.
 <br><br>
 Si requieres expresarnos algo sobre la actuaci&oacute;n de nuestros funcionarios o alguna inconformidad sobre los productos y servicios que ofrece la instituci&oacute;n, por favor utiliza las siguientes opciones: v&iacute;a correo electr&oacute;nico
