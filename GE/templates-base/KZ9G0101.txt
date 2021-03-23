@@ -407,7 +407,7 @@
                                     
                                 </td>
                                 <td class="contacto2"  style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
-                                    <a href="tel:800-112-1113" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">800 112 1113</p></a>
+                                    <a href="tel:800 112 1113" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">800 112 1113</p></a>
                                     
                                 </td>
                                 
