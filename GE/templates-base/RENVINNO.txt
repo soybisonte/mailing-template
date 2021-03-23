@@ -533,7 +533,7 @@
                                                                 <p class="fuente legal margin3 edicionArea" style="color:#666;font-size: 11px; line-height: 14px ;font-weight: 400; margin:0;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 32px;">
                                                                     <br>
                                                                     Puedes consultar el Aviso de Privacidad en cualquier
-                                                                    sucursal BBVA o en <a href="https://www.bbva.mx/personas/aviso-de-privacidad.html" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">sPagina</a>
+                                                                    sucursal BBVA o en <a href="sUrlPagina" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">sPagina</a>
     
     
                                                                     .
