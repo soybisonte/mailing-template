@@ -184,7 +184,7 @@ Contrato:
 <td align="center">
 
 
-      <p>Para la resoluci&oacute;n de dudas, consultas, soporte de las operaciones que realice y recepci&oacute;n de sugerencias, ponemos a sus ordenes nuestro &quot;Centro de Servicio a Clientes&quot; al tel&eacute;fono s1NumeroNetCash en la Ciudad de M&eacute;xico y al 800-11-22787 del resto del pa&iacute;s, donde con gusto lo atenderemos.</p>
+      <p>Para la resoluci&oacute;n de dudas, consultas, soporte de las operaciones que realice y recepci&oacute;n de sugerencias, ponemos a sus ordenes nuestro &quot;Centro de Servicio a Clientes&quot; al tel&eacute;fono s1NumeroNetCash en la Ciudad de M&eacute;xico y al 800 112 2787 del resto del pa&iacute;s, donde con gusto lo atenderemos.</p>
 
 
 </td>
