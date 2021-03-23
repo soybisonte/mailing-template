@@ -426,13 +426,13 @@
                                                                 Para expresar alguna inconformidad o para mayor informaci&oacute;n sobre el producto:
                                                                 <br><br>
 
-                                                                 Unidad Especial de Atenci&oacute;n de Usuarios (UNE). V&iacute;a correo electr&oacute;nico a <a href="mailto:uneseguros2.mx@bbva.com" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">uneseguros2.mx@bbva.com</a> o en atenci&oacute;n telef&oacute;nica al <a href="tel:559171-4000" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 9171 4000</a> ext. 46115 desde toda la Rep&uacute;blica Mexicana. Horario de atenci&oacute;n de lunes a viernes de 9:00 a 14:00 h (hora del Centro de M&eacute;xico).
+                                                                 Unidad Especial de Atenci&oacute;n de Usuarios (UNE). V&iacute;a correo electr&oacute;nico a <a href="mailto:uneseguros2.mx@bbva.com" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">uneseguros2.mx@bbva.com</a> o en atenci&oacute;n telef&oacute;nica al <a href="tel:5591714000" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 9171 4000</a> ext. 46115 desde toda la Rep&uacute;blica Mexicana. Horario de atenci&oacute;n de lunes a viernes de 9:00 a 14:00 h (hora del Centro de M&eacute;xico).
                                                                 <br><br>
                                                                 CONDUSEF. AV. Insurgentes Sur 762, Col. del Valle, Benito
                                                                 Ju&aacute;rez, C.P. 03100, Ciudad de M&eacute;xico. Correo electr&oacute;nico:
                                                                 <a href="mailto:asesoria@condusef.gob.mx" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">asesoria@condusef.gob.mx</a>. Tel.
-                                                                <a href="tel:800-999-8080" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">800 999 8080</a> y 
-                                                                <a href="tel:555340-0999" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5340 0999</a> o consulta la p&aacute;gina web  
+                                                                <a href="tel:8009998080" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">800 999 8080</a> y 
+                                                                <a href="tel:5553400999" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5340 0999</a> o consulta la p&aacute;gina web  
                                                                 <a href="https://www.gob.mx/condusef"
                                                                     style="font-weight: bold; text-decoration: none; color:#1973B8;"
                                                                     target="_blank">www.gob.mx/condusef</a>.

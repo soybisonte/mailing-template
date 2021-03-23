@@ -232,7 +232,7 @@
                         <table cellspacing="0" cellpadding="0" style="display: inline-block; margin-bottom: 40px">
                             <tbody>
                                 <tr>
-                                    <td align="left" bgcolor="#1973B8"> <a href="tel:55-1054-8020" class="linkButton" target="_blank" style="text-decoration: none">
+                                    <td align="left" bgcolor="#1973B8"> <a href="tel:5510548020" class="linkButton" target="_blank" style="text-decoration: none">
                                         <p class="fuente font2 edicion textCta" style="margin: 0; padding:12px 40px; font-weight: 400; color:#ffffff;">s3NumeroBBVA</p>
                                     </a>
                                 </td>

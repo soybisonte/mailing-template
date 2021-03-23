@@ -367,7 +367,7 @@
                             <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 0px;width: 100%">
                                 <tr bgcolor="#f4f4f4" style="width: 100%" align="center">
                                     <td bgcolor="#ffffff" style="display: inline-block;padding: 0; width:235px;margin-right: 20px;margin-left: 20px;margin-bottom: 0px;">
-                                       <a href="tel:551102-0000" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
+                                       <a href="tel:5511020000" style="text-decoration: none!important;"><p class="fuente" style="color:#1973b8!important;font-weight: 700; text-align: center;padding-top: 23px; padding-bottom: 23px; margin: 0;font-size: 15px;text-decoration: none!important;">
                                             sNumeroSeguros
                                         </p>
                                         </a>
@@ -483,11 +483,11 @@
                                             Aplican restricciones y exclusiones de acuerdo a las condiciones generales de los productos que son registrados ante la Comisi&oacute;n Nacional de Seguros y Finanzas los cuales pueden ser consultados en 
                                             <a href="https://www.bbva.mx/content/dam/public-web/bbva/documents/personas/seguros/vida/gastos-funerarios/CG-Seguro-Gastos-Funerarios-TMK-individual-CNSF-S0079-0024-2013.pdf" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">Seguro de gastos funerarios</a> 
                                             o en el Centro de servicio de atenci&oacute;n a clientes de lunes a viernes de 8:30 a 19:00hrs. 
-                                            En Ciudad de M&eacute;xico y Zona Metropolitana <a href="tel:551102-0000" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 1102 0000</a>. Interior de la Rep&uacute;blica <a href="tel:55-1102-0000" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 1102 0000</a>.
+                                            En Ciudad de M&eacute;xico y Zona Metropolitana <a href="tel:5511020000" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 1102 0000</a>. Interior de la Rep&uacute;blica <a href="tel:5511020000" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 1102 0000</a>.
                                             <br><br>
                                             Para expresar alguna inconformidad o para mayor informaci&oacute;n sobre el producto de seguros, escr&iacute;benos al correo 
                                             electr&oacute;nico a <a href="mailto:uneseguros2.mx@bbva.com" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">uneseguros2.mx@bbva.com</a>
-                                            o en llama al <a href="tel:553547-3921" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 3547 3921</a> sin costo de larga distancia. 
+                                            o en llama al <a href="tel:5535473921" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 3547 3921</a> sin costo de larga distancia. 
                                             UNE BBVA Seguros con domicilio en Mariano Escobedo 303 PB., 
                                             (entre laguna de Mayran y Lago Alberto) colonia An&aacute;huac, 
                                             alcald&iacute;a Miguel Hidalgo, c&oacute;digo postal 11320, Ciudad de M&eacute;xico y 
@@ -496,7 +496,7 @@
                                             En caso de dudas, quejas, reclamaciones o consultar informaci&oacute;n sobre las comisiones para fines 
                                             informativos y de comparaci&oacute;n puedes acudir a la CONDUSEF, con domicilio en Insurgentes Sur 762, 
                                             colonia del Valle, alcald&iacute;a Benito Ju&aacute;rez, C.P. 03100, Ciudad de M&eacute;xico, correo 
-                                            electr&oacute;nico:<a href="mailto:asesoria@condusef.gob.mx" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">asesoria@condusef.gob.mx</a>, tel&eacute;fono <a href="tel:800-999-8080" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">800 999 8080</a> y <a href="tel:555340-0999" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5340 0999</a> o en 
+                                            electr&oacute;nico:<a href="mailto:asesoria@condusef.gob.mx" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">asesoria@condusef.gob.mx</a>, tel&eacute;fono <a href="tel:8009998080" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">800 999 8080</a> y <a href="tel:5553400999" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5340 0999</a> o en 
                                             <a href="https://www.gob.mx/condusef" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">www.gob.mx/condusef</a>.
                                             <br>
                                             Ponemos a su disposici&oacute;n el contrato de Seguros a trav&eacute;s de RECAS el cual puede consultar en la siguiente 

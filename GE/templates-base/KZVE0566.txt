@@ -389,7 +389,7 @@
                                                         <a href="sFunApp" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: left;margin: 0;" >Usa la app sApp</p></a>
                                                     </td>
                                                     <td class="contacto2"  style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
-                                                        <a href="tel:551102-0038" target="_blank" style="text-decoration: none">
+                                                        <a href="tel:5511020038" target="_blank" style="text-decoration: none">
                                                             <p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">sTel_SegurosSalud</p></a>
                                                     </td>
                                                     <td class="contacto2" style="display: inline-block;padding: 0; width: 32%;" bgcolor="#ffffff">
@@ -482,9 +482,9 @@
 
                                                                 <br><br>
 
-                                                                Para asignaci&oacute;n de m&eacute;dico y citas llama al <a href="tel:55 5448 6744" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5448 6744</a> 
+                                                                Para asignaci&oacute;n de m&eacute;dico y citas llama al <a href="tel:5554486744" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5448 6744</a> 
                                                                 desde toda la Rep&uacute;blica Mexicana de lunes a viernes
-                                                                  de 8:00 a 18:00 h. Para asistencia de la Membres&iacute;a M&eacute;dica Exclusiva llama al <a href="tel:55 5448 6867" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5448 6867</a>, con atenci&oacute;n las 24 horas del d&iacute;a los 365 d&iacute;as del a&ntilde;o. 
+                                                                  de 8:00 a 18:00 h. Para asistencia de la Membres&iacute;a M&eacute;dica Exclusiva llama al <a href="tel:5554486867" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5448 6867</a>, con atenci&oacute;n las 24 horas del d&iacute;a los 365 d&iacute;as del a&ntilde;o. 
 
                                                     
                                                                 <br><br>

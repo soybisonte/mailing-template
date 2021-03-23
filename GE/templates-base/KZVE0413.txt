@@ -225,7 +225,7 @@
                                                     <a href="sFunApp" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: left;margin: 0;" >Usa la app sApp</p></a>
                                                 </td>
                                                 <td class="contacto2"  style="display: inline-block;padding: 0; width:32%;" bgcolor="#ffffff">
-                                                    <a href="tel:551102-0000" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">sNumeroSeguros</p></a>
+                                                    <a href="tel:5511020000" target="_blank" style="text-decoration: none"><p class="fuente contacto contacto3" style="color:#1973b8; text-align: center;margin: 0;">sNumeroSeguros</p></a>
                                                 </td>
 
                                                 <td class="contacto2" style="display: inline-block;padding: 0; width: 32%;" bgcolor="#ffffff">
@@ -307,8 +307,8 @@
                                                         <p class="fuente legal margin5" style="margin-left: 50px; margin-right: 50px; margin-top: 40px; margin-bottom: 0px;color:#666;font-size: 11px; line-height: 14px ;font-weight: 400;">
                                                             En caso de aclaraciones o reclamaciones contacta a la Unidad Especializada de Atenci&oacute;n a Clientes
                                                             (UNE) BBVA al tel&eacute;fono
-                                                            <a href="tel:551998-8039" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 1998 8039</a>
-                                                            y del interior de la Rep&uacute;blica al <a href="tel:800-112-2610" style="font-weight: bold; text-decoration: none; color:#1973B8;"
+                                                            <a href="tel:5519988039" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 1998 8039</a>
+                                                            y del interior de la Rep&uacute;blica al <a href="tel:800 112 2610" style="font-weight: bold; text-decoration: none; color:#1973B8;"
                                                             target="_blank">800 112 2610</a> o env&iacute;a un correo electr&oacute;nico a 
                                                             <a href="mailto:une.mx@bbva.com" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">une.mx@bbva.com</a>.
                                                             
@@ -320,8 +320,8 @@
                                                             Ju&aacute;rez, C.P. 03100, Ciudad de M&eacute;xico, correo electr&oacute;nico:
                                                             <a href="mailto:asesoria@condusef.gob.mx" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">asesoria@condusef.gob.mx</a>, 
                                                             tel&eacute;fono  
-                                                            <a href="tel:800-999-8080" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">800 999 8080</a> y
-                                                            <a href="tel:555340-0999" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5340 0999</a>
+                                                            <a href="tel:8009998080" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">800 999 8080</a> y
+                                                            <a href="tel:5553400999" style="font-weight: bold; text-decoration: none; color:#1973B8;" target="_blank">55 5340 0999</a>
                                                             o en
                                                             <a href="https://www.gob.mx/condusef"
                                                                 style="font-weight: bold; text-decoration: none; color:#1973B8;"
