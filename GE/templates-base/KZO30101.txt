@@ -581,12 +581,7 @@
                                                                 <td align="center">
                                                                     <p class="fuente font1 margin4"
                                                                         style="text-align: center;margin-left: 50px; margin-right: 50px; margin-top: 0px; margin-bottom: 40px;font-weight: 300;color:#121212!important;font-size: 11px; line-height: 14px ;text-decoration: none!important; ">
-                                                                        BBVA M&eacute;xico, S.A., Instituci&oacute;n de Banca
-                                                                        M&uacute;ltiple, Grupo Financiero BBVA M&eacute;xico.
-                                                                        Avenida Paseo de la Reforma 510, colonia
-                                                                        Ju&aacute;rez, c&oacute;digo postal 06600,
-                                                                        alcald&iacute;a Cuauht&eacute;moc, Ciudad de
-                                                                        M&eacute;xico.</p>
+                                                                        sDireccion</p>
                                                                 </td>
                                                             </tr>
                                                         </tbody>
